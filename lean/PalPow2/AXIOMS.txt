@@ -1,0 +1,60 @@
+'PalPow2.digits_of_admissible' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.admissible_of_binomialRep' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.binomialRep_bmin_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.bmin_eq_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.bmin_le_binomial' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.mersenne_of_isPal_even' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.admissible_sq_pred' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.bmin_sq_le' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.bmin_sq_ne' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.not_conjC' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.digits_two_pow_1600' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.isPal_two_pow_1600' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.beta_sq_eq' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.carry_lemma' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.isPal_iff_admissible' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.no_overflow' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.no_overflow'' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.overflow_le' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.overflow_small' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.reduction' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.conjB_iff_conjBeta' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.conjA_and_conjB_iff_conjBeta' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.conjBeta_iff_no_small_pal' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.conjAB_n_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.conjA_n_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.conjBeta_imp_conjD' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.conjBeta_imp_conjE' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.conjBeta_pal_bound' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.conjBeta_mersenne_binomial' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.conjBeta_no_overflow_pal' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.conjBeta_isPal_mersenne_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.conjBeta_iff_conjA_and_noOverflowPal' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.short_not_minimal' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.long_breaks_beta' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.admissible_lt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.admissible_of_window' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.beta_le' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.two_M_lt' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.sqrt_sqrt_spec' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.family_one_isPal' depends on axioms: [propext, Classical.choice, Quot.sound]
+'PalPow2.family_two_isPal' depends on axioms: [propext, Classical.choice, Quot.sound]
+@carry_lemma : ∀ {n x : ℕ}, 2 ≤ x → 2 ^ n < (2 ^ x - 1) ^ (n / x + 1) → IsPal (2 ^ x - 1) (2 ^ n) → Admissible n x
+@reduction : ∀ {n b : ℕ},
+  2 ≤ b →
+    b < 2 ^ beta n - 1 →
+      IsPal b (2 ^ n) →
+        (∀ (x : ℕ), b + 1 ≠ 2 ^ x) ∧ Odd (b.digits (2 ^ n)).length ∨
+          ∃ x, 2 ≤ x ∧ b = 2 ^ x - 1 ∧ (2 ^ x - 1) ^ (n / x + 1) ≤ 2 ^ n
+conjBeta_imp_conjD : ConjBeta → ConjD
+conjBeta_imp_conjE : ConjBeta → ConjE
+conjBeta_mersenne_binomial : ConjBeta → ∀ {n x : ℕ}, 2 ≤ x → 18 ≤ n → IsPal (2 ^ x - 1) (2 ^ n) → Admissible n x
+conjBeta_iff_conjA_and_noOverflowPal : ConjBeta ↔ ConjA ∧ NoOverflowPal
+conjBeta_no_overflow_pal : ConjBeta →
+  ∀ {n x : ℕ}, 2 ≤ x → (2 ^ x - 1) ^ (n / x + 1) ≤ 2 ^ n → ¬IsPal (2 ^ x - 1) (2 ^ n)
+beta_le : ∀ (n : ℕ), beta n ≤ n.sqrt + n.sqrt.sqrt + 2
+not_conjC : ¬ConjC
+[(1, 3, 2), (2, 3, 2), (3, 3, 2), (4, 3, 2), (5, 7, 3), (6, 7, 3), (7, 7, 3), (8, 15, 4), (9, 7, 3), (10, 7, 3),
+  (11, 31, 5), (12, 7, 3), (13, 15, 4), (14, 15, 4), (15, 31, 5), (16, 15, 4), (17, 15, 4), (18, 31, 5), (19, 63, 6),
+  (20, 15, 4), (21, 31, 5), (22, 31, 5), (23, 127, 7), (24, 63, 6), (25, 31, 5), (26, 31, 5), (27, 63, 6), (28, 127, 7),
+  (29, 127, 7), (30, 31, 5)]

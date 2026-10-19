@@ -1,0 +1,9164 @@
+PAL b=3 n=1
+PAL b=3 n=2
+PAL b=3 n=3
+PAL b=3 n=4
+BASE b=3 nmax=1000000 found=4 stage2cands=0 j1=10 j2=35
+PAL b=5 n=1
+PAL b=5 n=2
+BASE b=5 nmax=1000000 found=2 stage2cands=0 j1=6 j2=24
+PAL b=6 n=1
+PAL b=6 n=2
+BASE b=6 nmax=1000000 found=2 stage2cands=0 j1=6 j2=21
+PAL b=7 n=1
+PAL b=7 n=2
+PAL b=7 n=3
+PAL b=7 n=4
+PAL b=7 n=5
+PAL b=7 n=6
+PAL b=7 n=7
+PAL b=7 n=9
+PAL b=7 n=10
+PAL b=7 n=12
+BASE b=7 nmax=1000000 found=10 stage2cands=0 j1=5 j2=20
+PAL b=9 n=1
+PAL b=9 n=2
+PAL b=9 n=3
+BASE b=9 nmax=1000000 found=3 stage2cands=0 j1=5 j2=17
+PAL b=10 n=1
+PAL b=10 n=2
+PAL b=10 n=3
+BASE b=10 nmax=1000000 found=3 stage2cands=0 j1=4 j2=17
+PAL b=11 n=1
+PAL b=11 n=2
+PAL b=11 n=3
+BASE b=11 nmax=1000000 found=3 stage2cands=0 j1=4 j2=16
+PAL b=12 n=1
+PAL b=12 n=2
+PAL b=12 n=3
+BASE b=12 nmax=1000000 found=3 stage2cands=0 j1=4 j2=15
+PAL b=13 n=1
+PAL b=13 n=2
+PAL b=13 n=3
+BASE b=13 nmax=1000000 found=3 stage2cands=0 j1=4 j2=15
+PAL b=14 n=1
+PAL b=14 n=2
+PAL b=14 n=3
+BASE b=14 nmax=1000000 found=3 stage2cands=0 j1=4 j2=14
+PAL b=15 n=1
+PAL b=15 n=2
+PAL b=15 n=3
+PAL b=15 n=4
+PAL b=15 n=5
+PAL b=15 n=6
+PAL b=15 n=7
+PAL b=15 n=8
+PAL b=15 n=9
+PAL b=15 n=10
+PAL b=15 n=12
+PAL b=15 n=13
+PAL b=15 n=14
+PAL b=15 n=16
+PAL b=15 n=17
+PAL b=15 n=20
+BASE b=15 nmax=1000000 found=16 stage2cands=0 j1=4 j2=14
+PAL b=17 n=1
+PAL b=17 n=2
+PAL b=17 n=3
+PAL b=17 n=4
+BASE b=17 nmax=1000000 found=4 stage2cands=0 j1=3 j2=13
+PAL b=18 n=1
+PAL b=18 n=2
+PAL b=18 n=3
+PAL b=18 n=4
+BASE b=18 nmax=1000000 found=4 stage2cands=0 j1=3 j2=13
+PAL b=19 n=1
+PAL b=19 n=2
+PAL b=19 n=3
+PAL b=19 n=4
+PAL b=19 n=12
+BASE b=19 nmax=1000000 found=5 stage2cands=0 j1=3 j2=13
+PAL b=20 n=1
+PAL b=20 n=2
+PAL b=20 n=3
+PAL b=20 n=4
+BASE b=20 nmax=1000000 found=4 stage2cands=0 j1=3 j2=13
+PAL b=21 n=1
+PAL b=21 n=2
+PAL b=21 n=3
+PAL b=21 n=4
+BASE b=21 nmax=1000000 found=4 stage2cands=0 j1=3 j2=12
+PAL b=22 n=1
+PAL b=22 n=2
+PAL b=22 n=3
+PAL b=22 n=4
+BASE b=22 nmax=1000000 found=4 stage2cands=0 j1=3 j2=12
+PAL b=23 n=1
+PAL b=23 n=2
+PAL b=23 n=3
+PAL b=23 n=4
+BASE b=23 nmax=1000000 found=4 stage2cands=0 j1=3 j2=12
+PAL b=24 n=1
+PAL b=24 n=2
+PAL b=24 n=3
+PAL b=24 n=4
+BASE b=24 nmax=1000000 found=4 stage2cands=0 j1=3 j2=12
+PAL b=25 n=1
+PAL b=25 n=2
+PAL b=25 n=3
+PAL b=25 n=4
+BASE b=25 nmax=1000000 found=4 stage2cands=0 j1=3 j2=12
+PAL b=26 n=1
+PAL b=26 n=2
+PAL b=26 n=3
+PAL b=26 n=4
+BASE b=26 nmax=1000000 found=4 stage2cands=0 j1=3 j2=12
+PAL b=27 n=1
+PAL b=27 n=2
+PAL b=27 n=3
+PAL b=27 n=4
+PAL b=27 n=13
+PAL b=27 n=14
+BASE b=27 nmax=1000000 found=6 stage2cands=0 j1=3 j2=11
+PAL b=28 n=1
+PAL b=28 n=2
+PAL b=28 n=3
+PAL b=28 n=4
+BASE b=28 nmax=1000000 found=4 stage2cands=0 j1=3 j2=11
+PAL b=29 n=1
+PAL b=29 n=2
+PAL b=29 n=3
+PAL b=29 n=4
+BASE b=29 nmax=1000000 found=4 stage2cands=0 j1=3 j2=11
+PAL b=30 n=1
+PAL b=30 n=2
+PAL b=30 n=3
+PAL b=30 n=4
+BASE b=30 nmax=1000000 found=4 stage2cands=0 j1=3 j2=11
+PAL b=31 n=1
+PAL b=31 n=2
+PAL b=31 n=3
+PAL b=31 n=4
+PAL b=31 n=5
+PAL b=31 n=6
+PAL b=31 n=7
+PAL b=31 n=8
+PAL b=31 n=9
+PAL b=31 n=10
+PAL b=31 n=11
+PAL b=31 n=12
+PAL b=31 n=13
+PAL b=31 n=15
+PAL b=31 n=16
+PAL b=31 n=17
+PAL b=31 n=18
+PAL b=31 n=20
+PAL b=31 n=21
+PAL b=31 n=22
+PAL b=31 n=25
+PAL b=31 n=26
+PAL b=31 n=30
+BASE b=31 nmax=1000000 found=23 stage2cands=0 j1=3 j2=11
+PAL b=33 n=1
+PAL b=33 n=2
+PAL b=33 n=3
+PAL b=33 n=4
+PAL b=33 n=5
+BASE b=33 nmax=1000000 found=5 stage2cands=0 j1=3 j2=11
+PAL b=34 n=1
+PAL b=34 n=2
+PAL b=34 n=3
+PAL b=34 n=4
+PAL b=34 n=5
+BASE b=34 nmax=1000000 found=5 stage2cands=0 j1=3 j2=11
+PAL b=35 n=1
+PAL b=35 n=2
+PAL b=35 n=3
+PAL b=35 n=4
+PAL b=35 n=5
+BASE b=35 nmax=1000000 found=5 stage2cands=0 j1=3 j2=11
+PAL b=36 n=1
+PAL b=36 n=2
+PAL b=36 n=3
+PAL b=36 n=4
+PAL b=36 n=5
+BASE b=36 nmax=1000000 found=5 stage2cands=0 j1=3 j2=10
+PAL b=37 n=1
+PAL b=37 n=2
+PAL b=37 n=3
+PAL b=37 n=4
+PAL b=37 n=5
+PAL b=37 n=15
+BASE b=37 nmax=1000000 found=6 stage2cands=0 j1=3 j2=10
+PAL b=38 n=1
+PAL b=38 n=2
+PAL b=38 n=3
+PAL b=38 n=4
+PAL b=38 n=5
+BASE b=38 nmax=1000000 found=5 stage2cands=0 j1=3 j2=10
+PAL b=39 n=1
+PAL b=39 n=2
+PAL b=39 n=3
+PAL b=39 n=4
+PAL b=39 n=5
+BASE b=39 nmax=1000000 found=5 stage2cands=0 j1=3 j2=10
+PAL b=40 n=1
+PAL b=40 n=2
+PAL b=40 n=3
+PAL b=40 n=4
+PAL b=40 n=5
+BASE b=40 nmax=1000000 found=5 stage2cands=0 j1=3 j2=10
+PAL b=41 n=1
+PAL b=41 n=2
+PAL b=41 n=3
+PAL b=41 n=4
+PAL b=41 n=5
+BASE b=41 nmax=1000000 found=5 stage2cands=0 j1=2 j2=10
+PAL b=42 n=1
+PAL b=42 n=2
+PAL b=42 n=3
+PAL b=42 n=4
+PAL b=42 n=5
+BASE b=42 nmax=1000000 found=5 stage2cands=0 j1=2 j2=10
+PAL b=43 n=1
+PAL b=43 n=2
+PAL b=43 n=3
+PAL b=43 n=4
+PAL b=43 n=5
+BASE b=43 nmax=1000000 found=5 stage2cands=0 j1=2 j2=10
+PAL b=44 n=1
+PAL b=44 n=2
+PAL b=44 n=3
+PAL b=44 n=4
+PAL b=44 n=5
+BASE b=44 nmax=1000000 found=5 stage2cands=0 j1=2 j2=10
+PAL b=45 n=1
+PAL b=45 n=2
+PAL b=45 n=3
+PAL b=45 n=4
+PAL b=45 n=5
+BASE b=45 nmax=1000000 found=5 stage2cands=0 j1=2 j2=10
+PAL b=46 n=1
+PAL b=46 n=2
+PAL b=46 n=3
+PAL b=46 n=4
+PAL b=46 n=5
+BASE b=46 nmax=1000000 found=5 stage2cands=0 j1=2 j2=10
+PAL b=47 n=1
+PAL b=47 n=2
+PAL b=47 n=3
+PAL b=47 n=4
+PAL b=47 n=5
+BASE b=47 nmax=1000000 found=5 stage2cands=0 j1=2 j2=10
+PAL b=48 n=1
+PAL b=48 n=2
+PAL b=48 n=3
+PAL b=48 n=4
+PAL b=48 n=5
+BASE b=48 nmax=1000000 found=5 stage2cands=0 j1=2 j2=10
+PAL b=49 n=1
+PAL b=49 n=2
+PAL b=49 n=3
+PAL b=49 n=4
+PAL b=49 n=5
+BASE b=49 nmax=1000000 found=5 stage2cands=0 j1=2 j2=10
+PAL b=50 n=1
+PAL b=50 n=2
+PAL b=50 n=3
+PAL b=50 n=4
+PAL b=50 n=5
+BASE b=50 nmax=1000000 found=5 stage2cands=0 j1=2 j2=10
+PAL b=51 n=1
+PAL b=51 n=2
+PAL b=51 n=3
+PAL b=51 n=4
+PAL b=51 n=5
+BASE b=51 nmax=1000000 found=5 stage2cands=0 j1=2 j2=9
+PAL b=52 n=1
+PAL b=52 n=2
+PAL b=52 n=3
+PAL b=52 n=4
+PAL b=52 n=5
+BASE b=52 nmax=1000000 found=5 stage2cands=0 j1=2 j2=9
+PAL b=53 n=1
+PAL b=53 n=2
+PAL b=53 n=3
+PAL b=53 n=4
+PAL b=53 n=5
+BASE b=53 nmax=1000000 found=5 stage2cands=0 j1=2 j2=9
+PAL b=54 n=1
+PAL b=54 n=2
+PAL b=54 n=3
+PAL b=54 n=4
+PAL b=54 n=5
+BASE b=54 nmax=1000000 found=5 stage2cands=0 j1=2 j2=9
+PAL b=55 n=1
+PAL b=55 n=2
+PAL b=55 n=3
+PAL b=55 n=4
+PAL b=55 n=5
+BASE b=55 nmax=1000000 found=5 stage2cands=0 j1=2 j2=9
+PAL b=56 n=1
+PAL b=56 n=2
+PAL b=56 n=3
+PAL b=56 n=4
+PAL b=56 n=5
+BASE b=56 nmax=1000000 found=5 stage2cands=0 j1=2 j2=9
+PAL b=57 n=1
+PAL b=57 n=2
+PAL b=57 n=3
+PAL b=57 n=4
+PAL b=57 n=5
+BASE b=57 nmax=1000000 found=5 stage2cands=0 j1=2 j2=9
+PAL b=58 n=1
+PAL b=58 n=2
+PAL b=58 n=3
+PAL b=58 n=4
+PAL b=58 n=5
+BASE b=58 nmax=1000000 found=5 stage2cands=0 j1=2 j2=9
+PAL b=59 n=1
+PAL b=59 n=2
+PAL b=59 n=3
+PAL b=59 n=4
+PAL b=59 n=5
+BASE b=59 nmax=1000000 found=5 stage2cands=0 j1=2 j2=9
+PAL b=60 n=1
+PAL b=60 n=2
+PAL b=60 n=3
+PAL b=60 n=4
+PAL b=60 n=5
+PAL b=60 n=14
+BASE b=60 nmax=1000000 found=6 stage2cands=0 j1=2 j2=9
+PAL b=61 n=1
+PAL b=61 n=2
+PAL b=61 n=3
+PAL b=61 n=4
+PAL b=61 n=5
+BASE b=61 nmax=1000000 found=5 stage2cands=0 j1=2 j2=9
+PAL b=62 n=1
+PAL b=62 n=2
+PAL b=62 n=3
+PAL b=62 n=4
+PAL b=62 n=5
+BASE b=62 nmax=1000000 found=5 stage2cands=0 j1=2 j2=9
+PAL b=63 n=1
+PAL b=63 n=2
+PAL b=63 n=3
+PAL b=63 n=4
+PAL b=63 n=5
+PAL b=63 n=6
+PAL b=63 n=7
+PAL b=63 n=8
+PAL b=63 n=9
+PAL b=63 n=10
+PAL b=63 n=11
+PAL b=63 n=12
+PAL b=63 n=13
+PAL b=63 n=14
+PAL b=63 n=15
+PAL b=63 n=16
+PAL b=63 n=18
+PAL b=63 n=19
+PAL b=63 n=20
+PAL b=63 n=21
+PAL b=63 n=22
+PAL b=63 n=24
+PAL b=63 n=25
+PAL b=63 n=26
+PAL b=63 n=27
+PAL b=63 n=30
+PAL b=63 n=31
+PAL b=63 n=32
+PAL b=63 n=36
+PAL b=63 n=37
+PAL b=63 n=42
+BASE b=63 nmax=1000000 found=31 stage2cands=0 j1=2 j2=9
+PAL b=65 n=1
+PAL b=65 n=2
+PAL b=65 n=3
+PAL b=65 n=4
+PAL b=65 n=5
+PAL b=65 n=6
+BASE b=65 nmax=1000000 found=6 stage2cands=0 j1=2 j2=9
+PAL b=66 n=1
+PAL b=66 n=2
+PAL b=66 n=3
+PAL b=66 n=4
+PAL b=66 n=5
+PAL b=66 n=6
+BASE b=66 nmax=1000000 found=6 stage2cands=0 j1=2 j2=9
+PAL b=67 n=1
+PAL b=67 n=2
+PAL b=67 n=3
+PAL b=67 n=4
+PAL b=67 n=5
+PAL b=67 n=6
+BASE b=67 nmax=1000000 found=6 stage2cands=0 j1=2 j2=9
+PAL b=68 n=1
+PAL b=68 n=2
+PAL b=68 n=3
+PAL b=68 n=4
+PAL b=68 n=5
+PAL b=68 n=6
+BASE b=68 nmax=1000000 found=6 stage2cands=0 j1=2 j2=9
+PAL b=69 n=1
+PAL b=69 n=2
+PAL b=69 n=3
+PAL b=69 n=4
+PAL b=69 n=5
+PAL b=69 n=6
+BASE b=69 nmax=1000000 found=6 stage2cands=0 j1=2 j2=9
+PAL b=70 n=1
+PAL b=70 n=2
+PAL b=70 n=3
+PAL b=70 n=4
+PAL b=70 n=5
+PAL b=70 n=6
+BASE b=70 nmax=1000000 found=6 stage2cands=0 j1=2 j2=9
+PAL b=71 n=1
+PAL b=71 n=2
+PAL b=71 n=3
+PAL b=71 n=4
+PAL b=71 n=5
+PAL b=71 n=6
+BASE b=71 nmax=1000000 found=6 stage2cands=0 j1=2 j2=9
+PAL b=72 n=1
+PAL b=72 n=2
+PAL b=72 n=3
+PAL b=72 n=4
+PAL b=72 n=5
+PAL b=72 n=6
+BASE b=72 nmax=1000000 found=6 stage2cands=0 j1=2 j2=9
+PAL b=73 n=1
+PAL b=73 n=2
+PAL b=73 n=3
+PAL b=73 n=4
+PAL b=73 n=5
+PAL b=73 n=6
+BASE b=73 nmax=1000000 found=6 stage2cands=0 j1=2 j2=9
+PAL b=74 n=1
+PAL b=74 n=2
+PAL b=74 n=3
+PAL b=74 n=4
+PAL b=74 n=5
+PAL b=74 n=6
+BASE b=74 nmax=1000000 found=6 stage2cands=0 j1=2 j2=9
+PAL b=75 n=1
+PAL b=75 n=2
+PAL b=75 n=3
+PAL b=75 n=4
+PAL b=75 n=5
+PAL b=75 n=6
+BASE b=75 nmax=1000000 found=6 stage2cands=0 j1=2 j2=9
+PAL b=76 n=1
+PAL b=76 n=2
+PAL b=76 n=3
+PAL b=76 n=4
+PAL b=76 n=5
+PAL b=76 n=6
+BASE b=76 nmax=1000000 found=6 stage2cands=0 j1=2 j2=9
+PAL b=77 n=1
+PAL b=77 n=2
+PAL b=77 n=3
+PAL b=77 n=4
+PAL b=77 n=5
+PAL b=77 n=6
+BASE b=77 nmax=1000000 found=6 stage2cands=0 j1=2 j2=9
+PAL b=78 n=1
+PAL b=78 n=2
+PAL b=78 n=3
+PAL b=78 n=4
+PAL b=78 n=5
+PAL b=78 n=6
+BASE b=78 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=79 n=1
+PAL b=79 n=2
+PAL b=79 n=3
+PAL b=79 n=4
+PAL b=79 n=5
+PAL b=79 n=6
+BASE b=79 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=80 n=1
+PAL b=80 n=2
+PAL b=80 n=3
+PAL b=80 n=4
+PAL b=80 n=5
+PAL b=80 n=6
+BASE b=80 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=81 n=1
+PAL b=81 n=2
+PAL b=81 n=3
+PAL b=81 n=4
+PAL b=81 n=5
+PAL b=81 n=6
+BASE b=81 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=82 n=1
+PAL b=82 n=2
+PAL b=82 n=3
+PAL b=82 n=4
+PAL b=82 n=5
+PAL b=82 n=6
+BASE b=82 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=83 n=1
+PAL b=83 n=2
+PAL b=83 n=3
+PAL b=83 n=4
+PAL b=83 n=5
+PAL b=83 n=6
+BASE b=83 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=84 n=1
+PAL b=84 n=2
+PAL b=84 n=3
+PAL b=84 n=4
+PAL b=84 n=5
+PAL b=84 n=6
+BASE b=84 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=85 n=1
+PAL b=85 n=2
+PAL b=85 n=3
+PAL b=85 n=4
+PAL b=85 n=5
+PAL b=85 n=6
+BASE b=85 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=86 n=1
+PAL b=86 n=2
+PAL b=86 n=3
+PAL b=86 n=4
+PAL b=86 n=5
+PAL b=86 n=6
+BASE b=86 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=87 n=1
+PAL b=87 n=2
+PAL b=87 n=3
+PAL b=87 n=4
+PAL b=87 n=5
+PAL b=87 n=6
+BASE b=87 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=88 n=1
+PAL b=88 n=2
+PAL b=88 n=3
+PAL b=88 n=4
+PAL b=88 n=5
+PAL b=88 n=6
+BASE b=88 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=89 n=1
+PAL b=89 n=2
+PAL b=89 n=3
+PAL b=89 n=4
+PAL b=89 n=5
+PAL b=89 n=6
+BASE b=89 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=90 n=1
+PAL b=90 n=2
+PAL b=90 n=3
+PAL b=90 n=4
+PAL b=90 n=5
+PAL b=90 n=6
+BASE b=90 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=91 n=1
+PAL b=91 n=2
+PAL b=91 n=3
+PAL b=91 n=4
+PAL b=91 n=5
+PAL b=91 n=6
+BASE b=91 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=92 n=1
+PAL b=92 n=2
+PAL b=92 n=3
+PAL b=92 n=4
+PAL b=92 n=5
+PAL b=92 n=6
+BASE b=92 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=93 n=1
+PAL b=93 n=2
+PAL b=93 n=3
+PAL b=93 n=4
+PAL b=93 n=5
+PAL b=93 n=6
+BASE b=93 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=94 n=1
+PAL b=94 n=2
+PAL b=94 n=3
+PAL b=94 n=4
+PAL b=94 n=5
+PAL b=94 n=6
+BASE b=94 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=95 n=1
+PAL b=95 n=2
+PAL b=95 n=3
+PAL b=95 n=4
+PAL b=95 n=5
+PAL b=95 n=6
+BASE b=95 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=96 n=1
+PAL b=96 n=2
+PAL b=96 n=3
+PAL b=96 n=4
+PAL b=96 n=5
+PAL b=96 n=6
+BASE b=96 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=97 n=1
+PAL b=97 n=2
+PAL b=97 n=3
+PAL b=97 n=4
+PAL b=97 n=5
+PAL b=97 n=6
+BASE b=97 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=98 n=1
+PAL b=98 n=2
+PAL b=98 n=3
+PAL b=98 n=4
+PAL b=98 n=5
+PAL b=98 n=6
+BASE b=98 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=99 n=1
+PAL b=99 n=2
+PAL b=99 n=3
+PAL b=99 n=4
+PAL b=99 n=5
+PAL b=99 n=6
+BASE b=99 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=100 n=1
+PAL b=100 n=2
+PAL b=100 n=3
+PAL b=100 n=4
+PAL b=100 n=5
+PAL b=100 n=6
+BASE b=100 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=101 n=1
+PAL b=101 n=2
+PAL b=101 n=3
+PAL b=101 n=4
+PAL b=101 n=5
+PAL b=101 n=6
+BASE b=101 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=102 n=1
+PAL b=102 n=2
+PAL b=102 n=3
+PAL b=102 n=4
+PAL b=102 n=5
+PAL b=102 n=6
+BASE b=102 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=103 n=1
+PAL b=103 n=2
+PAL b=103 n=3
+PAL b=103 n=4
+PAL b=103 n=5
+PAL b=103 n=6
+BASE b=103 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=104 n=1
+PAL b=104 n=2
+PAL b=104 n=3
+PAL b=104 n=4
+PAL b=104 n=5
+PAL b=104 n=6
+BASE b=104 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=105 n=1
+PAL b=105 n=2
+PAL b=105 n=3
+PAL b=105 n=4
+PAL b=105 n=5
+PAL b=105 n=6
+BASE b=105 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=106 n=1
+PAL b=106 n=2
+PAL b=106 n=3
+PAL b=106 n=4
+PAL b=106 n=5
+PAL b=106 n=6
+BASE b=106 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=107 n=1
+PAL b=107 n=2
+PAL b=107 n=3
+PAL b=107 n=4
+PAL b=107 n=5
+PAL b=107 n=6
+BASE b=107 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=108 n=1
+PAL b=108 n=2
+PAL b=108 n=3
+PAL b=108 n=4
+PAL b=108 n=5
+PAL b=108 n=6
+BASE b=108 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=109 n=1
+PAL b=109 n=2
+PAL b=109 n=3
+PAL b=109 n=4
+PAL b=109 n=5
+PAL b=109 n=6
+BASE b=109 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=110 n=1
+PAL b=110 n=2
+PAL b=110 n=3
+PAL b=110 n=4
+PAL b=110 n=5
+PAL b=110 n=6
+BASE b=110 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=111 n=1
+PAL b=111 n=2
+PAL b=111 n=3
+PAL b=111 n=4
+PAL b=111 n=5
+PAL b=111 n=6
+BASE b=111 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=112 n=1
+PAL b=112 n=2
+PAL b=112 n=3
+PAL b=112 n=4
+PAL b=112 n=5
+PAL b=112 n=6
+BASE b=112 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=113 n=1
+PAL b=113 n=2
+PAL b=113 n=3
+PAL b=113 n=4
+PAL b=113 n=5
+PAL b=113 n=6
+BASE b=113 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=114 n=1
+PAL b=114 n=2
+PAL b=114 n=3
+PAL b=114 n=4
+PAL b=114 n=5
+PAL b=114 n=6
+BASE b=114 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=115 n=1
+PAL b=115 n=2
+PAL b=115 n=3
+PAL b=115 n=4
+PAL b=115 n=5
+PAL b=115 n=6
+BASE b=115 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=116 n=1
+PAL b=116 n=2
+PAL b=116 n=3
+PAL b=116 n=4
+PAL b=116 n=5
+PAL b=116 n=6
+BASE b=116 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=117 n=1
+PAL b=117 n=2
+PAL b=117 n=3
+PAL b=117 n=4
+PAL b=117 n=5
+PAL b=117 n=6
+BASE b=117 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=118 n=1
+PAL b=118 n=2
+PAL b=118 n=3
+PAL b=118 n=4
+PAL b=118 n=5
+PAL b=118 n=6
+BASE b=118 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=119 n=1
+PAL b=119 n=2
+PAL b=119 n=3
+PAL b=119 n=4
+PAL b=119 n=5
+PAL b=119 n=6
+BASE b=119 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=120 n=1
+PAL b=120 n=2
+PAL b=120 n=3
+PAL b=120 n=4
+PAL b=120 n=5
+PAL b=120 n=6
+BASE b=120 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=121 n=1
+PAL b=121 n=2
+PAL b=121 n=3
+PAL b=121 n=4
+PAL b=121 n=5
+PAL b=121 n=6
+BASE b=121 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=122 n=1
+PAL b=122 n=2
+PAL b=122 n=3
+PAL b=122 n=4
+PAL b=122 n=5
+PAL b=122 n=6
+BASE b=122 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=123 n=1
+PAL b=123 n=2
+PAL b=123 n=3
+PAL b=123 n=4
+PAL b=123 n=5
+PAL b=123 n=6
+BASE b=123 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=124 n=1
+PAL b=124 n=2
+PAL b=124 n=3
+PAL b=124 n=4
+PAL b=124 n=5
+PAL b=124 n=6
+BASE b=124 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=125 n=1
+PAL b=125 n=2
+PAL b=125 n=3
+PAL b=125 n=4
+PAL b=125 n=5
+PAL b=125 n=6
+BASE b=125 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=126 n=1
+PAL b=126 n=2
+PAL b=126 n=3
+PAL b=126 n=4
+PAL b=126 n=5
+PAL b=126 n=6
+BASE b=126 nmax=1000000 found=6 stage2cands=0 j1=2 j2=8
+PAL b=127 n=1
+PAL b=127 n=2
+PAL b=127 n=3
+PAL b=127 n=4
+PAL b=127 n=5
+PAL b=127 n=6
+PAL b=127 n=7
+PAL b=127 n=8
+PAL b=127 n=9
+PAL b=127 n=10
+PAL b=127 n=11
+PAL b=127 n=12
+PAL b=127 n=13
+PAL b=127 n=14
+PAL b=127 n=15
+PAL b=127 n=16
+PAL b=127 n=17
+PAL b=127 n=18
+PAL b=127 n=19
+PAL b=127 n=21
+PAL b=127 n=22
+PAL b=127 n=23
+PAL b=127 n=24
+PAL b=127 n=25
+PAL b=127 n=26
+PAL b=127 n=28
+PAL b=127 n=29
+PAL b=127 n=30
+PAL b=127 n=31
+PAL b=127 n=32
+PAL b=127 n=35
+PAL b=127 n=36
+PAL b=127 n=37
+PAL b=127 n=38
+PAL b=127 n=42
+PAL b=127 n=43
+PAL b=127 n=44
+PAL b=127 n=49
+PAL b=127 n=50
+PAL b=127 n=56
+PAL b=127 n=63
+BASE b=127 nmax=1000000 found=41 stage2cands=0 j1=2 j2=8
+PAL b=129 n=1
+PAL b=129 n=2
+PAL b=129 n=3
+PAL b=129 n=4
+PAL b=129 n=5
+PAL b=129 n=6
+PAL b=129 n=7
+BASE b=129 nmax=1000000 found=7 stage2cands=0 j1=2 j2=8
+PAL b=130 n=1
+PAL b=130 n=2
+PAL b=130 n=3
+PAL b=130 n=4
+PAL b=130 n=5
+PAL b=130 n=6
+PAL b=130 n=7
+BASE b=130 nmax=1000000 found=7 stage2cands=0 j1=2 j2=8
+PAL b=131 n=1
+PAL b=131 n=2
+PAL b=131 n=3
+PAL b=131 n=4
+PAL b=131 n=5
+PAL b=131 n=6
+PAL b=131 n=7
+BASE b=131 nmax=1000000 found=7 stage2cands=0 j1=2 j2=8
+PAL b=132 n=1
+PAL b=132 n=2
+PAL b=132 n=3
+PAL b=132 n=4
+PAL b=132 n=5
+PAL b=132 n=6
+PAL b=132 n=7
+BASE b=132 nmax=1000000 found=7 stage2cands=0 j1=2 j2=8
+PAL b=133 n=1
+PAL b=133 n=2
+PAL b=133 n=3
+PAL b=133 n=4
+PAL b=133 n=5
+PAL b=133 n=6
+PAL b=133 n=7
+BASE b=133 nmax=1000000 found=7 stage2cands=0 j1=2 j2=8
+PAL b=134 n=1
+PAL b=134 n=2
+PAL b=134 n=3
+PAL b=134 n=4
+PAL b=134 n=5
+PAL b=134 n=6
+PAL b=134 n=7
+BASE b=134 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=135 n=1
+PAL b=135 n=2
+PAL b=135 n=3
+PAL b=135 n=4
+PAL b=135 n=5
+PAL b=135 n=6
+PAL b=135 n=7
+BASE b=135 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=136 n=1
+PAL b=136 n=2
+PAL b=136 n=3
+PAL b=136 n=4
+PAL b=136 n=5
+PAL b=136 n=6
+PAL b=136 n=7
+BASE b=136 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=137 n=1
+PAL b=137 n=2
+PAL b=137 n=3
+PAL b=137 n=4
+PAL b=137 n=5
+PAL b=137 n=6
+PAL b=137 n=7
+BASE b=137 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=138 n=1
+PAL b=138 n=2
+PAL b=138 n=3
+PAL b=138 n=4
+PAL b=138 n=5
+PAL b=138 n=6
+PAL b=138 n=7
+BASE b=138 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=139 n=1
+PAL b=139 n=2
+PAL b=139 n=3
+PAL b=139 n=4
+PAL b=139 n=5
+PAL b=139 n=6
+PAL b=139 n=7
+BASE b=139 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=140 n=1
+PAL b=140 n=2
+PAL b=140 n=3
+PAL b=140 n=4
+PAL b=140 n=5
+PAL b=140 n=6
+PAL b=140 n=7
+BASE b=140 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=141 n=1
+PAL b=141 n=2
+PAL b=141 n=3
+PAL b=141 n=4
+PAL b=141 n=5
+PAL b=141 n=6
+PAL b=141 n=7
+BASE b=141 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=142 n=1
+PAL b=142 n=2
+PAL b=142 n=3
+PAL b=142 n=4
+PAL b=142 n=5
+PAL b=142 n=6
+PAL b=142 n=7
+PAL b=142 n=17
+BASE b=142 nmax=1000000 found=8 stage2cands=0 j1=2 j2=7
+PAL b=143 n=1
+PAL b=143 n=2
+PAL b=143 n=3
+PAL b=143 n=4
+PAL b=143 n=5
+PAL b=143 n=6
+PAL b=143 n=7
+BASE b=143 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=144 n=1
+PAL b=144 n=2
+PAL b=144 n=3
+PAL b=144 n=4
+PAL b=144 n=5
+PAL b=144 n=6
+PAL b=144 n=7
+BASE b=144 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=145 n=1
+PAL b=145 n=2
+PAL b=145 n=3
+PAL b=145 n=4
+PAL b=145 n=5
+PAL b=145 n=6
+PAL b=145 n=7
+BASE b=145 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=146 n=1
+PAL b=146 n=2
+PAL b=146 n=3
+PAL b=146 n=4
+PAL b=146 n=5
+PAL b=146 n=6
+PAL b=146 n=7
+BASE b=146 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=147 n=1
+PAL b=147 n=2
+PAL b=147 n=3
+PAL b=147 n=4
+PAL b=147 n=5
+PAL b=147 n=6
+PAL b=147 n=7
+BASE b=147 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=148 n=1
+PAL b=148 n=2
+PAL b=148 n=3
+PAL b=148 n=4
+PAL b=148 n=5
+PAL b=148 n=6
+PAL b=148 n=7
+BASE b=148 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=149 n=1
+PAL b=149 n=2
+PAL b=149 n=3
+PAL b=149 n=4
+PAL b=149 n=5
+PAL b=149 n=6
+PAL b=149 n=7
+BASE b=149 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=150 n=1
+PAL b=150 n=2
+PAL b=150 n=3
+PAL b=150 n=4
+PAL b=150 n=5
+PAL b=150 n=6
+PAL b=150 n=7
+BASE b=150 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=151 n=1
+PAL b=151 n=2
+PAL b=151 n=3
+PAL b=151 n=4
+PAL b=151 n=5
+PAL b=151 n=6
+PAL b=151 n=7
+PAL b=151 n=15
+PAL b=151 n=16
+BASE b=151 nmax=1000000 found=9 stage2cands=0 j1=2 j2=7
+PAL b=152 n=1
+PAL b=152 n=2
+PAL b=152 n=3
+PAL b=152 n=4
+PAL b=152 n=5
+PAL b=152 n=6
+PAL b=152 n=7
+BASE b=152 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=153 n=1
+PAL b=153 n=2
+PAL b=153 n=3
+PAL b=153 n=4
+PAL b=153 n=5
+PAL b=153 n=6
+PAL b=153 n=7
+BASE b=153 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=154 n=1
+PAL b=154 n=2
+PAL b=154 n=3
+PAL b=154 n=4
+PAL b=154 n=5
+PAL b=154 n=6
+PAL b=154 n=7
+BASE b=154 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=155 n=1
+PAL b=155 n=2
+PAL b=155 n=3
+PAL b=155 n=4
+PAL b=155 n=5
+PAL b=155 n=6
+PAL b=155 n=7
+BASE b=155 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=156 n=1
+PAL b=156 n=2
+PAL b=156 n=3
+PAL b=156 n=4
+PAL b=156 n=5
+PAL b=156 n=6
+PAL b=156 n=7
+BASE b=156 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=157 n=1
+PAL b=157 n=2
+PAL b=157 n=3
+PAL b=157 n=4
+PAL b=157 n=5
+PAL b=157 n=6
+PAL b=157 n=7
+BASE b=157 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=158 n=1
+PAL b=158 n=2
+PAL b=158 n=3
+PAL b=158 n=4
+PAL b=158 n=5
+PAL b=158 n=6
+PAL b=158 n=7
+BASE b=158 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=159 n=1
+PAL b=159 n=2
+PAL b=159 n=3
+PAL b=159 n=4
+PAL b=159 n=5
+PAL b=159 n=6
+PAL b=159 n=7
+BASE b=159 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=160 n=1
+PAL b=160 n=2
+PAL b=160 n=3
+PAL b=160 n=4
+PAL b=160 n=5
+PAL b=160 n=6
+PAL b=160 n=7
+BASE b=160 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=161 n=1
+PAL b=161 n=2
+PAL b=161 n=3
+PAL b=161 n=4
+PAL b=161 n=5
+PAL b=161 n=6
+PAL b=161 n=7
+BASE b=161 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=162 n=1
+PAL b=162 n=2
+PAL b=162 n=3
+PAL b=162 n=4
+PAL b=162 n=5
+PAL b=162 n=6
+PAL b=162 n=7
+BASE b=162 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=163 n=1
+PAL b=163 n=2
+PAL b=163 n=3
+PAL b=163 n=4
+PAL b=163 n=5
+PAL b=163 n=6
+PAL b=163 n=7
+BASE b=163 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=164 n=1
+PAL b=164 n=2
+PAL b=164 n=3
+PAL b=164 n=4
+PAL b=164 n=5
+PAL b=164 n=6
+PAL b=164 n=7
+BASE b=164 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=165 n=1
+PAL b=165 n=2
+PAL b=165 n=3
+PAL b=165 n=4
+PAL b=165 n=5
+PAL b=165 n=6
+PAL b=165 n=7
+BASE b=165 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=166 n=1
+PAL b=166 n=2
+PAL b=166 n=3
+PAL b=166 n=4
+PAL b=166 n=5
+PAL b=166 n=6
+PAL b=166 n=7
+BASE b=166 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=167 n=1
+PAL b=167 n=2
+PAL b=167 n=3
+PAL b=167 n=4
+PAL b=167 n=5
+PAL b=167 n=6
+PAL b=167 n=7
+BASE b=167 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=168 n=1
+PAL b=168 n=2
+PAL b=168 n=3
+PAL b=168 n=4
+PAL b=168 n=5
+PAL b=168 n=6
+PAL b=168 n=7
+BASE b=168 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=169 n=1
+PAL b=169 n=2
+PAL b=169 n=3
+PAL b=169 n=4
+PAL b=169 n=5
+PAL b=169 n=6
+PAL b=169 n=7
+BASE b=169 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=170 n=1
+PAL b=170 n=2
+PAL b=170 n=3
+PAL b=170 n=4
+PAL b=170 n=5
+PAL b=170 n=6
+PAL b=170 n=7
+BASE b=170 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=171 n=1
+PAL b=171 n=2
+PAL b=171 n=3
+PAL b=171 n=4
+PAL b=171 n=5
+PAL b=171 n=6
+PAL b=171 n=7
+BASE b=171 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=172 n=1
+PAL b=172 n=2
+PAL b=172 n=3
+PAL b=172 n=4
+PAL b=172 n=5
+PAL b=172 n=6
+PAL b=172 n=7
+BASE b=172 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=173 n=1
+PAL b=173 n=2
+PAL b=173 n=3
+PAL b=173 n=4
+PAL b=173 n=5
+PAL b=173 n=6
+PAL b=173 n=7
+BASE b=173 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=174 n=1
+PAL b=174 n=2
+PAL b=174 n=3
+PAL b=174 n=4
+PAL b=174 n=5
+PAL b=174 n=6
+PAL b=174 n=7
+BASE b=174 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=175 n=1
+PAL b=175 n=2
+PAL b=175 n=3
+PAL b=175 n=4
+PAL b=175 n=5
+PAL b=175 n=6
+PAL b=175 n=7
+BASE b=175 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=176 n=1
+PAL b=176 n=2
+PAL b=176 n=3
+PAL b=176 n=4
+PAL b=176 n=5
+PAL b=176 n=6
+PAL b=176 n=7
+BASE b=176 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=177 n=1
+PAL b=177 n=2
+PAL b=177 n=3
+PAL b=177 n=4
+PAL b=177 n=5
+PAL b=177 n=6
+PAL b=177 n=7
+BASE b=177 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=178 n=1
+PAL b=178 n=2
+PAL b=178 n=3
+PAL b=178 n=4
+PAL b=178 n=5
+PAL b=178 n=6
+PAL b=178 n=7
+BASE b=178 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=179 n=1
+PAL b=179 n=2
+PAL b=179 n=3
+PAL b=179 n=4
+PAL b=179 n=5
+PAL b=179 n=6
+PAL b=179 n=7
+BASE b=179 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=180 n=1
+PAL b=180 n=2
+PAL b=180 n=3
+PAL b=180 n=4
+PAL b=180 n=5
+PAL b=180 n=6
+PAL b=180 n=7
+BASE b=180 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=181 n=1
+PAL b=181 n=2
+PAL b=181 n=3
+PAL b=181 n=4
+PAL b=181 n=5
+PAL b=181 n=6
+PAL b=181 n=7
+BASE b=181 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=182 n=1
+PAL b=182 n=2
+PAL b=182 n=3
+PAL b=182 n=4
+PAL b=182 n=5
+PAL b=182 n=6
+PAL b=182 n=7
+BASE b=182 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=183 n=1
+PAL b=183 n=2
+PAL b=183 n=3
+PAL b=183 n=4
+PAL b=183 n=5
+PAL b=183 n=6
+PAL b=183 n=7
+BASE b=183 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=184 n=1
+PAL b=184 n=2
+PAL b=184 n=3
+PAL b=184 n=4
+PAL b=184 n=5
+PAL b=184 n=6
+PAL b=184 n=7
+BASE b=184 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=185 n=1
+PAL b=185 n=2
+PAL b=185 n=3
+PAL b=185 n=4
+PAL b=185 n=5
+PAL b=185 n=6
+PAL b=185 n=7
+BASE b=185 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=186 n=1
+PAL b=186 n=2
+PAL b=186 n=3
+PAL b=186 n=4
+PAL b=186 n=5
+PAL b=186 n=6
+PAL b=186 n=7
+BASE b=186 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=187 n=1
+PAL b=187 n=2
+PAL b=187 n=3
+PAL b=187 n=4
+PAL b=187 n=5
+PAL b=187 n=6
+PAL b=187 n=7
+BASE b=187 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=188 n=1
+PAL b=188 n=2
+PAL b=188 n=3
+PAL b=188 n=4
+PAL b=188 n=5
+PAL b=188 n=6
+PAL b=188 n=7
+BASE b=188 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=189 n=1
+PAL b=189 n=2
+PAL b=189 n=3
+PAL b=189 n=4
+PAL b=189 n=5
+PAL b=189 n=6
+PAL b=189 n=7
+BASE b=189 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=190 n=1
+PAL b=190 n=2
+PAL b=190 n=3
+PAL b=190 n=4
+PAL b=190 n=5
+PAL b=190 n=6
+PAL b=190 n=7
+BASE b=190 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=191 n=1
+PAL b=191 n=2
+PAL b=191 n=3
+PAL b=191 n=4
+PAL b=191 n=5
+PAL b=191 n=6
+PAL b=191 n=7
+BASE b=191 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=192 n=1
+PAL b=192 n=2
+PAL b=192 n=3
+PAL b=192 n=4
+PAL b=192 n=5
+PAL b=192 n=6
+PAL b=192 n=7
+BASE b=192 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=193 n=1
+PAL b=193 n=2
+PAL b=193 n=3
+PAL b=193 n=4
+PAL b=193 n=5
+PAL b=193 n=6
+PAL b=193 n=7
+BASE b=193 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=194 n=1
+PAL b=194 n=2
+PAL b=194 n=3
+PAL b=194 n=4
+PAL b=194 n=5
+PAL b=194 n=6
+PAL b=194 n=7
+BASE b=194 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=195 n=1
+PAL b=195 n=2
+PAL b=195 n=3
+PAL b=195 n=4
+PAL b=195 n=5
+PAL b=195 n=6
+PAL b=195 n=7
+BASE b=195 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=196 n=1
+PAL b=196 n=2
+PAL b=196 n=3
+PAL b=196 n=4
+PAL b=196 n=5
+PAL b=196 n=6
+PAL b=196 n=7
+BASE b=196 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=197 n=1
+PAL b=197 n=2
+PAL b=197 n=3
+PAL b=197 n=4
+PAL b=197 n=5
+PAL b=197 n=6
+PAL b=197 n=7
+BASE b=197 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=198 n=1
+PAL b=198 n=2
+PAL b=198 n=3
+PAL b=198 n=4
+PAL b=198 n=5
+PAL b=198 n=6
+PAL b=198 n=7
+BASE b=198 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=199 n=1
+PAL b=199 n=2
+PAL b=199 n=3
+PAL b=199 n=4
+PAL b=199 n=5
+PAL b=199 n=6
+PAL b=199 n=7
+BASE b=199 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=200 n=1
+PAL b=200 n=2
+PAL b=200 n=3
+PAL b=200 n=4
+PAL b=200 n=5
+PAL b=200 n=6
+PAL b=200 n=7
+PAL b=200 n=22
+BASE b=200 nmax=1000000 found=8 stage2cands=0 j1=2 j2=7
+PAL b=201 n=1
+PAL b=201 n=2
+PAL b=201 n=3
+PAL b=201 n=4
+PAL b=201 n=5
+PAL b=201 n=6
+PAL b=201 n=7
+BASE b=201 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=202 n=1
+PAL b=202 n=2
+PAL b=202 n=3
+PAL b=202 n=4
+PAL b=202 n=5
+PAL b=202 n=6
+PAL b=202 n=7
+BASE b=202 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=203 n=1
+PAL b=203 n=2
+PAL b=203 n=3
+PAL b=203 n=4
+PAL b=203 n=5
+PAL b=203 n=6
+PAL b=203 n=7
+BASE b=203 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=204 n=1
+PAL b=204 n=2
+PAL b=204 n=3
+PAL b=204 n=4
+PAL b=204 n=5
+PAL b=204 n=6
+PAL b=204 n=7
+BASE b=204 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=205 n=1
+PAL b=205 n=2
+PAL b=205 n=3
+PAL b=205 n=4
+PAL b=205 n=5
+PAL b=205 n=6
+PAL b=205 n=7
+BASE b=205 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=206 n=1
+PAL b=206 n=2
+PAL b=206 n=3
+PAL b=206 n=4
+PAL b=206 n=5
+PAL b=206 n=6
+PAL b=206 n=7
+BASE b=206 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=207 n=1
+PAL b=207 n=2
+PAL b=207 n=3
+PAL b=207 n=4
+PAL b=207 n=5
+PAL b=207 n=6
+PAL b=207 n=7
+BASE b=207 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=208 n=1
+PAL b=208 n=2
+PAL b=208 n=3
+PAL b=208 n=4
+PAL b=208 n=5
+PAL b=208 n=6
+PAL b=208 n=7
+BASE b=208 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=209 n=1
+PAL b=209 n=2
+PAL b=209 n=3
+PAL b=209 n=4
+PAL b=209 n=5
+PAL b=209 n=6
+PAL b=209 n=7
+BASE b=209 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=210 n=1
+PAL b=210 n=2
+PAL b=210 n=3
+PAL b=210 n=4
+PAL b=210 n=5
+PAL b=210 n=6
+PAL b=210 n=7
+BASE b=210 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=211 n=1
+PAL b=211 n=2
+PAL b=211 n=3
+PAL b=211 n=4
+PAL b=211 n=5
+PAL b=211 n=6
+PAL b=211 n=7
+BASE b=211 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=212 n=1
+PAL b=212 n=2
+PAL b=212 n=3
+PAL b=212 n=4
+PAL b=212 n=5
+PAL b=212 n=6
+PAL b=212 n=7
+BASE b=212 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=213 n=1
+PAL b=213 n=2
+PAL b=213 n=3
+PAL b=213 n=4
+PAL b=213 n=5
+PAL b=213 n=6
+PAL b=213 n=7
+BASE b=213 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=214 n=1
+PAL b=214 n=2
+PAL b=214 n=3
+PAL b=214 n=4
+PAL b=214 n=5
+PAL b=214 n=6
+PAL b=214 n=7
+BASE b=214 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=215 n=1
+PAL b=215 n=2
+PAL b=215 n=3
+PAL b=215 n=4
+PAL b=215 n=5
+PAL b=215 n=6
+PAL b=215 n=7
+BASE b=215 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=216 n=1
+PAL b=216 n=2
+PAL b=216 n=3
+PAL b=216 n=4
+PAL b=216 n=5
+PAL b=216 n=6
+PAL b=216 n=7
+BASE b=216 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=217 n=1
+PAL b=217 n=2
+PAL b=217 n=3
+PAL b=217 n=4
+PAL b=217 n=5
+PAL b=217 n=6
+PAL b=217 n=7
+BASE b=217 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=218 n=1
+PAL b=218 n=2
+PAL b=218 n=3
+PAL b=218 n=4
+PAL b=218 n=5
+PAL b=218 n=6
+PAL b=218 n=7
+BASE b=218 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=219 n=1
+PAL b=219 n=2
+PAL b=219 n=3
+PAL b=219 n=4
+PAL b=219 n=5
+PAL b=219 n=6
+PAL b=219 n=7
+BASE b=219 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=220 n=1
+PAL b=220 n=2
+PAL b=220 n=3
+PAL b=220 n=4
+PAL b=220 n=5
+PAL b=220 n=6
+PAL b=220 n=7
+BASE b=220 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=221 n=1
+PAL b=221 n=2
+PAL b=221 n=3
+PAL b=221 n=4
+PAL b=221 n=5
+PAL b=221 n=6
+PAL b=221 n=7
+BASE b=221 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=222 n=1
+PAL b=222 n=2
+PAL b=222 n=3
+PAL b=222 n=4
+PAL b=222 n=5
+PAL b=222 n=6
+PAL b=222 n=7
+BASE b=222 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=223 n=1
+PAL b=223 n=2
+PAL b=223 n=3
+PAL b=223 n=4
+PAL b=223 n=5
+PAL b=223 n=6
+PAL b=223 n=7
+BASE b=223 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=224 n=1
+PAL b=224 n=2
+PAL b=224 n=3
+PAL b=224 n=4
+PAL b=224 n=5
+PAL b=224 n=6
+PAL b=224 n=7
+BASE b=224 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=225 n=1
+PAL b=225 n=2
+PAL b=225 n=3
+PAL b=225 n=4
+PAL b=225 n=5
+PAL b=225 n=6
+PAL b=225 n=7
+BASE b=225 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=226 n=1
+PAL b=226 n=2
+PAL b=226 n=3
+PAL b=226 n=4
+PAL b=226 n=5
+PAL b=226 n=6
+PAL b=226 n=7
+BASE b=226 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=227 n=1
+PAL b=227 n=2
+PAL b=227 n=3
+PAL b=227 n=4
+PAL b=227 n=5
+PAL b=227 n=6
+PAL b=227 n=7
+BASE b=227 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=228 n=1
+PAL b=228 n=2
+PAL b=228 n=3
+PAL b=228 n=4
+PAL b=228 n=5
+PAL b=228 n=6
+PAL b=228 n=7
+BASE b=228 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=229 n=1
+PAL b=229 n=2
+PAL b=229 n=3
+PAL b=229 n=4
+PAL b=229 n=5
+PAL b=229 n=6
+PAL b=229 n=7
+BASE b=229 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=230 n=1
+PAL b=230 n=2
+PAL b=230 n=3
+PAL b=230 n=4
+PAL b=230 n=5
+PAL b=230 n=6
+PAL b=230 n=7
+BASE b=230 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=231 n=1
+PAL b=231 n=2
+PAL b=231 n=3
+PAL b=231 n=4
+PAL b=231 n=5
+PAL b=231 n=6
+PAL b=231 n=7
+BASE b=231 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=232 n=1
+PAL b=232 n=2
+PAL b=232 n=3
+PAL b=232 n=4
+PAL b=232 n=5
+PAL b=232 n=6
+PAL b=232 n=7
+BASE b=232 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=233 n=1
+PAL b=233 n=2
+PAL b=233 n=3
+PAL b=233 n=4
+PAL b=233 n=5
+PAL b=233 n=6
+PAL b=233 n=7
+BASE b=233 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=234 n=1
+PAL b=234 n=2
+PAL b=234 n=3
+PAL b=234 n=4
+PAL b=234 n=5
+PAL b=234 n=6
+PAL b=234 n=7
+BASE b=234 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=235 n=1
+PAL b=235 n=2
+PAL b=235 n=3
+PAL b=235 n=4
+PAL b=235 n=5
+PAL b=235 n=6
+PAL b=235 n=7
+BASE b=235 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=236 n=1
+PAL b=236 n=2
+PAL b=236 n=3
+PAL b=236 n=4
+PAL b=236 n=5
+PAL b=236 n=6
+PAL b=236 n=7
+BASE b=236 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=237 n=1
+PAL b=237 n=2
+PAL b=237 n=3
+PAL b=237 n=4
+PAL b=237 n=5
+PAL b=237 n=6
+PAL b=237 n=7
+BASE b=237 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=238 n=1
+PAL b=238 n=2
+PAL b=238 n=3
+PAL b=238 n=4
+PAL b=238 n=5
+PAL b=238 n=6
+PAL b=238 n=7
+BASE b=238 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=239 n=1
+PAL b=239 n=2
+PAL b=239 n=3
+PAL b=239 n=4
+PAL b=239 n=5
+PAL b=239 n=6
+PAL b=239 n=7
+BASE b=239 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=240 n=1
+PAL b=240 n=2
+PAL b=240 n=3
+PAL b=240 n=4
+PAL b=240 n=5
+PAL b=240 n=6
+PAL b=240 n=7
+BASE b=240 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=241 n=1
+PAL b=241 n=2
+PAL b=241 n=3
+PAL b=241 n=4
+PAL b=241 n=5
+PAL b=241 n=6
+PAL b=241 n=7
+BASE b=241 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=242 n=1
+PAL b=242 n=2
+PAL b=242 n=3
+PAL b=242 n=4
+PAL b=242 n=5
+PAL b=242 n=6
+PAL b=242 n=7
+BASE b=242 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=243 n=1
+PAL b=243 n=2
+PAL b=243 n=3
+PAL b=243 n=4
+PAL b=243 n=5
+PAL b=243 n=6
+PAL b=243 n=7
+BASE b=243 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=244 n=1
+PAL b=244 n=2
+PAL b=244 n=3
+PAL b=244 n=4
+PAL b=244 n=5
+PAL b=244 n=6
+PAL b=244 n=7
+BASE b=244 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=245 n=1
+PAL b=245 n=2
+PAL b=245 n=3
+PAL b=245 n=4
+PAL b=245 n=5
+PAL b=245 n=6
+PAL b=245 n=7
+BASE b=245 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=246 n=1
+PAL b=246 n=2
+PAL b=246 n=3
+PAL b=246 n=4
+PAL b=246 n=5
+PAL b=246 n=6
+PAL b=246 n=7
+BASE b=246 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=247 n=1
+PAL b=247 n=2
+PAL b=247 n=3
+PAL b=247 n=4
+PAL b=247 n=5
+PAL b=247 n=6
+PAL b=247 n=7
+BASE b=247 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=248 n=1
+PAL b=248 n=2
+PAL b=248 n=3
+PAL b=248 n=4
+PAL b=248 n=5
+PAL b=248 n=6
+PAL b=248 n=7
+BASE b=248 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=249 n=1
+PAL b=249 n=2
+PAL b=249 n=3
+PAL b=249 n=4
+PAL b=249 n=5
+PAL b=249 n=6
+PAL b=249 n=7
+BASE b=249 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=250 n=1
+PAL b=250 n=2
+PAL b=250 n=3
+PAL b=250 n=4
+PAL b=250 n=5
+PAL b=250 n=6
+PAL b=250 n=7
+BASE b=250 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=251 n=1
+PAL b=251 n=2
+PAL b=251 n=3
+PAL b=251 n=4
+PAL b=251 n=5
+PAL b=251 n=6
+PAL b=251 n=7
+BASE b=251 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=252 n=1
+PAL b=252 n=2
+PAL b=252 n=3
+PAL b=252 n=4
+PAL b=252 n=5
+PAL b=252 n=6
+PAL b=252 n=7
+BASE b=252 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=253 n=1
+PAL b=253 n=2
+PAL b=253 n=3
+PAL b=253 n=4
+PAL b=253 n=5
+PAL b=253 n=6
+PAL b=253 n=7
+BASE b=253 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=254 n=1
+PAL b=254 n=2
+PAL b=254 n=3
+PAL b=254 n=4
+PAL b=254 n=5
+PAL b=254 n=6
+PAL b=254 n=7
+BASE b=254 nmax=1000000 found=7 stage2cands=0 j1=2 j2=7
+PAL b=255 n=1
+PAL b=255 n=2
+PAL b=255 n=3
+PAL b=255 n=4
+PAL b=255 n=5
+PAL b=255 n=6
+PAL b=255 n=7
+PAL b=255 n=8
+PAL b=255 n=9
+PAL b=255 n=10
+PAL b=255 n=11
+PAL b=255 n=12
+PAL b=255 n=13
+PAL b=255 n=14
+PAL b=255 n=15
+PAL b=255 n=16
+PAL b=255 n=17
+PAL b=255 n=18
+PAL b=255 n=19
+PAL b=255 n=20
+PAL b=255 n=21
+PAL b=255 n=22
+PAL b=255 n=24
+PAL b=255 n=25
+PAL b=255 n=26
+PAL b=255 n=27
+PAL b=255 n=28
+PAL b=255 n=29
+PAL b=255 n=30
+PAL b=255 n=32
+PAL b=255 n=33
+PAL b=255 n=34
+PAL b=255 n=35
+PAL b=255 n=36
+PAL b=255 n=37
+PAL b=255 n=40
+PAL b=255 n=41
+PAL b=255 n=42
+PAL b=255 n=43
+PAL b=255 n=44
+PAL b=255 n=48
+PAL b=255 n=49
+PAL b=255 n=50
+PAL b=255 n=51
+PAL b=255 n=56
+PAL b=255 n=57
+PAL b=255 n=58
+PAL b=255 n=64
+PAL b=255 n=65
+PAL b=255 n=72
+PAL b=255 n=73
+PAL b=255 n=80
+BASE b=255 nmax=1000000 found=52 stage2cands=0 j1=2 j2=7
+PAL b=257 n=1
+PAL b=257 n=2
+PAL b=257 n=3
+PAL b=257 n=4
+PAL b=257 n=5
+PAL b=257 n=6
+PAL b=257 n=7
+PAL b=257 n=8
+BASE b=257 nmax=1000000 found=8 stage2cands=0 j1=1 j2=7
+PAL b=258 n=1
+PAL b=258 n=2
+PAL b=258 n=3
+PAL b=258 n=4
+PAL b=258 n=5
+PAL b=258 n=6
+PAL b=258 n=7
+PAL b=258 n=8
+BASE b=258 nmax=1000000 found=8 stage2cands=0 j1=1 j2=7
+PAL b=259 n=1
+PAL b=259 n=2
+PAL b=259 n=3
+PAL b=259 n=4
+PAL b=259 n=5
+PAL b=259 n=6
+PAL b=259 n=7
+PAL b=259 n=8
+BASE b=259 nmax=1000000 found=8 stage2cands=0 j1=1 j2=7
+PAL b=260 n=1
+PAL b=260 n=2
+PAL b=260 n=3
+PAL b=260 n=4
+PAL b=260 n=5
+PAL b=260 n=6
+PAL b=260 n=7
+PAL b=260 n=8
+BASE b=260 nmax=1000000 found=8 stage2cands=0 j1=1 j2=7
+PAL b=261 n=1
+PAL b=261 n=2
+PAL b=261 n=3
+PAL b=261 n=4
+PAL b=261 n=5
+PAL b=261 n=6
+PAL b=261 n=7
+PAL b=261 n=8
+BASE b=261 nmax=1000000 found=8 stage2cands=0 j1=1 j2=7
+PAL b=262 n=1
+PAL b=262 n=2
+PAL b=262 n=3
+PAL b=262 n=4
+PAL b=262 n=5
+PAL b=262 n=6
+PAL b=262 n=7
+PAL b=262 n=8
+BASE b=262 nmax=1000000 found=8 stage2cands=0 j1=1 j2=7
+PAL b=263 n=1
+PAL b=263 n=2
+PAL b=263 n=3
+PAL b=263 n=4
+PAL b=263 n=5
+PAL b=263 n=6
+PAL b=263 n=7
+PAL b=263 n=8
+BASE b=263 nmax=1000000 found=8 stage2cands=0 j1=1 j2=7
+PAL b=264 n=1
+PAL b=264 n=2
+PAL b=264 n=3
+PAL b=264 n=4
+PAL b=264 n=5
+PAL b=264 n=6
+PAL b=264 n=7
+PAL b=264 n=8
+BASE b=264 nmax=1000000 found=8 stage2cands=0 j1=1 j2=7
+PAL b=265 n=1
+PAL b=265 n=2
+PAL b=265 n=3
+PAL b=265 n=4
+PAL b=265 n=5
+PAL b=265 n=6
+PAL b=265 n=7
+PAL b=265 n=8
+BASE b=265 nmax=1000000 found=8 stage2cands=0 j1=1 j2=7
+PAL b=266 n=1
+PAL b=266 n=2
+PAL b=266 n=3
+PAL b=266 n=4
+PAL b=266 n=5
+PAL b=266 n=6
+PAL b=266 n=7
+PAL b=266 n=8
+BASE b=266 nmax=1000000 found=8 stage2cands=0 j1=1 j2=7
+PAL b=267 n=1
+PAL b=267 n=2
+PAL b=267 n=3
+PAL b=267 n=4
+PAL b=267 n=5
+PAL b=267 n=6
+PAL b=267 n=7
+PAL b=267 n=8
+BASE b=267 nmax=1000000 found=8 stage2cands=0 j1=1 j2=7
+PAL b=268 n=1
+PAL b=268 n=2
+PAL b=268 n=3
+PAL b=268 n=4
+PAL b=268 n=5
+PAL b=268 n=6
+PAL b=268 n=7
+PAL b=268 n=8
+BASE b=268 nmax=1000000 found=8 stage2cands=0 j1=1 j2=7
+PAL b=269 n=1
+PAL b=269 n=2
+PAL b=269 n=3
+PAL b=269 n=4
+PAL b=269 n=5
+PAL b=269 n=6
+PAL b=269 n=7
+PAL b=269 n=8
+PAL b=269 n=19
+PAL b=269 n=20
+PAL b=269 n=21
+BASE b=269 nmax=1000000 found=11 stage2cands=0 j1=1 j2=6
+PAL b=270 n=1
+PAL b=270 n=2
+PAL b=270 n=3
+PAL b=270 n=4
+PAL b=270 n=5
+PAL b=270 n=6
+PAL b=270 n=7
+PAL b=270 n=8
+BASE b=270 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=271 n=1
+PAL b=271 n=2
+PAL b=271 n=3
+PAL b=271 n=4
+PAL b=271 n=5
+PAL b=271 n=6
+PAL b=271 n=7
+PAL b=271 n=8
+BASE b=271 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=272 n=1
+PAL b=272 n=2
+PAL b=272 n=3
+PAL b=272 n=4
+PAL b=272 n=5
+PAL b=272 n=6
+PAL b=272 n=7
+PAL b=272 n=8
+BASE b=272 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=273 n=1
+PAL b=273 n=2
+PAL b=273 n=3
+PAL b=273 n=4
+PAL b=273 n=5
+PAL b=273 n=6
+PAL b=273 n=7
+PAL b=273 n=8
+BASE b=273 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=274 n=1
+PAL b=274 n=2
+PAL b=274 n=3
+PAL b=274 n=4
+PAL b=274 n=5
+PAL b=274 n=6
+PAL b=274 n=7
+PAL b=274 n=8
+BASE b=274 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=275 n=1
+PAL b=275 n=2
+PAL b=275 n=3
+PAL b=275 n=4
+PAL b=275 n=5
+PAL b=275 n=6
+PAL b=275 n=7
+PAL b=275 n=8
+BASE b=275 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=276 n=1
+PAL b=276 n=2
+PAL b=276 n=3
+PAL b=276 n=4
+PAL b=276 n=5
+PAL b=276 n=6
+PAL b=276 n=7
+PAL b=276 n=8
+BASE b=276 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=277 n=1
+PAL b=277 n=2
+PAL b=277 n=3
+PAL b=277 n=4
+PAL b=277 n=5
+PAL b=277 n=6
+PAL b=277 n=7
+PAL b=277 n=8
+BASE b=277 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=278 n=1
+PAL b=278 n=2
+PAL b=278 n=3
+PAL b=278 n=4
+PAL b=278 n=5
+PAL b=278 n=6
+PAL b=278 n=7
+PAL b=278 n=8
+BASE b=278 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=279 n=1
+PAL b=279 n=2
+PAL b=279 n=3
+PAL b=279 n=4
+PAL b=279 n=5
+PAL b=279 n=6
+PAL b=279 n=7
+PAL b=279 n=8
+BASE b=279 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=280 n=1
+PAL b=280 n=2
+PAL b=280 n=3
+PAL b=280 n=4
+PAL b=280 n=5
+PAL b=280 n=6
+PAL b=280 n=7
+PAL b=280 n=8
+BASE b=280 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=281 n=1
+PAL b=281 n=2
+PAL b=281 n=3
+PAL b=281 n=4
+PAL b=281 n=5
+PAL b=281 n=6
+PAL b=281 n=7
+PAL b=281 n=8
+BASE b=281 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=282 n=1
+PAL b=282 n=2
+PAL b=282 n=3
+PAL b=282 n=4
+PAL b=282 n=5
+PAL b=282 n=6
+PAL b=282 n=7
+PAL b=282 n=8
+BASE b=282 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=283 n=1
+PAL b=283 n=2
+PAL b=283 n=3
+PAL b=283 n=4
+PAL b=283 n=5
+PAL b=283 n=6
+PAL b=283 n=7
+PAL b=283 n=8
+BASE b=283 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=284 n=1
+PAL b=284 n=2
+PAL b=284 n=3
+PAL b=284 n=4
+PAL b=284 n=5
+PAL b=284 n=6
+PAL b=284 n=7
+PAL b=284 n=8
+BASE b=284 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=285 n=1
+PAL b=285 n=2
+PAL b=285 n=3
+PAL b=285 n=4
+PAL b=285 n=5
+PAL b=285 n=6
+PAL b=285 n=7
+PAL b=285 n=8
+BASE b=285 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=286 n=1
+PAL b=286 n=2
+PAL b=286 n=3
+PAL b=286 n=4
+PAL b=286 n=5
+PAL b=286 n=6
+PAL b=286 n=7
+PAL b=286 n=8
+BASE b=286 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=287 n=1
+PAL b=287 n=2
+PAL b=287 n=3
+PAL b=287 n=4
+PAL b=287 n=5
+PAL b=287 n=6
+PAL b=287 n=7
+PAL b=287 n=8
+BASE b=287 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=288 n=1
+PAL b=288 n=2
+PAL b=288 n=3
+PAL b=288 n=4
+PAL b=288 n=5
+PAL b=288 n=6
+PAL b=288 n=7
+PAL b=288 n=8
+BASE b=288 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=289 n=1
+PAL b=289 n=2
+PAL b=289 n=3
+PAL b=289 n=4
+PAL b=289 n=5
+PAL b=289 n=6
+PAL b=289 n=7
+PAL b=289 n=8
+BASE b=289 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=290 n=1
+PAL b=290 n=2
+PAL b=290 n=3
+PAL b=290 n=4
+PAL b=290 n=5
+PAL b=290 n=6
+PAL b=290 n=7
+PAL b=290 n=8
+BASE b=290 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=291 n=1
+PAL b=291 n=2
+PAL b=291 n=3
+PAL b=291 n=4
+PAL b=291 n=5
+PAL b=291 n=6
+PAL b=291 n=7
+PAL b=291 n=8
+BASE b=291 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=292 n=1
+PAL b=292 n=2
+PAL b=292 n=3
+PAL b=292 n=4
+PAL b=292 n=5
+PAL b=292 n=6
+PAL b=292 n=7
+PAL b=292 n=8
+BASE b=292 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=293 n=1
+PAL b=293 n=2
+PAL b=293 n=3
+PAL b=293 n=4
+PAL b=293 n=5
+PAL b=293 n=6
+PAL b=293 n=7
+PAL b=293 n=8
+BASE b=293 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=294 n=1
+PAL b=294 n=2
+PAL b=294 n=3
+PAL b=294 n=4
+PAL b=294 n=5
+PAL b=294 n=6
+PAL b=294 n=7
+PAL b=294 n=8
+BASE b=294 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=295 n=1
+PAL b=295 n=2
+PAL b=295 n=3
+PAL b=295 n=4
+PAL b=295 n=5
+PAL b=295 n=6
+PAL b=295 n=7
+PAL b=295 n=8
+BASE b=295 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=296 n=1
+PAL b=296 n=2
+PAL b=296 n=3
+PAL b=296 n=4
+PAL b=296 n=5
+PAL b=296 n=6
+PAL b=296 n=7
+PAL b=296 n=8
+BASE b=296 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=297 n=1
+PAL b=297 n=2
+PAL b=297 n=3
+PAL b=297 n=4
+PAL b=297 n=5
+PAL b=297 n=6
+PAL b=297 n=7
+PAL b=297 n=8
+BASE b=297 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=298 n=1
+PAL b=298 n=2
+PAL b=298 n=3
+PAL b=298 n=4
+PAL b=298 n=5
+PAL b=298 n=6
+PAL b=298 n=7
+PAL b=298 n=8
+BASE b=298 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=299 n=1
+PAL b=299 n=2
+PAL b=299 n=3
+PAL b=299 n=4
+PAL b=299 n=5
+PAL b=299 n=6
+PAL b=299 n=7
+PAL b=299 n=8
+BASE b=299 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=300 n=1
+PAL b=300 n=2
+PAL b=300 n=3
+PAL b=300 n=4
+PAL b=300 n=5
+PAL b=300 n=6
+PAL b=300 n=7
+PAL b=300 n=8
+BASE b=300 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=301 n=1
+PAL b=301 n=2
+PAL b=301 n=3
+PAL b=301 n=4
+PAL b=301 n=5
+PAL b=301 n=6
+PAL b=301 n=7
+PAL b=301 n=8
+BASE b=301 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=302 n=1
+PAL b=302 n=2
+PAL b=302 n=3
+PAL b=302 n=4
+PAL b=302 n=5
+PAL b=302 n=6
+PAL b=302 n=7
+PAL b=302 n=8
+BASE b=302 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=303 n=1
+PAL b=303 n=2
+PAL b=303 n=3
+PAL b=303 n=4
+PAL b=303 n=5
+PAL b=303 n=6
+PAL b=303 n=7
+PAL b=303 n=8
+BASE b=303 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=304 n=1
+PAL b=304 n=2
+PAL b=304 n=3
+PAL b=304 n=4
+PAL b=304 n=5
+PAL b=304 n=6
+PAL b=304 n=7
+PAL b=304 n=8
+BASE b=304 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=305 n=1
+PAL b=305 n=2
+PAL b=305 n=3
+PAL b=305 n=4
+PAL b=305 n=5
+PAL b=305 n=6
+PAL b=305 n=7
+PAL b=305 n=8
+BASE b=305 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=306 n=1
+PAL b=306 n=2
+PAL b=306 n=3
+PAL b=306 n=4
+PAL b=306 n=5
+PAL b=306 n=6
+PAL b=306 n=7
+PAL b=306 n=8
+BASE b=306 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=307 n=1
+PAL b=307 n=2
+PAL b=307 n=3
+PAL b=307 n=4
+PAL b=307 n=5
+PAL b=307 n=6
+PAL b=307 n=7
+PAL b=307 n=8
+BASE b=307 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=308 n=1
+PAL b=308 n=2
+PAL b=308 n=3
+PAL b=308 n=4
+PAL b=308 n=5
+PAL b=308 n=6
+PAL b=308 n=7
+PAL b=308 n=8
+BASE b=308 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=309 n=1
+PAL b=309 n=2
+PAL b=309 n=3
+PAL b=309 n=4
+PAL b=309 n=5
+PAL b=309 n=6
+PAL b=309 n=7
+PAL b=309 n=8
+BASE b=309 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=310 n=1
+PAL b=310 n=2
+PAL b=310 n=3
+PAL b=310 n=4
+PAL b=310 n=5
+PAL b=310 n=6
+PAL b=310 n=7
+PAL b=310 n=8
+BASE b=310 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=311 n=1
+PAL b=311 n=2
+PAL b=311 n=3
+PAL b=311 n=4
+PAL b=311 n=5
+PAL b=311 n=6
+PAL b=311 n=7
+PAL b=311 n=8
+BASE b=311 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=312 n=1
+PAL b=312 n=2
+PAL b=312 n=3
+PAL b=312 n=4
+PAL b=312 n=5
+PAL b=312 n=6
+PAL b=312 n=7
+PAL b=312 n=8
+BASE b=312 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=313 n=1
+PAL b=313 n=2
+PAL b=313 n=3
+PAL b=313 n=4
+PAL b=313 n=5
+PAL b=313 n=6
+PAL b=313 n=7
+PAL b=313 n=8
+BASE b=313 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=314 n=1
+PAL b=314 n=2
+PAL b=314 n=3
+PAL b=314 n=4
+PAL b=314 n=5
+PAL b=314 n=6
+PAL b=314 n=7
+PAL b=314 n=8
+BASE b=314 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=315 n=1
+PAL b=315 n=2
+PAL b=315 n=3
+PAL b=315 n=4
+PAL b=315 n=5
+PAL b=315 n=6
+PAL b=315 n=7
+PAL b=315 n=8
+BASE b=315 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=316 n=1
+PAL b=316 n=2
+PAL b=316 n=3
+PAL b=316 n=4
+PAL b=316 n=5
+PAL b=316 n=6
+PAL b=316 n=7
+PAL b=316 n=8
+BASE b=316 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=317 n=1
+PAL b=317 n=2
+PAL b=317 n=3
+PAL b=317 n=4
+PAL b=317 n=5
+PAL b=317 n=6
+PAL b=317 n=7
+PAL b=317 n=8
+BASE b=317 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=318 n=1
+PAL b=318 n=2
+PAL b=318 n=3
+PAL b=318 n=4
+PAL b=318 n=5
+PAL b=318 n=6
+PAL b=318 n=7
+PAL b=318 n=8
+BASE b=318 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=319 n=1
+PAL b=319 n=2
+PAL b=319 n=3
+PAL b=319 n=4
+PAL b=319 n=5
+PAL b=319 n=6
+PAL b=319 n=7
+PAL b=319 n=8
+BASE b=319 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=320 n=1
+PAL b=320 n=2
+PAL b=320 n=3
+PAL b=320 n=4
+PAL b=320 n=5
+PAL b=320 n=6
+PAL b=320 n=7
+PAL b=320 n=8
+BASE b=320 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=321 n=1
+PAL b=321 n=2
+PAL b=321 n=3
+PAL b=321 n=4
+PAL b=321 n=5
+PAL b=321 n=6
+PAL b=321 n=7
+PAL b=321 n=8
+BASE b=321 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=322 n=1
+PAL b=322 n=2
+PAL b=322 n=3
+PAL b=322 n=4
+PAL b=322 n=5
+PAL b=322 n=6
+PAL b=322 n=7
+PAL b=322 n=8
+BASE b=322 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=323 n=1
+PAL b=323 n=2
+PAL b=323 n=3
+PAL b=323 n=4
+PAL b=323 n=5
+PAL b=323 n=6
+PAL b=323 n=7
+PAL b=323 n=8
+BASE b=323 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=324 n=1
+PAL b=324 n=2
+PAL b=324 n=3
+PAL b=324 n=4
+PAL b=324 n=5
+PAL b=324 n=6
+PAL b=324 n=7
+PAL b=324 n=8
+BASE b=324 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=325 n=1
+PAL b=325 n=2
+PAL b=325 n=3
+PAL b=325 n=4
+PAL b=325 n=5
+PAL b=325 n=6
+PAL b=325 n=7
+PAL b=325 n=8
+BASE b=325 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=326 n=1
+PAL b=326 n=2
+PAL b=326 n=3
+PAL b=326 n=4
+PAL b=326 n=5
+PAL b=326 n=6
+PAL b=326 n=7
+PAL b=326 n=8
+BASE b=326 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=327 n=1
+PAL b=327 n=2
+PAL b=327 n=3
+PAL b=327 n=4
+PAL b=327 n=5
+PAL b=327 n=6
+PAL b=327 n=7
+PAL b=327 n=8
+BASE b=327 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=328 n=1
+PAL b=328 n=2
+PAL b=328 n=3
+PAL b=328 n=4
+PAL b=328 n=5
+PAL b=328 n=6
+PAL b=328 n=7
+PAL b=328 n=8
+BASE b=328 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=329 n=1
+PAL b=329 n=2
+PAL b=329 n=3
+PAL b=329 n=4
+PAL b=329 n=5
+PAL b=329 n=6
+PAL b=329 n=7
+PAL b=329 n=8
+BASE b=329 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=330 n=1
+PAL b=330 n=2
+PAL b=330 n=3
+PAL b=330 n=4
+PAL b=330 n=5
+PAL b=330 n=6
+PAL b=330 n=7
+PAL b=330 n=8
+BASE b=330 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=331 n=1
+PAL b=331 n=2
+PAL b=331 n=3
+PAL b=331 n=4
+PAL b=331 n=5
+PAL b=331 n=6
+PAL b=331 n=7
+PAL b=331 n=8
+BASE b=331 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=332 n=1
+PAL b=332 n=2
+PAL b=332 n=3
+PAL b=332 n=4
+PAL b=332 n=5
+PAL b=332 n=6
+PAL b=332 n=7
+PAL b=332 n=8
+BASE b=332 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=333 n=1
+PAL b=333 n=2
+PAL b=333 n=3
+PAL b=333 n=4
+PAL b=333 n=5
+PAL b=333 n=6
+PAL b=333 n=7
+PAL b=333 n=8
+BASE b=333 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=334 n=1
+PAL b=334 n=2
+PAL b=334 n=3
+PAL b=334 n=4
+PAL b=334 n=5
+PAL b=334 n=6
+PAL b=334 n=7
+PAL b=334 n=8
+BASE b=334 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=335 n=1
+PAL b=335 n=2
+PAL b=335 n=3
+PAL b=335 n=4
+PAL b=335 n=5
+PAL b=335 n=6
+PAL b=335 n=7
+PAL b=335 n=8
+BASE b=335 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=336 n=1
+PAL b=336 n=2
+PAL b=336 n=3
+PAL b=336 n=4
+PAL b=336 n=5
+PAL b=336 n=6
+PAL b=336 n=7
+PAL b=336 n=8
+BASE b=336 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=337 n=1
+PAL b=337 n=2
+PAL b=337 n=3
+PAL b=337 n=4
+PAL b=337 n=5
+PAL b=337 n=6
+PAL b=337 n=7
+PAL b=337 n=8
+BASE b=337 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=338 n=1
+PAL b=338 n=2
+PAL b=338 n=3
+PAL b=338 n=4
+PAL b=338 n=5
+PAL b=338 n=6
+PAL b=338 n=7
+PAL b=338 n=8
+BASE b=338 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=339 n=1
+PAL b=339 n=2
+PAL b=339 n=3
+PAL b=339 n=4
+PAL b=339 n=5
+PAL b=339 n=6
+PAL b=339 n=7
+PAL b=339 n=8
+BASE b=339 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=340 n=1
+PAL b=340 n=2
+PAL b=340 n=3
+PAL b=340 n=4
+PAL b=340 n=5
+PAL b=340 n=6
+PAL b=340 n=7
+PAL b=340 n=8
+BASE b=340 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=341 n=1
+PAL b=341 n=2
+PAL b=341 n=3
+PAL b=341 n=4
+PAL b=341 n=5
+PAL b=341 n=6
+PAL b=341 n=7
+PAL b=341 n=8
+BASE b=341 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=342 n=1
+PAL b=342 n=2
+PAL b=342 n=3
+PAL b=342 n=4
+PAL b=342 n=5
+PAL b=342 n=6
+PAL b=342 n=7
+PAL b=342 n=8
+BASE b=342 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=343 n=1
+PAL b=343 n=2
+PAL b=343 n=3
+PAL b=343 n=4
+PAL b=343 n=5
+PAL b=343 n=6
+PAL b=343 n=7
+PAL b=343 n=8
+BASE b=343 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=344 n=1
+PAL b=344 n=2
+PAL b=344 n=3
+PAL b=344 n=4
+PAL b=344 n=5
+PAL b=344 n=6
+PAL b=344 n=7
+PAL b=344 n=8
+BASE b=344 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=345 n=1
+PAL b=345 n=2
+PAL b=345 n=3
+PAL b=345 n=4
+PAL b=345 n=5
+PAL b=345 n=6
+PAL b=345 n=7
+PAL b=345 n=8
+BASE b=345 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=346 n=1
+PAL b=346 n=2
+PAL b=346 n=3
+PAL b=346 n=4
+PAL b=346 n=5
+PAL b=346 n=6
+PAL b=346 n=7
+PAL b=346 n=8
+BASE b=346 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=347 n=1
+PAL b=347 n=2
+PAL b=347 n=3
+PAL b=347 n=4
+PAL b=347 n=5
+PAL b=347 n=6
+PAL b=347 n=7
+PAL b=347 n=8
+BASE b=347 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=348 n=1
+PAL b=348 n=2
+PAL b=348 n=3
+PAL b=348 n=4
+PAL b=348 n=5
+PAL b=348 n=6
+PAL b=348 n=7
+PAL b=348 n=8
+BASE b=348 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=349 n=1
+PAL b=349 n=2
+PAL b=349 n=3
+PAL b=349 n=4
+PAL b=349 n=5
+PAL b=349 n=6
+PAL b=349 n=7
+PAL b=349 n=8
+BASE b=349 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=350 n=1
+PAL b=350 n=2
+PAL b=350 n=3
+PAL b=350 n=4
+PAL b=350 n=5
+PAL b=350 n=6
+PAL b=350 n=7
+PAL b=350 n=8
+BASE b=350 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=351 n=1
+PAL b=351 n=2
+PAL b=351 n=3
+PAL b=351 n=4
+PAL b=351 n=5
+PAL b=351 n=6
+PAL b=351 n=7
+PAL b=351 n=8
+BASE b=351 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=352 n=1
+PAL b=352 n=2
+PAL b=352 n=3
+PAL b=352 n=4
+PAL b=352 n=5
+PAL b=352 n=6
+PAL b=352 n=7
+PAL b=352 n=8
+BASE b=352 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=353 n=1
+PAL b=353 n=2
+PAL b=353 n=3
+PAL b=353 n=4
+PAL b=353 n=5
+PAL b=353 n=6
+PAL b=353 n=7
+PAL b=353 n=8
+BASE b=353 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=354 n=1
+PAL b=354 n=2
+PAL b=354 n=3
+PAL b=354 n=4
+PAL b=354 n=5
+PAL b=354 n=6
+PAL b=354 n=7
+PAL b=354 n=8
+BASE b=354 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=355 n=1
+PAL b=355 n=2
+PAL b=355 n=3
+PAL b=355 n=4
+PAL b=355 n=5
+PAL b=355 n=6
+PAL b=355 n=7
+PAL b=355 n=8
+BASE b=355 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=356 n=1
+PAL b=356 n=2
+PAL b=356 n=3
+PAL b=356 n=4
+PAL b=356 n=5
+PAL b=356 n=6
+PAL b=356 n=7
+PAL b=356 n=8
+BASE b=356 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=357 n=1
+PAL b=357 n=2
+PAL b=357 n=3
+PAL b=357 n=4
+PAL b=357 n=5
+PAL b=357 n=6
+PAL b=357 n=7
+PAL b=357 n=8
+BASE b=357 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=358 n=1
+PAL b=358 n=2
+PAL b=358 n=3
+PAL b=358 n=4
+PAL b=358 n=5
+PAL b=358 n=6
+PAL b=358 n=7
+PAL b=358 n=8
+BASE b=358 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=359 n=1
+PAL b=359 n=2
+PAL b=359 n=3
+PAL b=359 n=4
+PAL b=359 n=5
+PAL b=359 n=6
+PAL b=359 n=7
+PAL b=359 n=8
+BASE b=359 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=360 n=1
+PAL b=360 n=2
+PAL b=360 n=3
+PAL b=360 n=4
+PAL b=360 n=5
+PAL b=360 n=6
+PAL b=360 n=7
+PAL b=360 n=8
+BASE b=360 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=361 n=1
+PAL b=361 n=2
+PAL b=361 n=3
+PAL b=361 n=4
+PAL b=361 n=5
+PAL b=361 n=6
+PAL b=361 n=7
+PAL b=361 n=8
+BASE b=361 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=362 n=1
+PAL b=362 n=2
+PAL b=362 n=3
+PAL b=362 n=4
+PAL b=362 n=5
+PAL b=362 n=6
+PAL b=362 n=7
+PAL b=362 n=8
+BASE b=362 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=363 n=1
+PAL b=363 n=2
+PAL b=363 n=3
+PAL b=363 n=4
+PAL b=363 n=5
+PAL b=363 n=6
+PAL b=363 n=7
+PAL b=363 n=8
+BASE b=363 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=364 n=1
+PAL b=364 n=2
+PAL b=364 n=3
+PAL b=364 n=4
+PAL b=364 n=5
+PAL b=364 n=6
+PAL b=364 n=7
+PAL b=364 n=8
+BASE b=364 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=365 n=1
+PAL b=365 n=2
+PAL b=365 n=3
+PAL b=365 n=4
+PAL b=365 n=5
+PAL b=365 n=6
+PAL b=365 n=7
+PAL b=365 n=8
+BASE b=365 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=366 n=1
+PAL b=366 n=2
+PAL b=366 n=3
+PAL b=366 n=4
+PAL b=366 n=5
+PAL b=366 n=6
+PAL b=366 n=7
+PAL b=366 n=8
+BASE b=366 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=367 n=1
+PAL b=367 n=2
+PAL b=367 n=3
+PAL b=367 n=4
+PAL b=367 n=5
+PAL b=367 n=6
+PAL b=367 n=7
+PAL b=367 n=8
+BASE b=367 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=368 n=1
+PAL b=368 n=2
+PAL b=368 n=3
+PAL b=368 n=4
+PAL b=368 n=5
+PAL b=368 n=6
+PAL b=368 n=7
+PAL b=368 n=8
+BASE b=368 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=369 n=1
+PAL b=369 n=2
+PAL b=369 n=3
+PAL b=369 n=4
+PAL b=369 n=5
+PAL b=369 n=6
+PAL b=369 n=7
+PAL b=369 n=8
+BASE b=369 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=370 n=1
+PAL b=370 n=2
+PAL b=370 n=3
+PAL b=370 n=4
+PAL b=370 n=5
+PAL b=370 n=6
+PAL b=370 n=7
+PAL b=370 n=8
+BASE b=370 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=371 n=1
+PAL b=371 n=2
+PAL b=371 n=3
+PAL b=371 n=4
+PAL b=371 n=5
+PAL b=371 n=6
+PAL b=371 n=7
+PAL b=371 n=8
+BASE b=371 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=372 n=1
+PAL b=372 n=2
+PAL b=372 n=3
+PAL b=372 n=4
+PAL b=372 n=5
+PAL b=372 n=6
+PAL b=372 n=7
+PAL b=372 n=8
+BASE b=372 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=373 n=1
+PAL b=373 n=2
+PAL b=373 n=3
+PAL b=373 n=4
+PAL b=373 n=5
+PAL b=373 n=6
+PAL b=373 n=7
+PAL b=373 n=8
+BASE b=373 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=374 n=1
+PAL b=374 n=2
+PAL b=374 n=3
+PAL b=374 n=4
+PAL b=374 n=5
+PAL b=374 n=6
+PAL b=374 n=7
+PAL b=374 n=8
+BASE b=374 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=375 n=1
+PAL b=375 n=2
+PAL b=375 n=3
+PAL b=375 n=4
+PAL b=375 n=5
+PAL b=375 n=6
+PAL b=375 n=7
+PAL b=375 n=8
+BASE b=375 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=376 n=1
+PAL b=376 n=2
+PAL b=376 n=3
+PAL b=376 n=4
+PAL b=376 n=5
+PAL b=376 n=6
+PAL b=376 n=7
+PAL b=376 n=8
+BASE b=376 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=377 n=1
+PAL b=377 n=2
+PAL b=377 n=3
+PAL b=377 n=4
+PAL b=377 n=5
+PAL b=377 n=6
+PAL b=377 n=7
+PAL b=377 n=8
+BASE b=377 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=378 n=1
+PAL b=378 n=2
+PAL b=378 n=3
+PAL b=378 n=4
+PAL b=378 n=5
+PAL b=378 n=6
+PAL b=378 n=7
+PAL b=378 n=8
+BASE b=378 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=379 n=1
+PAL b=379 n=2
+PAL b=379 n=3
+PAL b=379 n=4
+PAL b=379 n=5
+PAL b=379 n=6
+PAL b=379 n=7
+PAL b=379 n=8
+BASE b=379 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=380 n=1
+PAL b=380 n=2
+PAL b=380 n=3
+PAL b=380 n=4
+PAL b=380 n=5
+PAL b=380 n=6
+PAL b=380 n=7
+PAL b=380 n=8
+BASE b=380 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=381 n=1
+PAL b=381 n=2
+PAL b=381 n=3
+PAL b=381 n=4
+PAL b=381 n=5
+PAL b=381 n=6
+PAL b=381 n=7
+PAL b=381 n=8
+BASE b=381 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=382 n=1
+PAL b=382 n=2
+PAL b=382 n=3
+PAL b=382 n=4
+PAL b=382 n=5
+PAL b=382 n=6
+PAL b=382 n=7
+PAL b=382 n=8
+BASE b=382 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=383 n=1
+PAL b=383 n=2
+PAL b=383 n=3
+PAL b=383 n=4
+PAL b=383 n=5
+PAL b=383 n=6
+PAL b=383 n=7
+PAL b=383 n=8
+BASE b=383 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=384 n=1
+PAL b=384 n=2
+PAL b=384 n=3
+PAL b=384 n=4
+PAL b=384 n=5
+PAL b=384 n=6
+PAL b=384 n=7
+PAL b=384 n=8
+BASE b=384 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=385 n=1
+PAL b=385 n=2
+PAL b=385 n=3
+PAL b=385 n=4
+PAL b=385 n=5
+PAL b=385 n=6
+PAL b=385 n=7
+PAL b=385 n=8
+BASE b=385 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=386 n=1
+PAL b=386 n=2
+PAL b=386 n=3
+PAL b=386 n=4
+PAL b=386 n=5
+PAL b=386 n=6
+PAL b=386 n=7
+PAL b=386 n=8
+PAL b=386 n=21
+PAL b=386 n=22
+PAL b=386 n=23
+PAL b=386 n=24
+BASE b=386 nmax=1000000 found=12 stage2cands=0 j1=1 j2=6
+PAL b=387 n=1
+PAL b=387 n=2
+PAL b=387 n=3
+PAL b=387 n=4
+PAL b=387 n=5
+PAL b=387 n=6
+PAL b=387 n=7
+PAL b=387 n=8
+BASE b=387 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=388 n=1
+PAL b=388 n=2
+PAL b=388 n=3
+PAL b=388 n=4
+PAL b=388 n=5
+PAL b=388 n=6
+PAL b=388 n=7
+PAL b=388 n=8
+BASE b=388 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=389 n=1
+PAL b=389 n=2
+PAL b=389 n=3
+PAL b=389 n=4
+PAL b=389 n=5
+PAL b=389 n=6
+PAL b=389 n=7
+PAL b=389 n=8
+BASE b=389 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=390 n=1
+PAL b=390 n=2
+PAL b=390 n=3
+PAL b=390 n=4
+PAL b=390 n=5
+PAL b=390 n=6
+PAL b=390 n=7
+PAL b=390 n=8
+BASE b=390 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=391 n=1
+PAL b=391 n=2
+PAL b=391 n=3
+PAL b=391 n=4
+PAL b=391 n=5
+PAL b=391 n=6
+PAL b=391 n=7
+PAL b=391 n=8
+BASE b=391 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=392 n=1
+PAL b=392 n=2
+PAL b=392 n=3
+PAL b=392 n=4
+PAL b=392 n=5
+PAL b=392 n=6
+PAL b=392 n=7
+PAL b=392 n=8
+BASE b=392 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=393 n=1
+PAL b=393 n=2
+PAL b=393 n=3
+PAL b=393 n=4
+PAL b=393 n=5
+PAL b=393 n=6
+PAL b=393 n=7
+PAL b=393 n=8
+BASE b=393 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=394 n=1
+PAL b=394 n=2
+PAL b=394 n=3
+PAL b=394 n=4
+PAL b=394 n=5
+PAL b=394 n=6
+PAL b=394 n=7
+PAL b=394 n=8
+BASE b=394 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=395 n=1
+PAL b=395 n=2
+PAL b=395 n=3
+PAL b=395 n=4
+PAL b=395 n=5
+PAL b=395 n=6
+PAL b=395 n=7
+PAL b=395 n=8
+BASE b=395 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=396 n=1
+PAL b=396 n=2
+PAL b=396 n=3
+PAL b=396 n=4
+PAL b=396 n=5
+PAL b=396 n=6
+PAL b=396 n=7
+PAL b=396 n=8
+BASE b=396 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=397 n=1
+PAL b=397 n=2
+PAL b=397 n=3
+PAL b=397 n=4
+PAL b=397 n=5
+PAL b=397 n=6
+PAL b=397 n=7
+PAL b=397 n=8
+BASE b=397 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=398 n=1
+PAL b=398 n=2
+PAL b=398 n=3
+PAL b=398 n=4
+PAL b=398 n=5
+PAL b=398 n=6
+PAL b=398 n=7
+PAL b=398 n=8
+BASE b=398 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=399 n=1
+PAL b=399 n=2
+PAL b=399 n=3
+PAL b=399 n=4
+PAL b=399 n=5
+PAL b=399 n=6
+PAL b=399 n=7
+PAL b=399 n=8
+PAL b=399 n=18
+BASE b=399 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=400 n=1
+PAL b=400 n=2
+PAL b=400 n=3
+PAL b=400 n=4
+PAL b=400 n=5
+PAL b=400 n=6
+PAL b=400 n=7
+PAL b=400 n=8
+BASE b=400 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=401 n=1
+PAL b=401 n=2
+PAL b=401 n=3
+PAL b=401 n=4
+PAL b=401 n=5
+PAL b=401 n=6
+PAL b=401 n=7
+PAL b=401 n=8
+BASE b=401 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=402 n=1
+PAL b=402 n=2
+PAL b=402 n=3
+PAL b=402 n=4
+PAL b=402 n=5
+PAL b=402 n=6
+PAL b=402 n=7
+PAL b=402 n=8
+BASE b=402 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=403 n=1
+PAL b=403 n=2
+PAL b=403 n=3
+PAL b=403 n=4
+PAL b=403 n=5
+PAL b=403 n=6
+PAL b=403 n=7
+PAL b=403 n=8
+BASE b=403 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=404 n=1
+PAL b=404 n=2
+PAL b=404 n=3
+PAL b=404 n=4
+PAL b=404 n=5
+PAL b=404 n=6
+PAL b=404 n=7
+PAL b=404 n=8
+BASE b=404 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=405 n=1
+PAL b=405 n=2
+PAL b=405 n=3
+PAL b=405 n=4
+PAL b=405 n=5
+PAL b=405 n=6
+PAL b=405 n=7
+PAL b=405 n=8
+BASE b=405 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=406 n=1
+PAL b=406 n=2
+PAL b=406 n=3
+PAL b=406 n=4
+PAL b=406 n=5
+PAL b=406 n=6
+PAL b=406 n=7
+PAL b=406 n=8
+BASE b=406 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=407 n=1
+PAL b=407 n=2
+PAL b=407 n=3
+PAL b=407 n=4
+PAL b=407 n=5
+PAL b=407 n=6
+PAL b=407 n=7
+PAL b=407 n=8
+BASE b=407 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=408 n=1
+PAL b=408 n=2
+PAL b=408 n=3
+PAL b=408 n=4
+PAL b=408 n=5
+PAL b=408 n=6
+PAL b=408 n=7
+PAL b=408 n=8
+BASE b=408 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=409 n=1
+PAL b=409 n=2
+PAL b=409 n=3
+PAL b=409 n=4
+PAL b=409 n=5
+PAL b=409 n=6
+PAL b=409 n=7
+PAL b=409 n=8
+BASE b=409 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=410 n=1
+PAL b=410 n=2
+PAL b=410 n=3
+PAL b=410 n=4
+PAL b=410 n=5
+PAL b=410 n=6
+PAL b=410 n=7
+PAL b=410 n=8
+BASE b=410 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=411 n=1
+PAL b=411 n=2
+PAL b=411 n=3
+PAL b=411 n=4
+PAL b=411 n=5
+PAL b=411 n=6
+PAL b=411 n=7
+PAL b=411 n=8
+BASE b=411 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=412 n=1
+PAL b=412 n=2
+PAL b=412 n=3
+PAL b=412 n=4
+PAL b=412 n=5
+PAL b=412 n=6
+PAL b=412 n=7
+PAL b=412 n=8
+BASE b=412 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=413 n=1
+PAL b=413 n=2
+PAL b=413 n=3
+PAL b=413 n=4
+PAL b=413 n=5
+PAL b=413 n=6
+PAL b=413 n=7
+PAL b=413 n=8
+BASE b=413 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=414 n=1
+PAL b=414 n=2
+PAL b=414 n=3
+PAL b=414 n=4
+PAL b=414 n=5
+PAL b=414 n=6
+PAL b=414 n=7
+PAL b=414 n=8
+BASE b=414 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=415 n=1
+PAL b=415 n=2
+PAL b=415 n=3
+PAL b=415 n=4
+PAL b=415 n=5
+PAL b=415 n=6
+PAL b=415 n=7
+PAL b=415 n=8
+BASE b=415 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=416 n=1
+PAL b=416 n=2
+PAL b=416 n=3
+PAL b=416 n=4
+PAL b=416 n=5
+PAL b=416 n=6
+PAL b=416 n=7
+PAL b=416 n=8
+BASE b=416 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=417 n=1
+PAL b=417 n=2
+PAL b=417 n=3
+PAL b=417 n=4
+PAL b=417 n=5
+PAL b=417 n=6
+PAL b=417 n=7
+PAL b=417 n=8
+BASE b=417 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=418 n=1
+PAL b=418 n=2
+PAL b=418 n=3
+PAL b=418 n=4
+PAL b=418 n=5
+PAL b=418 n=6
+PAL b=418 n=7
+PAL b=418 n=8
+BASE b=418 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=419 n=1
+PAL b=419 n=2
+PAL b=419 n=3
+PAL b=419 n=4
+PAL b=419 n=5
+PAL b=419 n=6
+PAL b=419 n=7
+PAL b=419 n=8
+BASE b=419 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=420 n=1
+PAL b=420 n=2
+PAL b=420 n=3
+PAL b=420 n=4
+PAL b=420 n=5
+PAL b=420 n=6
+PAL b=420 n=7
+PAL b=420 n=8
+BASE b=420 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=421 n=1
+PAL b=421 n=2
+PAL b=421 n=3
+PAL b=421 n=4
+PAL b=421 n=5
+PAL b=421 n=6
+PAL b=421 n=7
+PAL b=421 n=8
+BASE b=421 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=422 n=1
+PAL b=422 n=2
+PAL b=422 n=3
+PAL b=422 n=4
+PAL b=422 n=5
+PAL b=422 n=6
+PAL b=422 n=7
+PAL b=422 n=8
+BASE b=422 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=423 n=1
+PAL b=423 n=2
+PAL b=423 n=3
+PAL b=423 n=4
+PAL b=423 n=5
+PAL b=423 n=6
+PAL b=423 n=7
+PAL b=423 n=8
+BASE b=423 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=424 n=1
+PAL b=424 n=2
+PAL b=424 n=3
+PAL b=424 n=4
+PAL b=424 n=5
+PAL b=424 n=6
+PAL b=424 n=7
+PAL b=424 n=8
+BASE b=424 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=425 n=1
+PAL b=425 n=2
+PAL b=425 n=3
+PAL b=425 n=4
+PAL b=425 n=5
+PAL b=425 n=6
+PAL b=425 n=7
+PAL b=425 n=8
+BASE b=425 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=426 n=1
+PAL b=426 n=2
+PAL b=426 n=3
+PAL b=426 n=4
+PAL b=426 n=5
+PAL b=426 n=6
+PAL b=426 n=7
+PAL b=426 n=8
+BASE b=426 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=427 n=1
+PAL b=427 n=2
+PAL b=427 n=3
+PAL b=427 n=4
+PAL b=427 n=5
+PAL b=427 n=6
+PAL b=427 n=7
+PAL b=427 n=8
+BASE b=427 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=428 n=1
+PAL b=428 n=2
+PAL b=428 n=3
+PAL b=428 n=4
+PAL b=428 n=5
+PAL b=428 n=6
+PAL b=428 n=7
+PAL b=428 n=8
+BASE b=428 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=429 n=1
+PAL b=429 n=2
+PAL b=429 n=3
+PAL b=429 n=4
+PAL b=429 n=5
+PAL b=429 n=6
+PAL b=429 n=7
+PAL b=429 n=8
+BASE b=429 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=430 n=1
+PAL b=430 n=2
+PAL b=430 n=3
+PAL b=430 n=4
+PAL b=430 n=5
+PAL b=430 n=6
+PAL b=430 n=7
+PAL b=430 n=8
+BASE b=430 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=431 n=1
+PAL b=431 n=2
+PAL b=431 n=3
+PAL b=431 n=4
+PAL b=431 n=5
+PAL b=431 n=6
+PAL b=431 n=7
+PAL b=431 n=8
+BASE b=431 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=432 n=1
+PAL b=432 n=2
+PAL b=432 n=3
+PAL b=432 n=4
+PAL b=432 n=5
+PAL b=432 n=6
+PAL b=432 n=7
+PAL b=432 n=8
+BASE b=432 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=433 n=1
+PAL b=433 n=2
+PAL b=433 n=3
+PAL b=433 n=4
+PAL b=433 n=5
+PAL b=433 n=6
+PAL b=433 n=7
+PAL b=433 n=8
+BASE b=433 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=434 n=1
+PAL b=434 n=2
+PAL b=434 n=3
+PAL b=434 n=4
+PAL b=434 n=5
+PAL b=434 n=6
+PAL b=434 n=7
+PAL b=434 n=8
+BASE b=434 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=435 n=1
+PAL b=435 n=2
+PAL b=435 n=3
+PAL b=435 n=4
+PAL b=435 n=5
+PAL b=435 n=6
+PAL b=435 n=7
+PAL b=435 n=8
+BASE b=435 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=436 n=1
+PAL b=436 n=2
+PAL b=436 n=3
+PAL b=436 n=4
+PAL b=436 n=5
+PAL b=436 n=6
+PAL b=436 n=7
+PAL b=436 n=8
+BASE b=436 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=437 n=1
+PAL b=437 n=2
+PAL b=437 n=3
+PAL b=437 n=4
+PAL b=437 n=5
+PAL b=437 n=6
+PAL b=437 n=7
+PAL b=437 n=8
+BASE b=437 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=438 n=1
+PAL b=438 n=2
+PAL b=438 n=3
+PAL b=438 n=4
+PAL b=438 n=5
+PAL b=438 n=6
+PAL b=438 n=7
+PAL b=438 n=8
+PAL b=438 n=19
+BASE b=438 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=439 n=1
+PAL b=439 n=2
+PAL b=439 n=3
+PAL b=439 n=4
+PAL b=439 n=5
+PAL b=439 n=6
+PAL b=439 n=7
+PAL b=439 n=8
+BASE b=439 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=440 n=1
+PAL b=440 n=2
+PAL b=440 n=3
+PAL b=440 n=4
+PAL b=440 n=5
+PAL b=440 n=6
+PAL b=440 n=7
+PAL b=440 n=8
+BASE b=440 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=441 n=1
+PAL b=441 n=2
+PAL b=441 n=3
+PAL b=441 n=4
+PAL b=441 n=5
+PAL b=441 n=6
+PAL b=441 n=7
+PAL b=441 n=8
+BASE b=441 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=442 n=1
+PAL b=442 n=2
+PAL b=442 n=3
+PAL b=442 n=4
+PAL b=442 n=5
+PAL b=442 n=6
+PAL b=442 n=7
+PAL b=442 n=8
+BASE b=442 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=443 n=1
+PAL b=443 n=2
+PAL b=443 n=3
+PAL b=443 n=4
+PAL b=443 n=5
+PAL b=443 n=6
+PAL b=443 n=7
+PAL b=443 n=8
+BASE b=443 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=444 n=1
+PAL b=444 n=2
+PAL b=444 n=3
+PAL b=444 n=4
+PAL b=444 n=5
+PAL b=444 n=6
+PAL b=444 n=7
+PAL b=444 n=8
+BASE b=444 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=445 n=1
+PAL b=445 n=2
+PAL b=445 n=3
+PAL b=445 n=4
+PAL b=445 n=5
+PAL b=445 n=6
+PAL b=445 n=7
+PAL b=445 n=8
+BASE b=445 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=446 n=1
+PAL b=446 n=2
+PAL b=446 n=3
+PAL b=446 n=4
+PAL b=446 n=5
+PAL b=446 n=6
+PAL b=446 n=7
+PAL b=446 n=8
+BASE b=446 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=447 n=1
+PAL b=447 n=2
+PAL b=447 n=3
+PAL b=447 n=4
+PAL b=447 n=5
+PAL b=447 n=6
+PAL b=447 n=7
+PAL b=447 n=8
+BASE b=447 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=448 n=1
+PAL b=448 n=2
+PAL b=448 n=3
+PAL b=448 n=4
+PAL b=448 n=5
+PAL b=448 n=6
+PAL b=448 n=7
+PAL b=448 n=8
+BASE b=448 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=449 n=1
+PAL b=449 n=2
+PAL b=449 n=3
+PAL b=449 n=4
+PAL b=449 n=5
+PAL b=449 n=6
+PAL b=449 n=7
+PAL b=449 n=8
+BASE b=449 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=450 n=1
+PAL b=450 n=2
+PAL b=450 n=3
+PAL b=450 n=4
+PAL b=450 n=5
+PAL b=450 n=6
+PAL b=450 n=7
+PAL b=450 n=8
+BASE b=450 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=451 n=1
+PAL b=451 n=2
+PAL b=451 n=3
+PAL b=451 n=4
+PAL b=451 n=5
+PAL b=451 n=6
+PAL b=451 n=7
+PAL b=451 n=8
+BASE b=451 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=452 n=1
+PAL b=452 n=2
+PAL b=452 n=3
+PAL b=452 n=4
+PAL b=452 n=5
+PAL b=452 n=6
+PAL b=452 n=7
+PAL b=452 n=8
+BASE b=452 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=453 n=1
+PAL b=453 n=2
+PAL b=453 n=3
+PAL b=453 n=4
+PAL b=453 n=5
+PAL b=453 n=6
+PAL b=453 n=7
+PAL b=453 n=8
+BASE b=453 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=454 n=1
+PAL b=454 n=2
+PAL b=454 n=3
+PAL b=454 n=4
+PAL b=454 n=5
+PAL b=454 n=6
+PAL b=454 n=7
+PAL b=454 n=8
+BASE b=454 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=455 n=1
+PAL b=455 n=2
+PAL b=455 n=3
+PAL b=455 n=4
+PAL b=455 n=5
+PAL b=455 n=6
+PAL b=455 n=7
+PAL b=455 n=8
+BASE b=455 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=456 n=1
+PAL b=456 n=2
+PAL b=456 n=3
+PAL b=456 n=4
+PAL b=456 n=5
+PAL b=456 n=6
+PAL b=456 n=7
+PAL b=456 n=8
+BASE b=456 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=457 n=1
+PAL b=457 n=2
+PAL b=457 n=3
+PAL b=457 n=4
+PAL b=457 n=5
+PAL b=457 n=6
+PAL b=457 n=7
+PAL b=457 n=8
+BASE b=457 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=458 n=1
+PAL b=458 n=2
+PAL b=458 n=3
+PAL b=458 n=4
+PAL b=458 n=5
+PAL b=458 n=6
+PAL b=458 n=7
+PAL b=458 n=8
+BASE b=458 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=459 n=1
+PAL b=459 n=2
+PAL b=459 n=3
+PAL b=459 n=4
+PAL b=459 n=5
+PAL b=459 n=6
+PAL b=459 n=7
+PAL b=459 n=8
+BASE b=459 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=460 n=1
+PAL b=460 n=2
+PAL b=460 n=3
+PAL b=460 n=4
+PAL b=460 n=5
+PAL b=460 n=6
+PAL b=460 n=7
+PAL b=460 n=8
+BASE b=460 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=461 n=1
+PAL b=461 n=2
+PAL b=461 n=3
+PAL b=461 n=4
+PAL b=461 n=5
+PAL b=461 n=6
+PAL b=461 n=7
+PAL b=461 n=8
+BASE b=461 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=462 n=1
+PAL b=462 n=2
+PAL b=462 n=3
+PAL b=462 n=4
+PAL b=462 n=5
+PAL b=462 n=6
+PAL b=462 n=7
+PAL b=462 n=8
+BASE b=462 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=463 n=1
+PAL b=463 n=2
+PAL b=463 n=3
+PAL b=463 n=4
+PAL b=463 n=5
+PAL b=463 n=6
+PAL b=463 n=7
+PAL b=463 n=8
+BASE b=463 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=464 n=1
+PAL b=464 n=2
+PAL b=464 n=3
+PAL b=464 n=4
+PAL b=464 n=5
+PAL b=464 n=6
+PAL b=464 n=7
+PAL b=464 n=8
+BASE b=464 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=465 n=1
+PAL b=465 n=2
+PAL b=465 n=3
+PAL b=465 n=4
+PAL b=465 n=5
+PAL b=465 n=6
+PAL b=465 n=7
+PAL b=465 n=8
+BASE b=465 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=466 n=1
+PAL b=466 n=2
+PAL b=466 n=3
+PAL b=466 n=4
+PAL b=466 n=5
+PAL b=466 n=6
+PAL b=466 n=7
+PAL b=466 n=8
+BASE b=466 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=467 n=1
+PAL b=467 n=2
+PAL b=467 n=3
+PAL b=467 n=4
+PAL b=467 n=5
+PAL b=467 n=6
+PAL b=467 n=7
+PAL b=467 n=8
+BASE b=467 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=468 n=1
+PAL b=468 n=2
+PAL b=468 n=3
+PAL b=468 n=4
+PAL b=468 n=5
+PAL b=468 n=6
+PAL b=468 n=7
+PAL b=468 n=8
+BASE b=468 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=469 n=1
+PAL b=469 n=2
+PAL b=469 n=3
+PAL b=469 n=4
+PAL b=469 n=5
+PAL b=469 n=6
+PAL b=469 n=7
+PAL b=469 n=8
+BASE b=469 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=470 n=1
+PAL b=470 n=2
+PAL b=470 n=3
+PAL b=470 n=4
+PAL b=470 n=5
+PAL b=470 n=6
+PAL b=470 n=7
+PAL b=470 n=8
+BASE b=470 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=471 n=1
+PAL b=471 n=2
+PAL b=471 n=3
+PAL b=471 n=4
+PAL b=471 n=5
+PAL b=471 n=6
+PAL b=471 n=7
+PAL b=471 n=8
+BASE b=471 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=472 n=1
+PAL b=472 n=2
+PAL b=472 n=3
+PAL b=472 n=4
+PAL b=472 n=5
+PAL b=472 n=6
+PAL b=472 n=7
+PAL b=472 n=8
+BASE b=472 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=473 n=1
+PAL b=473 n=2
+PAL b=473 n=3
+PAL b=473 n=4
+PAL b=473 n=5
+PAL b=473 n=6
+PAL b=473 n=7
+PAL b=473 n=8
+BASE b=473 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=474 n=1
+PAL b=474 n=2
+PAL b=474 n=3
+PAL b=474 n=4
+PAL b=474 n=5
+PAL b=474 n=6
+PAL b=474 n=7
+PAL b=474 n=8
+BASE b=474 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=475 n=1
+PAL b=475 n=2
+PAL b=475 n=3
+PAL b=475 n=4
+PAL b=475 n=5
+PAL b=475 n=6
+PAL b=475 n=7
+PAL b=475 n=8
+BASE b=475 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=476 n=1
+PAL b=476 n=2
+PAL b=476 n=3
+PAL b=476 n=4
+PAL b=476 n=5
+PAL b=476 n=6
+PAL b=476 n=7
+PAL b=476 n=8
+BASE b=476 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=477 n=1
+PAL b=477 n=2
+PAL b=477 n=3
+PAL b=477 n=4
+PAL b=477 n=5
+PAL b=477 n=6
+PAL b=477 n=7
+PAL b=477 n=8
+BASE b=477 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=478 n=1
+PAL b=478 n=2
+PAL b=478 n=3
+PAL b=478 n=4
+PAL b=478 n=5
+PAL b=478 n=6
+PAL b=478 n=7
+PAL b=478 n=8
+BASE b=478 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=479 n=1
+PAL b=479 n=2
+PAL b=479 n=3
+PAL b=479 n=4
+PAL b=479 n=5
+PAL b=479 n=6
+PAL b=479 n=7
+PAL b=479 n=8
+BASE b=479 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=480 n=1
+PAL b=480 n=2
+PAL b=480 n=3
+PAL b=480 n=4
+PAL b=480 n=5
+PAL b=480 n=6
+PAL b=480 n=7
+PAL b=480 n=8
+BASE b=480 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=481 n=1
+PAL b=481 n=2
+PAL b=481 n=3
+PAL b=481 n=4
+PAL b=481 n=5
+PAL b=481 n=6
+PAL b=481 n=7
+PAL b=481 n=8
+BASE b=481 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=482 n=1
+PAL b=482 n=2
+PAL b=482 n=3
+PAL b=482 n=4
+PAL b=482 n=5
+PAL b=482 n=6
+PAL b=482 n=7
+PAL b=482 n=8
+BASE b=482 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=483 n=1
+PAL b=483 n=2
+PAL b=483 n=3
+PAL b=483 n=4
+PAL b=483 n=5
+PAL b=483 n=6
+PAL b=483 n=7
+PAL b=483 n=8
+BASE b=483 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=484 n=1
+PAL b=484 n=2
+PAL b=484 n=3
+PAL b=484 n=4
+PAL b=484 n=5
+PAL b=484 n=6
+PAL b=484 n=7
+PAL b=484 n=8
+BASE b=484 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=485 n=1
+PAL b=485 n=2
+PAL b=485 n=3
+PAL b=485 n=4
+PAL b=485 n=5
+PAL b=485 n=6
+PAL b=485 n=7
+PAL b=485 n=8
+BASE b=485 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=486 n=1
+PAL b=486 n=2
+PAL b=486 n=3
+PAL b=486 n=4
+PAL b=486 n=5
+PAL b=486 n=6
+PAL b=486 n=7
+PAL b=486 n=8
+BASE b=486 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=487 n=1
+PAL b=487 n=2
+PAL b=487 n=3
+PAL b=487 n=4
+PAL b=487 n=5
+PAL b=487 n=6
+PAL b=487 n=7
+PAL b=487 n=8
+BASE b=487 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=488 n=1
+PAL b=488 n=2
+PAL b=488 n=3
+PAL b=488 n=4
+PAL b=488 n=5
+PAL b=488 n=6
+PAL b=488 n=7
+PAL b=488 n=8
+BASE b=488 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=489 n=1
+PAL b=489 n=2
+PAL b=489 n=3
+PAL b=489 n=4
+PAL b=489 n=5
+PAL b=489 n=6
+PAL b=489 n=7
+PAL b=489 n=8
+BASE b=489 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=490 n=1
+PAL b=490 n=2
+PAL b=490 n=3
+PAL b=490 n=4
+PAL b=490 n=5
+PAL b=490 n=6
+PAL b=490 n=7
+PAL b=490 n=8
+BASE b=490 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=491 n=1
+PAL b=491 n=2
+PAL b=491 n=3
+PAL b=491 n=4
+PAL b=491 n=5
+PAL b=491 n=6
+PAL b=491 n=7
+PAL b=491 n=8
+BASE b=491 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=492 n=1
+PAL b=492 n=2
+PAL b=492 n=3
+PAL b=492 n=4
+PAL b=492 n=5
+PAL b=492 n=6
+PAL b=492 n=7
+PAL b=492 n=8
+BASE b=492 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=493 n=1
+PAL b=493 n=2
+PAL b=493 n=3
+PAL b=493 n=4
+PAL b=493 n=5
+PAL b=493 n=6
+PAL b=493 n=7
+PAL b=493 n=8
+BASE b=493 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=494 n=1
+PAL b=494 n=2
+PAL b=494 n=3
+PAL b=494 n=4
+PAL b=494 n=5
+PAL b=494 n=6
+PAL b=494 n=7
+PAL b=494 n=8
+BASE b=494 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=495 n=1
+PAL b=495 n=2
+PAL b=495 n=3
+PAL b=495 n=4
+PAL b=495 n=5
+PAL b=495 n=6
+PAL b=495 n=7
+PAL b=495 n=8
+BASE b=495 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=496 n=1
+PAL b=496 n=2
+PAL b=496 n=3
+PAL b=496 n=4
+PAL b=496 n=5
+PAL b=496 n=6
+PAL b=496 n=7
+PAL b=496 n=8
+BASE b=496 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=497 n=1
+PAL b=497 n=2
+PAL b=497 n=3
+PAL b=497 n=4
+PAL b=497 n=5
+PAL b=497 n=6
+PAL b=497 n=7
+PAL b=497 n=8
+BASE b=497 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=498 n=1
+PAL b=498 n=2
+PAL b=498 n=3
+PAL b=498 n=4
+PAL b=498 n=5
+PAL b=498 n=6
+PAL b=498 n=7
+PAL b=498 n=8
+BASE b=498 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=499 n=1
+PAL b=499 n=2
+PAL b=499 n=3
+PAL b=499 n=4
+PAL b=499 n=5
+PAL b=499 n=6
+PAL b=499 n=7
+PAL b=499 n=8
+BASE b=499 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=500 n=1
+PAL b=500 n=2
+PAL b=500 n=3
+PAL b=500 n=4
+PAL b=500 n=5
+PAL b=500 n=6
+PAL b=500 n=7
+PAL b=500 n=8
+BASE b=500 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=501 n=1
+PAL b=501 n=2
+PAL b=501 n=3
+PAL b=501 n=4
+PAL b=501 n=5
+PAL b=501 n=6
+PAL b=501 n=7
+PAL b=501 n=8
+BASE b=501 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=502 n=1
+PAL b=502 n=2
+PAL b=502 n=3
+PAL b=502 n=4
+PAL b=502 n=5
+PAL b=502 n=6
+PAL b=502 n=7
+PAL b=502 n=8
+BASE b=502 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=503 n=1
+PAL b=503 n=2
+PAL b=503 n=3
+PAL b=503 n=4
+PAL b=503 n=5
+PAL b=503 n=6
+PAL b=503 n=7
+PAL b=503 n=8
+BASE b=503 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=504 n=1
+PAL b=504 n=2
+PAL b=504 n=3
+PAL b=504 n=4
+PAL b=504 n=5
+PAL b=504 n=6
+PAL b=504 n=7
+PAL b=504 n=8
+PAL b=504 n=21
+PAL b=504 n=22
+BASE b=504 nmax=1000000 found=10 stage2cands=0 j1=1 j2=6
+PAL b=505 n=1
+PAL b=505 n=2
+PAL b=505 n=3
+PAL b=505 n=4
+PAL b=505 n=5
+PAL b=505 n=6
+PAL b=505 n=7
+PAL b=505 n=8
+BASE b=505 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=506 n=1
+PAL b=506 n=2
+PAL b=506 n=3
+PAL b=506 n=4
+PAL b=506 n=5
+PAL b=506 n=6
+PAL b=506 n=7
+PAL b=506 n=8
+BASE b=506 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=507 n=1
+PAL b=507 n=2
+PAL b=507 n=3
+PAL b=507 n=4
+PAL b=507 n=5
+PAL b=507 n=6
+PAL b=507 n=7
+PAL b=507 n=8
+BASE b=507 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=508 n=1
+PAL b=508 n=2
+PAL b=508 n=3
+PAL b=508 n=4
+PAL b=508 n=5
+PAL b=508 n=6
+PAL b=508 n=7
+PAL b=508 n=8
+BASE b=508 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=509 n=1
+PAL b=509 n=2
+PAL b=509 n=3
+PAL b=509 n=4
+PAL b=509 n=5
+PAL b=509 n=6
+PAL b=509 n=7
+PAL b=509 n=8
+BASE b=509 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=510 n=1
+PAL b=510 n=2
+PAL b=510 n=3
+PAL b=510 n=4
+PAL b=510 n=5
+PAL b=510 n=6
+PAL b=510 n=7
+PAL b=510 n=8
+BASE b=510 nmax=1000000 found=8 stage2cands=0 j1=1 j2=6
+PAL b=511 n=1
+PAL b=511 n=2
+PAL b=511 n=3
+PAL b=511 n=4
+PAL b=511 n=5
+PAL b=511 n=6
+PAL b=511 n=7
+PAL b=511 n=8
+PAL b=511 n=9
+PAL b=511 n=10
+PAL b=511 n=11
+PAL b=511 n=12
+PAL b=511 n=13
+PAL b=511 n=14
+PAL b=511 n=15
+PAL b=511 n=16
+PAL b=511 n=17
+PAL b=511 n=18
+PAL b=511 n=19
+PAL b=511 n=20
+PAL b=511 n=21
+PAL b=511 n=22
+PAL b=511 n=23
+PAL b=511 n=24
+PAL b=511 n=25
+PAL b=511 n=27
+PAL b=511 n=28
+PAL b=511 n=29
+PAL b=511 n=30
+PAL b=511 n=31
+PAL b=511 n=32
+PAL b=511 n=33
+PAL b=511 n=34
+PAL b=511 n=36
+PAL b=511 n=37
+PAL b=511 n=38
+PAL b=511 n=39
+PAL b=511 n=40
+PAL b=511 n=41
+PAL b=511 n=42
+PAL b=511 n=45
+PAL b=511 n=46
+PAL b=511 n=47
+PAL b=511 n=48
+PAL b=511 n=49
+PAL b=511 n=50
+PAL b=511 n=54
+PAL b=511 n=55
+PAL b=511 n=56
+PAL b=511 n=57
+PAL b=511 n=58
+PAL b=511 n=63
+PAL b=511 n=64
+PAL b=511 n=65
+PAL b=511 n=66
+PAL b=511 n=72
+PAL b=511 n=73
+PAL b=511 n=74
+PAL b=511 n=81
+PAL b=511 n=82
+PAL b=511 n=83
+PAL b=511 n=90
+PAL b=511 n=91
+PAL b=511 n=99
+BASE b=511 nmax=1000000 found=64 stage2cands=0 j1=1 j2=6
+PAL b=513 n=1
+PAL b=513 n=2
+PAL b=513 n=3
+PAL b=513 n=4
+PAL b=513 n=5
+PAL b=513 n=6
+PAL b=513 n=7
+PAL b=513 n=8
+PAL b=513 n=9
+BASE b=513 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=514 n=1
+PAL b=514 n=2
+PAL b=514 n=3
+PAL b=514 n=4
+PAL b=514 n=5
+PAL b=514 n=6
+PAL b=514 n=7
+PAL b=514 n=8
+PAL b=514 n=9
+BASE b=514 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=515 n=1
+PAL b=515 n=2
+PAL b=515 n=3
+PAL b=515 n=4
+PAL b=515 n=5
+PAL b=515 n=6
+PAL b=515 n=7
+PAL b=515 n=8
+PAL b=515 n=9
+BASE b=515 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=516 n=1
+PAL b=516 n=2
+PAL b=516 n=3
+PAL b=516 n=4
+PAL b=516 n=5
+PAL b=516 n=6
+PAL b=516 n=7
+PAL b=516 n=8
+PAL b=516 n=9
+BASE b=516 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=517 n=1
+PAL b=517 n=2
+PAL b=517 n=3
+PAL b=517 n=4
+PAL b=517 n=5
+PAL b=517 n=6
+PAL b=517 n=7
+PAL b=517 n=8
+PAL b=517 n=9
+BASE b=517 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=518 n=1
+PAL b=518 n=2
+PAL b=518 n=3
+PAL b=518 n=4
+PAL b=518 n=5
+PAL b=518 n=6
+PAL b=518 n=7
+PAL b=518 n=8
+PAL b=518 n=9
+BASE b=518 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=519 n=1
+PAL b=519 n=2
+PAL b=519 n=3
+PAL b=519 n=4
+PAL b=519 n=5
+PAL b=519 n=6
+PAL b=519 n=7
+PAL b=519 n=8
+PAL b=519 n=9
+BASE b=519 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=520 n=1
+PAL b=520 n=2
+PAL b=520 n=3
+PAL b=520 n=4
+PAL b=520 n=5
+PAL b=520 n=6
+PAL b=520 n=7
+PAL b=520 n=8
+PAL b=520 n=9
+BASE b=520 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=521 n=1
+PAL b=521 n=2
+PAL b=521 n=3
+PAL b=521 n=4
+PAL b=521 n=5
+PAL b=521 n=6
+PAL b=521 n=7
+PAL b=521 n=8
+PAL b=521 n=9
+BASE b=521 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=522 n=1
+PAL b=522 n=2
+PAL b=522 n=3
+PAL b=522 n=4
+PAL b=522 n=5
+PAL b=522 n=6
+PAL b=522 n=7
+PAL b=522 n=8
+PAL b=522 n=9
+BASE b=522 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=523 n=1
+PAL b=523 n=2
+PAL b=523 n=3
+PAL b=523 n=4
+PAL b=523 n=5
+PAL b=523 n=6
+PAL b=523 n=7
+PAL b=523 n=8
+PAL b=523 n=9
+BASE b=523 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=524 n=1
+PAL b=524 n=2
+PAL b=524 n=3
+PAL b=524 n=4
+PAL b=524 n=5
+PAL b=524 n=6
+PAL b=524 n=7
+PAL b=524 n=8
+PAL b=524 n=9
+BASE b=524 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=525 n=1
+PAL b=525 n=2
+PAL b=525 n=3
+PAL b=525 n=4
+PAL b=525 n=5
+PAL b=525 n=6
+PAL b=525 n=7
+PAL b=525 n=8
+PAL b=525 n=9
+BASE b=525 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=526 n=1
+PAL b=526 n=2
+PAL b=526 n=3
+PAL b=526 n=4
+PAL b=526 n=5
+PAL b=526 n=6
+PAL b=526 n=7
+PAL b=526 n=8
+PAL b=526 n=9
+BASE b=526 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=527 n=1
+PAL b=527 n=2
+PAL b=527 n=3
+PAL b=527 n=4
+PAL b=527 n=5
+PAL b=527 n=6
+PAL b=527 n=7
+PAL b=527 n=8
+PAL b=527 n=9
+BASE b=527 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=528 n=1
+PAL b=528 n=2
+PAL b=528 n=3
+PAL b=528 n=4
+PAL b=528 n=5
+PAL b=528 n=6
+PAL b=528 n=7
+PAL b=528 n=8
+PAL b=528 n=9
+BASE b=528 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=529 n=1
+PAL b=529 n=2
+PAL b=529 n=3
+PAL b=529 n=4
+PAL b=529 n=5
+PAL b=529 n=6
+PAL b=529 n=7
+PAL b=529 n=8
+PAL b=529 n=9
+BASE b=529 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=530 n=1
+PAL b=530 n=2
+PAL b=530 n=3
+PAL b=530 n=4
+PAL b=530 n=5
+PAL b=530 n=6
+PAL b=530 n=7
+PAL b=530 n=8
+PAL b=530 n=9
+BASE b=530 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=531 n=1
+PAL b=531 n=2
+PAL b=531 n=3
+PAL b=531 n=4
+PAL b=531 n=5
+PAL b=531 n=6
+PAL b=531 n=7
+PAL b=531 n=8
+PAL b=531 n=9
+BASE b=531 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=532 n=1
+PAL b=532 n=2
+PAL b=532 n=3
+PAL b=532 n=4
+PAL b=532 n=5
+PAL b=532 n=6
+PAL b=532 n=7
+PAL b=532 n=8
+PAL b=532 n=9
+BASE b=532 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=533 n=1
+PAL b=533 n=2
+PAL b=533 n=3
+PAL b=533 n=4
+PAL b=533 n=5
+PAL b=533 n=6
+PAL b=533 n=7
+PAL b=533 n=8
+PAL b=533 n=9
+BASE b=533 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=534 n=1
+PAL b=534 n=2
+PAL b=534 n=3
+PAL b=534 n=4
+PAL b=534 n=5
+PAL b=534 n=6
+PAL b=534 n=7
+PAL b=534 n=8
+PAL b=534 n=9
+BASE b=534 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=535 n=1
+PAL b=535 n=2
+PAL b=535 n=3
+PAL b=535 n=4
+PAL b=535 n=5
+PAL b=535 n=6
+PAL b=535 n=7
+PAL b=535 n=8
+PAL b=535 n=9
+BASE b=535 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=536 n=1
+PAL b=536 n=2
+PAL b=536 n=3
+PAL b=536 n=4
+PAL b=536 n=5
+PAL b=536 n=6
+PAL b=536 n=7
+PAL b=536 n=8
+PAL b=536 n=9
+BASE b=536 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=537 n=1
+PAL b=537 n=2
+PAL b=537 n=3
+PAL b=537 n=4
+PAL b=537 n=5
+PAL b=537 n=6
+PAL b=537 n=7
+PAL b=537 n=8
+PAL b=537 n=9
+BASE b=537 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=538 n=1
+PAL b=538 n=2
+PAL b=538 n=3
+PAL b=538 n=4
+PAL b=538 n=5
+PAL b=538 n=6
+PAL b=538 n=7
+PAL b=538 n=8
+PAL b=538 n=9
+BASE b=538 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=539 n=1
+PAL b=539 n=2
+PAL b=539 n=3
+PAL b=539 n=4
+PAL b=539 n=5
+PAL b=539 n=6
+PAL b=539 n=7
+PAL b=539 n=8
+PAL b=539 n=9
+BASE b=539 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=540 n=1
+PAL b=540 n=2
+PAL b=540 n=3
+PAL b=540 n=4
+PAL b=540 n=5
+PAL b=540 n=6
+PAL b=540 n=7
+PAL b=540 n=8
+PAL b=540 n=9
+BASE b=540 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=541 n=1
+PAL b=541 n=2
+PAL b=541 n=3
+PAL b=541 n=4
+PAL b=541 n=5
+PAL b=541 n=6
+PAL b=541 n=7
+PAL b=541 n=8
+PAL b=541 n=9
+BASE b=541 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=542 n=1
+PAL b=542 n=2
+PAL b=542 n=3
+PAL b=542 n=4
+PAL b=542 n=5
+PAL b=542 n=6
+PAL b=542 n=7
+PAL b=542 n=8
+PAL b=542 n=9
+BASE b=542 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=543 n=1
+PAL b=543 n=2
+PAL b=543 n=3
+PAL b=543 n=4
+PAL b=543 n=5
+PAL b=543 n=6
+PAL b=543 n=7
+PAL b=543 n=8
+PAL b=543 n=9
+BASE b=543 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=544 n=1
+PAL b=544 n=2
+PAL b=544 n=3
+PAL b=544 n=4
+PAL b=544 n=5
+PAL b=544 n=6
+PAL b=544 n=7
+PAL b=544 n=8
+PAL b=544 n=9
+BASE b=544 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=545 n=1
+PAL b=545 n=2
+PAL b=545 n=3
+PAL b=545 n=4
+PAL b=545 n=5
+PAL b=545 n=6
+PAL b=545 n=7
+PAL b=545 n=8
+PAL b=545 n=9
+BASE b=545 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=546 n=1
+PAL b=546 n=2
+PAL b=546 n=3
+PAL b=546 n=4
+PAL b=546 n=5
+PAL b=546 n=6
+PAL b=546 n=7
+PAL b=546 n=8
+PAL b=546 n=9
+BASE b=546 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=547 n=1
+PAL b=547 n=2
+PAL b=547 n=3
+PAL b=547 n=4
+PAL b=547 n=5
+PAL b=547 n=6
+PAL b=547 n=7
+PAL b=547 n=8
+PAL b=547 n=9
+BASE b=547 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=548 n=1
+PAL b=548 n=2
+PAL b=548 n=3
+PAL b=548 n=4
+PAL b=548 n=5
+PAL b=548 n=6
+PAL b=548 n=7
+PAL b=548 n=8
+PAL b=548 n=9
+BASE b=548 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=549 n=1
+PAL b=549 n=2
+PAL b=549 n=3
+PAL b=549 n=4
+PAL b=549 n=5
+PAL b=549 n=6
+PAL b=549 n=7
+PAL b=549 n=8
+PAL b=549 n=9
+BASE b=549 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=550 n=1
+PAL b=550 n=2
+PAL b=550 n=3
+PAL b=550 n=4
+PAL b=550 n=5
+PAL b=550 n=6
+PAL b=550 n=7
+PAL b=550 n=8
+PAL b=550 n=9
+BASE b=550 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=551 n=1
+PAL b=551 n=2
+PAL b=551 n=3
+PAL b=551 n=4
+PAL b=551 n=5
+PAL b=551 n=6
+PAL b=551 n=7
+PAL b=551 n=8
+PAL b=551 n=9
+BASE b=551 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=552 n=1
+PAL b=552 n=2
+PAL b=552 n=3
+PAL b=552 n=4
+PAL b=552 n=5
+PAL b=552 n=6
+PAL b=552 n=7
+PAL b=552 n=8
+PAL b=552 n=9
+BASE b=552 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=553 n=1
+PAL b=553 n=2
+PAL b=553 n=3
+PAL b=553 n=4
+PAL b=553 n=5
+PAL b=553 n=6
+PAL b=553 n=7
+PAL b=553 n=8
+PAL b=553 n=9
+BASE b=553 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=554 n=1
+PAL b=554 n=2
+PAL b=554 n=3
+PAL b=554 n=4
+PAL b=554 n=5
+PAL b=554 n=6
+PAL b=554 n=7
+PAL b=554 n=8
+PAL b=554 n=9
+BASE b=554 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=555 n=1
+PAL b=555 n=2
+PAL b=555 n=3
+PAL b=555 n=4
+PAL b=555 n=5
+PAL b=555 n=6
+PAL b=555 n=7
+PAL b=555 n=8
+PAL b=555 n=9
+BASE b=555 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=556 n=1
+PAL b=556 n=2
+PAL b=556 n=3
+PAL b=556 n=4
+PAL b=556 n=5
+PAL b=556 n=6
+PAL b=556 n=7
+PAL b=556 n=8
+PAL b=556 n=9
+BASE b=556 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=557 n=1
+PAL b=557 n=2
+PAL b=557 n=3
+PAL b=557 n=4
+PAL b=557 n=5
+PAL b=557 n=6
+PAL b=557 n=7
+PAL b=557 n=8
+PAL b=557 n=9
+BASE b=557 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=558 n=1
+PAL b=558 n=2
+PAL b=558 n=3
+PAL b=558 n=4
+PAL b=558 n=5
+PAL b=558 n=6
+PAL b=558 n=7
+PAL b=558 n=8
+PAL b=558 n=9
+BASE b=558 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=559 n=1
+PAL b=559 n=2
+PAL b=559 n=3
+PAL b=559 n=4
+PAL b=559 n=5
+PAL b=559 n=6
+PAL b=559 n=7
+PAL b=559 n=8
+PAL b=559 n=9
+BASE b=559 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=560 n=1
+PAL b=560 n=2
+PAL b=560 n=3
+PAL b=560 n=4
+PAL b=560 n=5
+PAL b=560 n=6
+PAL b=560 n=7
+PAL b=560 n=8
+PAL b=560 n=9
+BASE b=560 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=561 n=1
+PAL b=561 n=2
+PAL b=561 n=3
+PAL b=561 n=4
+PAL b=561 n=5
+PAL b=561 n=6
+PAL b=561 n=7
+PAL b=561 n=8
+PAL b=561 n=9
+BASE b=561 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=562 n=1
+PAL b=562 n=2
+PAL b=562 n=3
+PAL b=562 n=4
+PAL b=562 n=5
+PAL b=562 n=6
+PAL b=562 n=7
+PAL b=562 n=8
+PAL b=562 n=9
+BASE b=562 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=563 n=1
+PAL b=563 n=2
+PAL b=563 n=3
+PAL b=563 n=4
+PAL b=563 n=5
+PAL b=563 n=6
+PAL b=563 n=7
+PAL b=563 n=8
+PAL b=563 n=9
+BASE b=563 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=564 n=1
+PAL b=564 n=2
+PAL b=564 n=3
+PAL b=564 n=4
+PAL b=564 n=5
+PAL b=564 n=6
+PAL b=564 n=7
+PAL b=564 n=8
+PAL b=564 n=9
+BASE b=564 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=565 n=1
+PAL b=565 n=2
+PAL b=565 n=3
+PAL b=565 n=4
+PAL b=565 n=5
+PAL b=565 n=6
+PAL b=565 n=7
+PAL b=565 n=8
+PAL b=565 n=9
+BASE b=565 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=566 n=1
+PAL b=566 n=2
+PAL b=566 n=3
+PAL b=566 n=4
+PAL b=566 n=5
+PAL b=566 n=6
+PAL b=566 n=7
+PAL b=566 n=8
+PAL b=566 n=9
+BASE b=566 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=567 n=1
+PAL b=567 n=2
+PAL b=567 n=3
+PAL b=567 n=4
+PAL b=567 n=5
+PAL b=567 n=6
+PAL b=567 n=7
+PAL b=567 n=8
+PAL b=567 n=9
+BASE b=567 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=568 n=1
+PAL b=568 n=2
+PAL b=568 n=3
+PAL b=568 n=4
+PAL b=568 n=5
+PAL b=568 n=6
+PAL b=568 n=7
+PAL b=568 n=8
+PAL b=568 n=9
+BASE b=568 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=569 n=1
+PAL b=569 n=2
+PAL b=569 n=3
+PAL b=569 n=4
+PAL b=569 n=5
+PAL b=569 n=6
+PAL b=569 n=7
+PAL b=569 n=8
+PAL b=569 n=9
+BASE b=569 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=570 n=1
+PAL b=570 n=2
+PAL b=570 n=3
+PAL b=570 n=4
+PAL b=570 n=5
+PAL b=570 n=6
+PAL b=570 n=7
+PAL b=570 n=8
+PAL b=570 n=9
+BASE b=570 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=571 n=1
+PAL b=571 n=2
+PAL b=571 n=3
+PAL b=571 n=4
+PAL b=571 n=5
+PAL b=571 n=6
+PAL b=571 n=7
+PAL b=571 n=8
+PAL b=571 n=9
+BASE b=571 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=572 n=1
+PAL b=572 n=2
+PAL b=572 n=3
+PAL b=572 n=4
+PAL b=572 n=5
+PAL b=572 n=6
+PAL b=572 n=7
+PAL b=572 n=8
+PAL b=572 n=9
+BASE b=572 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=573 n=1
+PAL b=573 n=2
+PAL b=573 n=3
+PAL b=573 n=4
+PAL b=573 n=5
+PAL b=573 n=6
+PAL b=573 n=7
+PAL b=573 n=8
+PAL b=573 n=9
+BASE b=573 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=574 n=1
+PAL b=574 n=2
+PAL b=574 n=3
+PAL b=574 n=4
+PAL b=574 n=5
+PAL b=574 n=6
+PAL b=574 n=7
+PAL b=574 n=8
+PAL b=574 n=9
+BASE b=574 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=575 n=1
+PAL b=575 n=2
+PAL b=575 n=3
+PAL b=575 n=4
+PAL b=575 n=5
+PAL b=575 n=6
+PAL b=575 n=7
+PAL b=575 n=8
+PAL b=575 n=9
+BASE b=575 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=576 n=1
+PAL b=576 n=2
+PAL b=576 n=3
+PAL b=576 n=4
+PAL b=576 n=5
+PAL b=576 n=6
+PAL b=576 n=7
+PAL b=576 n=8
+PAL b=576 n=9
+BASE b=576 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=577 n=1
+PAL b=577 n=2
+PAL b=577 n=3
+PAL b=577 n=4
+PAL b=577 n=5
+PAL b=577 n=6
+PAL b=577 n=7
+PAL b=577 n=8
+PAL b=577 n=9
+BASE b=577 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=578 n=1
+PAL b=578 n=2
+PAL b=578 n=3
+PAL b=578 n=4
+PAL b=578 n=5
+PAL b=578 n=6
+PAL b=578 n=7
+PAL b=578 n=8
+PAL b=578 n=9
+BASE b=578 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=579 n=1
+PAL b=579 n=2
+PAL b=579 n=3
+PAL b=579 n=4
+PAL b=579 n=5
+PAL b=579 n=6
+PAL b=579 n=7
+PAL b=579 n=8
+PAL b=579 n=9
+BASE b=579 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=580 n=1
+PAL b=580 n=2
+PAL b=580 n=3
+PAL b=580 n=4
+PAL b=580 n=5
+PAL b=580 n=6
+PAL b=580 n=7
+PAL b=580 n=8
+PAL b=580 n=9
+BASE b=580 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=581 n=1
+PAL b=581 n=2
+PAL b=581 n=3
+PAL b=581 n=4
+PAL b=581 n=5
+PAL b=581 n=6
+PAL b=581 n=7
+PAL b=581 n=8
+PAL b=581 n=9
+BASE b=581 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=582 n=1
+PAL b=582 n=2
+PAL b=582 n=3
+PAL b=582 n=4
+PAL b=582 n=5
+PAL b=582 n=6
+PAL b=582 n=7
+PAL b=582 n=8
+PAL b=582 n=9
+BASE b=582 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=583 n=1
+PAL b=583 n=2
+PAL b=583 n=3
+PAL b=583 n=4
+PAL b=583 n=5
+PAL b=583 n=6
+PAL b=583 n=7
+PAL b=583 n=8
+PAL b=583 n=9
+BASE b=583 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=584 n=1
+PAL b=584 n=2
+PAL b=584 n=3
+PAL b=584 n=4
+PAL b=584 n=5
+PAL b=584 n=6
+PAL b=584 n=7
+PAL b=584 n=8
+PAL b=584 n=9
+BASE b=584 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=585 n=1
+PAL b=585 n=2
+PAL b=585 n=3
+PAL b=585 n=4
+PAL b=585 n=5
+PAL b=585 n=6
+PAL b=585 n=7
+PAL b=585 n=8
+PAL b=585 n=9
+BASE b=585 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=586 n=1
+PAL b=586 n=2
+PAL b=586 n=3
+PAL b=586 n=4
+PAL b=586 n=5
+PAL b=586 n=6
+PAL b=586 n=7
+PAL b=586 n=8
+PAL b=586 n=9
+BASE b=586 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=587 n=1
+PAL b=587 n=2
+PAL b=587 n=3
+PAL b=587 n=4
+PAL b=587 n=5
+PAL b=587 n=6
+PAL b=587 n=7
+PAL b=587 n=8
+PAL b=587 n=9
+BASE b=587 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=588 n=1
+PAL b=588 n=2
+PAL b=588 n=3
+PAL b=588 n=4
+PAL b=588 n=5
+PAL b=588 n=6
+PAL b=588 n=7
+PAL b=588 n=8
+PAL b=588 n=9
+BASE b=588 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=589 n=1
+PAL b=589 n=2
+PAL b=589 n=3
+PAL b=589 n=4
+PAL b=589 n=5
+PAL b=589 n=6
+PAL b=589 n=7
+PAL b=589 n=8
+PAL b=589 n=9
+BASE b=589 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=590 n=1
+PAL b=590 n=2
+PAL b=590 n=3
+PAL b=590 n=4
+PAL b=590 n=5
+PAL b=590 n=6
+PAL b=590 n=7
+PAL b=590 n=8
+PAL b=590 n=9
+BASE b=590 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=591 n=1
+PAL b=591 n=2
+PAL b=591 n=3
+PAL b=591 n=4
+PAL b=591 n=5
+PAL b=591 n=6
+PAL b=591 n=7
+PAL b=591 n=8
+PAL b=591 n=9
+BASE b=591 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=592 n=1
+PAL b=592 n=2
+PAL b=592 n=3
+PAL b=592 n=4
+PAL b=592 n=5
+PAL b=592 n=6
+PAL b=592 n=7
+PAL b=592 n=8
+PAL b=592 n=9
+BASE b=592 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=593 n=1
+PAL b=593 n=2
+PAL b=593 n=3
+PAL b=593 n=4
+PAL b=593 n=5
+PAL b=593 n=6
+PAL b=593 n=7
+PAL b=593 n=8
+PAL b=593 n=9
+BASE b=593 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=594 n=1
+PAL b=594 n=2
+PAL b=594 n=3
+PAL b=594 n=4
+PAL b=594 n=5
+PAL b=594 n=6
+PAL b=594 n=7
+PAL b=594 n=8
+PAL b=594 n=9
+BASE b=594 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=595 n=1
+PAL b=595 n=2
+PAL b=595 n=3
+PAL b=595 n=4
+PAL b=595 n=5
+PAL b=595 n=6
+PAL b=595 n=7
+PAL b=595 n=8
+PAL b=595 n=9
+BASE b=595 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=596 n=1
+PAL b=596 n=2
+PAL b=596 n=3
+PAL b=596 n=4
+PAL b=596 n=5
+PAL b=596 n=6
+PAL b=596 n=7
+PAL b=596 n=8
+PAL b=596 n=9
+BASE b=596 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=597 n=1
+PAL b=597 n=2
+PAL b=597 n=3
+PAL b=597 n=4
+PAL b=597 n=5
+PAL b=597 n=6
+PAL b=597 n=7
+PAL b=597 n=8
+PAL b=597 n=9
+BASE b=597 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=598 n=1
+PAL b=598 n=2
+PAL b=598 n=3
+PAL b=598 n=4
+PAL b=598 n=5
+PAL b=598 n=6
+PAL b=598 n=7
+PAL b=598 n=8
+PAL b=598 n=9
+BASE b=598 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=599 n=1
+PAL b=599 n=2
+PAL b=599 n=3
+PAL b=599 n=4
+PAL b=599 n=5
+PAL b=599 n=6
+PAL b=599 n=7
+PAL b=599 n=8
+PAL b=599 n=9
+BASE b=599 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=600 n=1
+PAL b=600 n=2
+PAL b=600 n=3
+PAL b=600 n=4
+PAL b=600 n=5
+PAL b=600 n=6
+PAL b=600 n=7
+PAL b=600 n=8
+PAL b=600 n=9
+BASE b=600 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=601 n=1
+PAL b=601 n=2
+PAL b=601 n=3
+PAL b=601 n=4
+PAL b=601 n=5
+PAL b=601 n=6
+PAL b=601 n=7
+PAL b=601 n=8
+PAL b=601 n=9
+BASE b=601 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=602 n=1
+PAL b=602 n=2
+PAL b=602 n=3
+PAL b=602 n=4
+PAL b=602 n=5
+PAL b=602 n=6
+PAL b=602 n=7
+PAL b=602 n=8
+PAL b=602 n=9
+BASE b=602 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=603 n=1
+PAL b=603 n=2
+PAL b=603 n=3
+PAL b=603 n=4
+PAL b=603 n=5
+PAL b=603 n=6
+PAL b=603 n=7
+PAL b=603 n=8
+PAL b=603 n=9
+BASE b=603 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=604 n=1
+PAL b=604 n=2
+PAL b=604 n=3
+PAL b=604 n=4
+PAL b=604 n=5
+PAL b=604 n=6
+PAL b=604 n=7
+PAL b=604 n=8
+PAL b=604 n=9
+BASE b=604 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=605 n=1
+PAL b=605 n=2
+PAL b=605 n=3
+PAL b=605 n=4
+PAL b=605 n=5
+PAL b=605 n=6
+PAL b=605 n=7
+PAL b=605 n=8
+PAL b=605 n=9
+BASE b=605 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=606 n=1
+PAL b=606 n=2
+PAL b=606 n=3
+PAL b=606 n=4
+PAL b=606 n=5
+PAL b=606 n=6
+PAL b=606 n=7
+PAL b=606 n=8
+PAL b=606 n=9
+BASE b=606 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=607 n=1
+PAL b=607 n=2
+PAL b=607 n=3
+PAL b=607 n=4
+PAL b=607 n=5
+PAL b=607 n=6
+PAL b=607 n=7
+PAL b=607 n=8
+PAL b=607 n=9
+BASE b=607 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=608 n=1
+PAL b=608 n=2
+PAL b=608 n=3
+PAL b=608 n=4
+PAL b=608 n=5
+PAL b=608 n=6
+PAL b=608 n=7
+PAL b=608 n=8
+PAL b=608 n=9
+BASE b=608 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=609 n=1
+PAL b=609 n=2
+PAL b=609 n=3
+PAL b=609 n=4
+PAL b=609 n=5
+PAL b=609 n=6
+PAL b=609 n=7
+PAL b=609 n=8
+PAL b=609 n=9
+BASE b=609 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=610 n=1
+PAL b=610 n=2
+PAL b=610 n=3
+PAL b=610 n=4
+PAL b=610 n=5
+PAL b=610 n=6
+PAL b=610 n=7
+PAL b=610 n=8
+PAL b=610 n=9
+BASE b=610 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=611 n=1
+PAL b=611 n=2
+PAL b=611 n=3
+PAL b=611 n=4
+PAL b=611 n=5
+PAL b=611 n=6
+PAL b=611 n=7
+PAL b=611 n=8
+PAL b=611 n=9
+BASE b=611 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=612 n=1
+PAL b=612 n=2
+PAL b=612 n=3
+PAL b=612 n=4
+PAL b=612 n=5
+PAL b=612 n=6
+PAL b=612 n=7
+PAL b=612 n=8
+PAL b=612 n=9
+BASE b=612 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=613 n=1
+PAL b=613 n=2
+PAL b=613 n=3
+PAL b=613 n=4
+PAL b=613 n=5
+PAL b=613 n=6
+PAL b=613 n=7
+PAL b=613 n=8
+PAL b=613 n=9
+BASE b=613 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=614 n=1
+PAL b=614 n=2
+PAL b=614 n=3
+PAL b=614 n=4
+PAL b=614 n=5
+PAL b=614 n=6
+PAL b=614 n=7
+PAL b=614 n=8
+PAL b=614 n=9
+BASE b=614 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=615 n=1
+PAL b=615 n=2
+PAL b=615 n=3
+PAL b=615 n=4
+PAL b=615 n=5
+PAL b=615 n=6
+PAL b=615 n=7
+PAL b=615 n=8
+PAL b=615 n=9
+BASE b=615 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=616 n=1
+PAL b=616 n=2
+PAL b=616 n=3
+PAL b=616 n=4
+PAL b=616 n=5
+PAL b=616 n=6
+PAL b=616 n=7
+PAL b=616 n=8
+PAL b=616 n=9
+BASE b=616 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=617 n=1
+PAL b=617 n=2
+PAL b=617 n=3
+PAL b=617 n=4
+PAL b=617 n=5
+PAL b=617 n=6
+PAL b=617 n=7
+PAL b=617 n=8
+PAL b=617 n=9
+BASE b=617 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=618 n=1
+PAL b=618 n=2
+PAL b=618 n=3
+PAL b=618 n=4
+PAL b=618 n=5
+PAL b=618 n=6
+PAL b=618 n=7
+PAL b=618 n=8
+PAL b=618 n=9
+BASE b=618 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=619 n=1
+PAL b=619 n=2
+PAL b=619 n=3
+PAL b=619 n=4
+PAL b=619 n=5
+PAL b=619 n=6
+PAL b=619 n=7
+PAL b=619 n=8
+PAL b=619 n=9
+BASE b=619 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=620 n=1
+PAL b=620 n=2
+PAL b=620 n=3
+PAL b=620 n=4
+PAL b=620 n=5
+PAL b=620 n=6
+PAL b=620 n=7
+PAL b=620 n=8
+PAL b=620 n=9
+BASE b=620 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=621 n=1
+PAL b=621 n=2
+PAL b=621 n=3
+PAL b=621 n=4
+PAL b=621 n=5
+PAL b=621 n=6
+PAL b=621 n=7
+PAL b=621 n=8
+PAL b=621 n=9
+BASE b=621 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=622 n=1
+PAL b=622 n=2
+PAL b=622 n=3
+PAL b=622 n=4
+PAL b=622 n=5
+PAL b=622 n=6
+PAL b=622 n=7
+PAL b=622 n=8
+PAL b=622 n=9
+BASE b=622 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=623 n=1
+PAL b=623 n=2
+PAL b=623 n=3
+PAL b=623 n=4
+PAL b=623 n=5
+PAL b=623 n=6
+PAL b=623 n=7
+PAL b=623 n=8
+PAL b=623 n=9
+BASE b=623 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=624 n=1
+PAL b=624 n=2
+PAL b=624 n=3
+PAL b=624 n=4
+PAL b=624 n=5
+PAL b=624 n=6
+PAL b=624 n=7
+PAL b=624 n=8
+PAL b=624 n=9
+BASE b=624 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=625 n=1
+PAL b=625 n=2
+PAL b=625 n=3
+PAL b=625 n=4
+PAL b=625 n=5
+PAL b=625 n=6
+PAL b=625 n=7
+PAL b=625 n=8
+PAL b=625 n=9
+BASE b=625 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=626 n=1
+PAL b=626 n=2
+PAL b=626 n=3
+PAL b=626 n=4
+PAL b=626 n=5
+PAL b=626 n=6
+PAL b=626 n=7
+PAL b=626 n=8
+PAL b=626 n=9
+BASE b=626 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=627 n=1
+PAL b=627 n=2
+PAL b=627 n=3
+PAL b=627 n=4
+PAL b=627 n=5
+PAL b=627 n=6
+PAL b=627 n=7
+PAL b=627 n=8
+PAL b=627 n=9
+BASE b=627 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=628 n=1
+PAL b=628 n=2
+PAL b=628 n=3
+PAL b=628 n=4
+PAL b=628 n=5
+PAL b=628 n=6
+PAL b=628 n=7
+PAL b=628 n=8
+PAL b=628 n=9
+BASE b=628 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=629 n=1
+PAL b=629 n=2
+PAL b=629 n=3
+PAL b=629 n=4
+PAL b=629 n=5
+PAL b=629 n=6
+PAL b=629 n=7
+PAL b=629 n=8
+PAL b=629 n=9
+BASE b=629 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=630 n=1
+PAL b=630 n=2
+PAL b=630 n=3
+PAL b=630 n=4
+PAL b=630 n=5
+PAL b=630 n=6
+PAL b=630 n=7
+PAL b=630 n=8
+PAL b=630 n=9
+BASE b=630 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=631 n=1
+PAL b=631 n=2
+PAL b=631 n=3
+PAL b=631 n=4
+PAL b=631 n=5
+PAL b=631 n=6
+PAL b=631 n=7
+PAL b=631 n=8
+PAL b=631 n=9
+BASE b=631 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=632 n=1
+PAL b=632 n=2
+PAL b=632 n=3
+PAL b=632 n=4
+PAL b=632 n=5
+PAL b=632 n=6
+PAL b=632 n=7
+PAL b=632 n=8
+PAL b=632 n=9
+BASE b=632 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=633 n=1
+PAL b=633 n=2
+PAL b=633 n=3
+PAL b=633 n=4
+PAL b=633 n=5
+PAL b=633 n=6
+PAL b=633 n=7
+PAL b=633 n=8
+PAL b=633 n=9
+BASE b=633 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=634 n=1
+PAL b=634 n=2
+PAL b=634 n=3
+PAL b=634 n=4
+PAL b=634 n=5
+PAL b=634 n=6
+PAL b=634 n=7
+PAL b=634 n=8
+PAL b=634 n=9
+BASE b=634 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=635 n=1
+PAL b=635 n=2
+PAL b=635 n=3
+PAL b=635 n=4
+PAL b=635 n=5
+PAL b=635 n=6
+PAL b=635 n=7
+PAL b=635 n=8
+PAL b=635 n=9
+BASE b=635 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=636 n=1
+PAL b=636 n=2
+PAL b=636 n=3
+PAL b=636 n=4
+PAL b=636 n=5
+PAL b=636 n=6
+PAL b=636 n=7
+PAL b=636 n=8
+PAL b=636 n=9
+BASE b=636 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=637 n=1
+PAL b=637 n=2
+PAL b=637 n=3
+PAL b=637 n=4
+PAL b=637 n=5
+PAL b=637 n=6
+PAL b=637 n=7
+PAL b=637 n=8
+PAL b=637 n=9
+BASE b=637 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=638 n=1
+PAL b=638 n=2
+PAL b=638 n=3
+PAL b=638 n=4
+PAL b=638 n=5
+PAL b=638 n=6
+PAL b=638 n=7
+PAL b=638 n=8
+PAL b=638 n=9
+BASE b=638 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=639 n=1
+PAL b=639 n=2
+PAL b=639 n=3
+PAL b=639 n=4
+PAL b=639 n=5
+PAL b=639 n=6
+PAL b=639 n=7
+PAL b=639 n=8
+PAL b=639 n=9
+BASE b=639 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=640 n=1
+PAL b=640 n=2
+PAL b=640 n=3
+PAL b=640 n=4
+PAL b=640 n=5
+PAL b=640 n=6
+PAL b=640 n=7
+PAL b=640 n=8
+PAL b=640 n=9
+BASE b=640 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=641 n=1
+PAL b=641 n=2
+PAL b=641 n=3
+PAL b=641 n=4
+PAL b=641 n=5
+PAL b=641 n=6
+PAL b=641 n=7
+PAL b=641 n=8
+PAL b=641 n=9
+BASE b=641 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=642 n=1
+PAL b=642 n=2
+PAL b=642 n=3
+PAL b=642 n=4
+PAL b=642 n=5
+PAL b=642 n=6
+PAL b=642 n=7
+PAL b=642 n=8
+PAL b=642 n=9
+BASE b=642 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=643 n=1
+PAL b=643 n=2
+PAL b=643 n=3
+PAL b=643 n=4
+PAL b=643 n=5
+PAL b=643 n=6
+PAL b=643 n=7
+PAL b=643 n=8
+PAL b=643 n=9
+BASE b=643 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=644 n=1
+PAL b=644 n=2
+PAL b=644 n=3
+PAL b=644 n=4
+PAL b=644 n=5
+PAL b=644 n=6
+PAL b=644 n=7
+PAL b=644 n=8
+PAL b=644 n=9
+BASE b=644 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=645 n=1
+PAL b=645 n=2
+PAL b=645 n=3
+PAL b=645 n=4
+PAL b=645 n=5
+PAL b=645 n=6
+PAL b=645 n=7
+PAL b=645 n=8
+PAL b=645 n=9
+BASE b=645 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=646 n=1
+PAL b=646 n=2
+PAL b=646 n=3
+PAL b=646 n=4
+PAL b=646 n=5
+PAL b=646 n=6
+PAL b=646 n=7
+PAL b=646 n=8
+PAL b=646 n=9
+BASE b=646 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=647 n=1
+PAL b=647 n=2
+PAL b=647 n=3
+PAL b=647 n=4
+PAL b=647 n=5
+PAL b=647 n=6
+PAL b=647 n=7
+PAL b=647 n=8
+PAL b=647 n=9
+BASE b=647 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=648 n=1
+PAL b=648 n=2
+PAL b=648 n=3
+PAL b=648 n=4
+PAL b=648 n=5
+PAL b=648 n=6
+PAL b=648 n=7
+PAL b=648 n=8
+PAL b=648 n=9
+BASE b=648 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=649 n=1
+PAL b=649 n=2
+PAL b=649 n=3
+PAL b=649 n=4
+PAL b=649 n=5
+PAL b=649 n=6
+PAL b=649 n=7
+PAL b=649 n=8
+PAL b=649 n=9
+BASE b=649 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=650 n=1
+PAL b=650 n=2
+PAL b=650 n=3
+PAL b=650 n=4
+PAL b=650 n=5
+PAL b=650 n=6
+PAL b=650 n=7
+PAL b=650 n=8
+PAL b=650 n=9
+BASE b=650 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=651 n=1
+PAL b=651 n=2
+PAL b=651 n=3
+PAL b=651 n=4
+PAL b=651 n=5
+PAL b=651 n=6
+PAL b=651 n=7
+PAL b=651 n=8
+PAL b=651 n=9
+BASE b=651 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=652 n=1
+PAL b=652 n=2
+PAL b=652 n=3
+PAL b=652 n=4
+PAL b=652 n=5
+PAL b=652 n=6
+PAL b=652 n=7
+PAL b=652 n=8
+PAL b=652 n=9
+BASE b=652 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=653 n=1
+PAL b=653 n=2
+PAL b=653 n=3
+PAL b=653 n=4
+PAL b=653 n=5
+PAL b=653 n=6
+PAL b=653 n=7
+PAL b=653 n=8
+PAL b=653 n=9
+BASE b=653 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=654 n=1
+PAL b=654 n=2
+PAL b=654 n=3
+PAL b=654 n=4
+PAL b=654 n=5
+PAL b=654 n=6
+PAL b=654 n=7
+PAL b=654 n=8
+PAL b=654 n=9
+BASE b=654 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=655 n=1
+PAL b=655 n=2
+PAL b=655 n=3
+PAL b=655 n=4
+PAL b=655 n=5
+PAL b=655 n=6
+PAL b=655 n=7
+PAL b=655 n=8
+PAL b=655 n=9
+BASE b=655 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=656 n=1
+PAL b=656 n=2
+PAL b=656 n=3
+PAL b=656 n=4
+PAL b=656 n=5
+PAL b=656 n=6
+PAL b=656 n=7
+PAL b=656 n=8
+PAL b=656 n=9
+BASE b=656 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=657 n=1
+PAL b=657 n=2
+PAL b=657 n=3
+PAL b=657 n=4
+PAL b=657 n=5
+PAL b=657 n=6
+PAL b=657 n=7
+PAL b=657 n=8
+PAL b=657 n=9
+BASE b=657 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=658 n=1
+PAL b=658 n=2
+PAL b=658 n=3
+PAL b=658 n=4
+PAL b=658 n=5
+PAL b=658 n=6
+PAL b=658 n=7
+PAL b=658 n=8
+PAL b=658 n=9
+BASE b=658 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=659 n=1
+PAL b=659 n=2
+PAL b=659 n=3
+PAL b=659 n=4
+PAL b=659 n=5
+PAL b=659 n=6
+PAL b=659 n=7
+PAL b=659 n=8
+PAL b=659 n=9
+BASE b=659 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=660 n=1
+PAL b=660 n=2
+PAL b=660 n=3
+PAL b=660 n=4
+PAL b=660 n=5
+PAL b=660 n=6
+PAL b=660 n=7
+PAL b=660 n=8
+PAL b=660 n=9
+BASE b=660 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=661 n=1
+PAL b=661 n=2
+PAL b=661 n=3
+PAL b=661 n=4
+PAL b=661 n=5
+PAL b=661 n=6
+PAL b=661 n=7
+PAL b=661 n=8
+PAL b=661 n=9
+BASE b=661 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=662 n=1
+PAL b=662 n=2
+PAL b=662 n=3
+PAL b=662 n=4
+PAL b=662 n=5
+PAL b=662 n=6
+PAL b=662 n=7
+PAL b=662 n=8
+PAL b=662 n=9
+BASE b=662 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=663 n=1
+PAL b=663 n=2
+PAL b=663 n=3
+PAL b=663 n=4
+PAL b=663 n=5
+PAL b=663 n=6
+PAL b=663 n=7
+PAL b=663 n=8
+PAL b=663 n=9
+BASE b=663 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=664 n=1
+PAL b=664 n=2
+PAL b=664 n=3
+PAL b=664 n=4
+PAL b=664 n=5
+PAL b=664 n=6
+PAL b=664 n=7
+PAL b=664 n=8
+PAL b=664 n=9
+BASE b=664 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=665 n=1
+PAL b=665 n=2
+PAL b=665 n=3
+PAL b=665 n=4
+PAL b=665 n=5
+PAL b=665 n=6
+PAL b=665 n=7
+PAL b=665 n=8
+PAL b=665 n=9
+BASE b=665 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=666 n=1
+PAL b=666 n=2
+PAL b=666 n=3
+PAL b=666 n=4
+PAL b=666 n=5
+PAL b=666 n=6
+PAL b=666 n=7
+PAL b=666 n=8
+PAL b=666 n=9
+BASE b=666 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=667 n=1
+PAL b=667 n=2
+PAL b=667 n=3
+PAL b=667 n=4
+PAL b=667 n=5
+PAL b=667 n=6
+PAL b=667 n=7
+PAL b=667 n=8
+PAL b=667 n=9
+BASE b=667 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=668 n=1
+PAL b=668 n=2
+PAL b=668 n=3
+PAL b=668 n=4
+PAL b=668 n=5
+PAL b=668 n=6
+PAL b=668 n=7
+PAL b=668 n=8
+PAL b=668 n=9
+BASE b=668 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=669 n=1
+PAL b=669 n=2
+PAL b=669 n=3
+PAL b=669 n=4
+PAL b=669 n=5
+PAL b=669 n=6
+PAL b=669 n=7
+PAL b=669 n=8
+PAL b=669 n=9
+BASE b=669 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=670 n=1
+PAL b=670 n=2
+PAL b=670 n=3
+PAL b=670 n=4
+PAL b=670 n=5
+PAL b=670 n=6
+PAL b=670 n=7
+PAL b=670 n=8
+PAL b=670 n=9
+BASE b=670 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=671 n=1
+PAL b=671 n=2
+PAL b=671 n=3
+PAL b=671 n=4
+PAL b=671 n=5
+PAL b=671 n=6
+PAL b=671 n=7
+PAL b=671 n=8
+PAL b=671 n=9
+BASE b=671 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=672 n=1
+PAL b=672 n=2
+PAL b=672 n=3
+PAL b=672 n=4
+PAL b=672 n=5
+PAL b=672 n=6
+PAL b=672 n=7
+PAL b=672 n=8
+PAL b=672 n=9
+BASE b=672 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=673 n=1
+PAL b=673 n=2
+PAL b=673 n=3
+PAL b=673 n=4
+PAL b=673 n=5
+PAL b=673 n=6
+PAL b=673 n=7
+PAL b=673 n=8
+PAL b=673 n=9
+BASE b=673 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=674 n=1
+PAL b=674 n=2
+PAL b=674 n=3
+PAL b=674 n=4
+PAL b=674 n=5
+PAL b=674 n=6
+PAL b=674 n=7
+PAL b=674 n=8
+PAL b=674 n=9
+BASE b=674 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=675 n=1
+PAL b=675 n=2
+PAL b=675 n=3
+PAL b=675 n=4
+PAL b=675 n=5
+PAL b=675 n=6
+PAL b=675 n=7
+PAL b=675 n=8
+PAL b=675 n=9
+BASE b=675 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=676 n=1
+PAL b=676 n=2
+PAL b=676 n=3
+PAL b=676 n=4
+PAL b=676 n=5
+PAL b=676 n=6
+PAL b=676 n=7
+PAL b=676 n=8
+PAL b=676 n=9
+BASE b=676 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=677 n=1
+PAL b=677 n=2
+PAL b=677 n=3
+PAL b=677 n=4
+PAL b=677 n=5
+PAL b=677 n=6
+PAL b=677 n=7
+PAL b=677 n=8
+PAL b=677 n=9
+BASE b=677 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=678 n=1
+PAL b=678 n=2
+PAL b=678 n=3
+PAL b=678 n=4
+PAL b=678 n=5
+PAL b=678 n=6
+PAL b=678 n=7
+PAL b=678 n=8
+PAL b=678 n=9
+BASE b=678 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=679 n=1
+PAL b=679 n=2
+PAL b=679 n=3
+PAL b=679 n=4
+PAL b=679 n=5
+PAL b=679 n=6
+PAL b=679 n=7
+PAL b=679 n=8
+PAL b=679 n=9
+BASE b=679 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=680 n=1
+PAL b=680 n=2
+PAL b=680 n=3
+PAL b=680 n=4
+PAL b=680 n=5
+PAL b=680 n=6
+PAL b=680 n=7
+PAL b=680 n=8
+PAL b=680 n=9
+BASE b=680 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=681 n=1
+PAL b=681 n=2
+PAL b=681 n=3
+PAL b=681 n=4
+PAL b=681 n=5
+PAL b=681 n=6
+PAL b=681 n=7
+PAL b=681 n=8
+PAL b=681 n=9
+BASE b=681 nmax=1000000 found=9 stage2cands=0 j1=1 j2=6
+PAL b=682 n=1
+PAL b=682 n=2
+PAL b=682 n=3
+PAL b=682 n=4
+PAL b=682 n=5
+PAL b=682 n=6
+PAL b=682 n=7
+PAL b=682 n=8
+PAL b=682 n=9
+BASE b=682 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=683 n=1
+PAL b=683 n=2
+PAL b=683 n=3
+PAL b=683 n=4
+PAL b=683 n=5
+PAL b=683 n=6
+PAL b=683 n=7
+PAL b=683 n=8
+PAL b=683 n=9
+BASE b=683 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=684 n=1
+PAL b=684 n=2
+PAL b=684 n=3
+PAL b=684 n=4
+PAL b=684 n=5
+PAL b=684 n=6
+PAL b=684 n=7
+PAL b=684 n=8
+PAL b=684 n=9
+BASE b=684 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=685 n=1
+PAL b=685 n=2
+PAL b=685 n=3
+PAL b=685 n=4
+PAL b=685 n=5
+PAL b=685 n=6
+PAL b=685 n=7
+PAL b=685 n=8
+PAL b=685 n=9
+BASE b=685 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=686 n=1
+PAL b=686 n=2
+PAL b=686 n=3
+PAL b=686 n=4
+PAL b=686 n=5
+PAL b=686 n=6
+PAL b=686 n=7
+PAL b=686 n=8
+PAL b=686 n=9
+BASE b=686 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=687 n=1
+PAL b=687 n=2
+PAL b=687 n=3
+PAL b=687 n=4
+PAL b=687 n=5
+PAL b=687 n=6
+PAL b=687 n=7
+PAL b=687 n=8
+PAL b=687 n=9
+BASE b=687 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=688 n=1
+PAL b=688 n=2
+PAL b=688 n=3
+PAL b=688 n=4
+PAL b=688 n=5
+PAL b=688 n=6
+PAL b=688 n=7
+PAL b=688 n=8
+PAL b=688 n=9
+BASE b=688 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=689 n=1
+PAL b=689 n=2
+PAL b=689 n=3
+PAL b=689 n=4
+PAL b=689 n=5
+PAL b=689 n=6
+PAL b=689 n=7
+PAL b=689 n=8
+PAL b=689 n=9
+BASE b=689 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=690 n=1
+PAL b=690 n=2
+PAL b=690 n=3
+PAL b=690 n=4
+PAL b=690 n=5
+PAL b=690 n=6
+PAL b=690 n=7
+PAL b=690 n=8
+PAL b=690 n=9
+BASE b=690 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=691 n=1
+PAL b=691 n=2
+PAL b=691 n=3
+PAL b=691 n=4
+PAL b=691 n=5
+PAL b=691 n=6
+PAL b=691 n=7
+PAL b=691 n=8
+PAL b=691 n=9
+BASE b=691 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=692 n=1
+PAL b=692 n=2
+PAL b=692 n=3
+PAL b=692 n=4
+PAL b=692 n=5
+PAL b=692 n=6
+PAL b=692 n=7
+PAL b=692 n=8
+PAL b=692 n=9
+BASE b=692 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=693 n=1
+PAL b=693 n=2
+PAL b=693 n=3
+PAL b=693 n=4
+PAL b=693 n=5
+PAL b=693 n=6
+PAL b=693 n=7
+PAL b=693 n=8
+PAL b=693 n=9
+BASE b=693 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=694 n=1
+PAL b=694 n=2
+PAL b=694 n=3
+PAL b=694 n=4
+PAL b=694 n=5
+PAL b=694 n=6
+PAL b=694 n=7
+PAL b=694 n=8
+PAL b=694 n=9
+BASE b=694 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=695 n=1
+PAL b=695 n=2
+PAL b=695 n=3
+PAL b=695 n=4
+PAL b=695 n=5
+PAL b=695 n=6
+PAL b=695 n=7
+PAL b=695 n=8
+PAL b=695 n=9
+BASE b=695 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=696 n=1
+PAL b=696 n=2
+PAL b=696 n=3
+PAL b=696 n=4
+PAL b=696 n=5
+PAL b=696 n=6
+PAL b=696 n=7
+PAL b=696 n=8
+PAL b=696 n=9
+BASE b=696 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=697 n=1
+PAL b=697 n=2
+PAL b=697 n=3
+PAL b=697 n=4
+PAL b=697 n=5
+PAL b=697 n=6
+PAL b=697 n=7
+PAL b=697 n=8
+PAL b=697 n=9
+BASE b=697 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=698 n=1
+PAL b=698 n=2
+PAL b=698 n=3
+PAL b=698 n=4
+PAL b=698 n=5
+PAL b=698 n=6
+PAL b=698 n=7
+PAL b=698 n=8
+PAL b=698 n=9
+BASE b=698 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=699 n=1
+PAL b=699 n=2
+PAL b=699 n=3
+PAL b=699 n=4
+PAL b=699 n=5
+PAL b=699 n=6
+PAL b=699 n=7
+PAL b=699 n=8
+PAL b=699 n=9
+BASE b=699 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=700 n=1
+PAL b=700 n=2
+PAL b=700 n=3
+PAL b=700 n=4
+PAL b=700 n=5
+PAL b=700 n=6
+PAL b=700 n=7
+PAL b=700 n=8
+PAL b=700 n=9
+BASE b=700 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=701 n=1
+PAL b=701 n=2
+PAL b=701 n=3
+PAL b=701 n=4
+PAL b=701 n=5
+PAL b=701 n=6
+PAL b=701 n=7
+PAL b=701 n=8
+PAL b=701 n=9
+BASE b=701 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=702 n=1
+PAL b=702 n=2
+PAL b=702 n=3
+PAL b=702 n=4
+PAL b=702 n=5
+PAL b=702 n=6
+PAL b=702 n=7
+PAL b=702 n=8
+PAL b=702 n=9
+BASE b=702 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=703 n=1
+PAL b=703 n=2
+PAL b=703 n=3
+PAL b=703 n=4
+PAL b=703 n=5
+PAL b=703 n=6
+PAL b=703 n=7
+PAL b=703 n=8
+PAL b=703 n=9
+BASE b=703 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=704 n=1
+PAL b=704 n=2
+PAL b=704 n=3
+PAL b=704 n=4
+PAL b=704 n=5
+PAL b=704 n=6
+PAL b=704 n=7
+PAL b=704 n=8
+PAL b=704 n=9
+BASE b=704 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=705 n=1
+PAL b=705 n=2
+PAL b=705 n=3
+PAL b=705 n=4
+PAL b=705 n=5
+PAL b=705 n=6
+PAL b=705 n=7
+PAL b=705 n=8
+PAL b=705 n=9
+BASE b=705 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=706 n=1
+PAL b=706 n=2
+PAL b=706 n=3
+PAL b=706 n=4
+PAL b=706 n=5
+PAL b=706 n=6
+PAL b=706 n=7
+PAL b=706 n=8
+PAL b=706 n=9
+BASE b=706 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=707 n=1
+PAL b=707 n=2
+PAL b=707 n=3
+PAL b=707 n=4
+PAL b=707 n=5
+PAL b=707 n=6
+PAL b=707 n=7
+PAL b=707 n=8
+PAL b=707 n=9
+BASE b=707 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=708 n=1
+PAL b=708 n=2
+PAL b=708 n=3
+PAL b=708 n=4
+PAL b=708 n=5
+PAL b=708 n=6
+PAL b=708 n=7
+PAL b=708 n=8
+PAL b=708 n=9
+BASE b=708 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=709 n=1
+PAL b=709 n=2
+PAL b=709 n=3
+PAL b=709 n=4
+PAL b=709 n=5
+PAL b=709 n=6
+PAL b=709 n=7
+PAL b=709 n=8
+PAL b=709 n=9
+BASE b=709 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=710 n=1
+PAL b=710 n=2
+PAL b=710 n=3
+PAL b=710 n=4
+PAL b=710 n=5
+PAL b=710 n=6
+PAL b=710 n=7
+PAL b=710 n=8
+PAL b=710 n=9
+BASE b=710 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=711 n=1
+PAL b=711 n=2
+PAL b=711 n=3
+PAL b=711 n=4
+PAL b=711 n=5
+PAL b=711 n=6
+PAL b=711 n=7
+PAL b=711 n=8
+PAL b=711 n=9
+BASE b=711 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=712 n=1
+PAL b=712 n=2
+PAL b=712 n=3
+PAL b=712 n=4
+PAL b=712 n=5
+PAL b=712 n=6
+PAL b=712 n=7
+PAL b=712 n=8
+PAL b=712 n=9
+BASE b=712 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=713 n=1
+PAL b=713 n=2
+PAL b=713 n=3
+PAL b=713 n=4
+PAL b=713 n=5
+PAL b=713 n=6
+PAL b=713 n=7
+PAL b=713 n=8
+PAL b=713 n=9
+BASE b=713 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=714 n=1
+PAL b=714 n=2
+PAL b=714 n=3
+PAL b=714 n=4
+PAL b=714 n=5
+PAL b=714 n=6
+PAL b=714 n=7
+PAL b=714 n=8
+PAL b=714 n=9
+BASE b=714 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=715 n=1
+PAL b=715 n=2
+PAL b=715 n=3
+PAL b=715 n=4
+PAL b=715 n=5
+PAL b=715 n=6
+PAL b=715 n=7
+PAL b=715 n=8
+PAL b=715 n=9
+BASE b=715 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=716 n=1
+PAL b=716 n=2
+PAL b=716 n=3
+PAL b=716 n=4
+PAL b=716 n=5
+PAL b=716 n=6
+PAL b=716 n=7
+PAL b=716 n=8
+PAL b=716 n=9
+BASE b=716 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=717 n=1
+PAL b=717 n=2
+PAL b=717 n=3
+PAL b=717 n=4
+PAL b=717 n=5
+PAL b=717 n=6
+PAL b=717 n=7
+PAL b=717 n=8
+PAL b=717 n=9
+BASE b=717 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=718 n=1
+PAL b=718 n=2
+PAL b=718 n=3
+PAL b=718 n=4
+PAL b=718 n=5
+PAL b=718 n=6
+PAL b=718 n=7
+PAL b=718 n=8
+PAL b=718 n=9
+BASE b=718 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=719 n=1
+PAL b=719 n=2
+PAL b=719 n=3
+PAL b=719 n=4
+PAL b=719 n=5
+PAL b=719 n=6
+PAL b=719 n=7
+PAL b=719 n=8
+PAL b=719 n=9
+BASE b=719 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=720 n=1
+PAL b=720 n=2
+PAL b=720 n=3
+PAL b=720 n=4
+PAL b=720 n=5
+PAL b=720 n=6
+PAL b=720 n=7
+PAL b=720 n=8
+PAL b=720 n=9
+BASE b=720 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=721 n=1
+PAL b=721 n=2
+PAL b=721 n=3
+PAL b=721 n=4
+PAL b=721 n=5
+PAL b=721 n=6
+PAL b=721 n=7
+PAL b=721 n=8
+PAL b=721 n=9
+BASE b=721 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=722 n=1
+PAL b=722 n=2
+PAL b=722 n=3
+PAL b=722 n=4
+PAL b=722 n=5
+PAL b=722 n=6
+PAL b=722 n=7
+PAL b=722 n=8
+PAL b=722 n=9
+BASE b=722 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=723 n=1
+PAL b=723 n=2
+PAL b=723 n=3
+PAL b=723 n=4
+PAL b=723 n=5
+PAL b=723 n=6
+PAL b=723 n=7
+PAL b=723 n=8
+PAL b=723 n=9
+BASE b=723 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=724 n=1
+PAL b=724 n=2
+PAL b=724 n=3
+PAL b=724 n=4
+PAL b=724 n=5
+PAL b=724 n=6
+PAL b=724 n=7
+PAL b=724 n=8
+PAL b=724 n=9
+BASE b=724 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=725 n=1
+PAL b=725 n=2
+PAL b=725 n=3
+PAL b=725 n=4
+PAL b=725 n=5
+PAL b=725 n=6
+PAL b=725 n=7
+PAL b=725 n=8
+PAL b=725 n=9
+BASE b=725 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=726 n=1
+PAL b=726 n=2
+PAL b=726 n=3
+PAL b=726 n=4
+PAL b=726 n=5
+PAL b=726 n=6
+PAL b=726 n=7
+PAL b=726 n=8
+PAL b=726 n=9
+BASE b=726 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=727 n=1
+PAL b=727 n=2
+PAL b=727 n=3
+PAL b=727 n=4
+PAL b=727 n=5
+PAL b=727 n=6
+PAL b=727 n=7
+PAL b=727 n=8
+PAL b=727 n=9
+BASE b=727 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=728 n=1
+PAL b=728 n=2
+PAL b=728 n=3
+PAL b=728 n=4
+PAL b=728 n=5
+PAL b=728 n=6
+PAL b=728 n=7
+PAL b=728 n=8
+PAL b=728 n=9
+BASE b=728 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=729 n=1
+PAL b=729 n=2
+PAL b=729 n=3
+PAL b=729 n=4
+PAL b=729 n=5
+PAL b=729 n=6
+PAL b=729 n=7
+PAL b=729 n=8
+PAL b=729 n=9
+BASE b=729 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=730 n=1
+PAL b=730 n=2
+PAL b=730 n=3
+PAL b=730 n=4
+PAL b=730 n=5
+PAL b=730 n=6
+PAL b=730 n=7
+PAL b=730 n=8
+PAL b=730 n=9
+BASE b=730 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=731 n=1
+PAL b=731 n=2
+PAL b=731 n=3
+PAL b=731 n=4
+PAL b=731 n=5
+PAL b=731 n=6
+PAL b=731 n=7
+PAL b=731 n=8
+PAL b=731 n=9
+BASE b=731 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=732 n=1
+PAL b=732 n=2
+PAL b=732 n=3
+PAL b=732 n=4
+PAL b=732 n=5
+PAL b=732 n=6
+PAL b=732 n=7
+PAL b=732 n=8
+PAL b=732 n=9
+BASE b=732 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=733 n=1
+PAL b=733 n=2
+PAL b=733 n=3
+PAL b=733 n=4
+PAL b=733 n=5
+PAL b=733 n=6
+PAL b=733 n=7
+PAL b=733 n=8
+PAL b=733 n=9
+BASE b=733 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=734 n=1
+PAL b=734 n=2
+PAL b=734 n=3
+PAL b=734 n=4
+PAL b=734 n=5
+PAL b=734 n=6
+PAL b=734 n=7
+PAL b=734 n=8
+PAL b=734 n=9
+BASE b=734 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=735 n=1
+PAL b=735 n=2
+PAL b=735 n=3
+PAL b=735 n=4
+PAL b=735 n=5
+PAL b=735 n=6
+PAL b=735 n=7
+PAL b=735 n=8
+PAL b=735 n=9
+BASE b=735 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=736 n=1
+PAL b=736 n=2
+PAL b=736 n=3
+PAL b=736 n=4
+PAL b=736 n=5
+PAL b=736 n=6
+PAL b=736 n=7
+PAL b=736 n=8
+PAL b=736 n=9
+BASE b=736 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=737 n=1
+PAL b=737 n=2
+PAL b=737 n=3
+PAL b=737 n=4
+PAL b=737 n=5
+PAL b=737 n=6
+PAL b=737 n=7
+PAL b=737 n=8
+PAL b=737 n=9
+BASE b=737 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=738 n=1
+PAL b=738 n=2
+PAL b=738 n=3
+PAL b=738 n=4
+PAL b=738 n=5
+PAL b=738 n=6
+PAL b=738 n=7
+PAL b=738 n=8
+PAL b=738 n=9
+BASE b=738 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=739 n=1
+PAL b=739 n=2
+PAL b=739 n=3
+PAL b=739 n=4
+PAL b=739 n=5
+PAL b=739 n=6
+PAL b=739 n=7
+PAL b=739 n=8
+PAL b=739 n=9
+BASE b=739 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=740 n=1
+PAL b=740 n=2
+PAL b=740 n=3
+PAL b=740 n=4
+PAL b=740 n=5
+PAL b=740 n=6
+PAL b=740 n=7
+PAL b=740 n=8
+PAL b=740 n=9
+BASE b=740 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=741 n=1
+PAL b=741 n=2
+PAL b=741 n=3
+PAL b=741 n=4
+PAL b=741 n=5
+PAL b=741 n=6
+PAL b=741 n=7
+PAL b=741 n=8
+PAL b=741 n=9
+BASE b=741 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=742 n=1
+PAL b=742 n=2
+PAL b=742 n=3
+PAL b=742 n=4
+PAL b=742 n=5
+PAL b=742 n=6
+PAL b=742 n=7
+PAL b=742 n=8
+PAL b=742 n=9
+BASE b=742 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=743 n=1
+PAL b=743 n=2
+PAL b=743 n=3
+PAL b=743 n=4
+PAL b=743 n=5
+PAL b=743 n=6
+PAL b=743 n=7
+PAL b=743 n=8
+PAL b=743 n=9
+BASE b=743 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=744 n=1
+PAL b=744 n=2
+PAL b=744 n=3
+PAL b=744 n=4
+PAL b=744 n=5
+PAL b=744 n=6
+PAL b=744 n=7
+PAL b=744 n=8
+PAL b=744 n=9
+BASE b=744 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=745 n=1
+PAL b=745 n=2
+PAL b=745 n=3
+PAL b=745 n=4
+PAL b=745 n=5
+PAL b=745 n=6
+PAL b=745 n=7
+PAL b=745 n=8
+PAL b=745 n=9
+BASE b=745 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=746 n=1
+PAL b=746 n=2
+PAL b=746 n=3
+PAL b=746 n=4
+PAL b=746 n=5
+PAL b=746 n=6
+PAL b=746 n=7
+PAL b=746 n=8
+PAL b=746 n=9
+BASE b=746 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=747 n=1
+PAL b=747 n=2
+PAL b=747 n=3
+PAL b=747 n=4
+PAL b=747 n=5
+PAL b=747 n=6
+PAL b=747 n=7
+PAL b=747 n=8
+PAL b=747 n=9
+BASE b=747 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=748 n=1
+PAL b=748 n=2
+PAL b=748 n=3
+PAL b=748 n=4
+PAL b=748 n=5
+PAL b=748 n=6
+PAL b=748 n=7
+PAL b=748 n=8
+PAL b=748 n=9
+BASE b=748 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=749 n=1
+PAL b=749 n=2
+PAL b=749 n=3
+PAL b=749 n=4
+PAL b=749 n=5
+PAL b=749 n=6
+PAL b=749 n=7
+PAL b=749 n=8
+PAL b=749 n=9
+BASE b=749 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=750 n=1
+PAL b=750 n=2
+PAL b=750 n=3
+PAL b=750 n=4
+PAL b=750 n=5
+PAL b=750 n=6
+PAL b=750 n=7
+PAL b=750 n=8
+PAL b=750 n=9
+BASE b=750 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=751 n=1
+PAL b=751 n=2
+PAL b=751 n=3
+PAL b=751 n=4
+PAL b=751 n=5
+PAL b=751 n=6
+PAL b=751 n=7
+PAL b=751 n=8
+PAL b=751 n=9
+BASE b=751 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=752 n=1
+PAL b=752 n=2
+PAL b=752 n=3
+PAL b=752 n=4
+PAL b=752 n=5
+PAL b=752 n=6
+PAL b=752 n=7
+PAL b=752 n=8
+PAL b=752 n=9
+BASE b=752 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=753 n=1
+PAL b=753 n=2
+PAL b=753 n=3
+PAL b=753 n=4
+PAL b=753 n=5
+PAL b=753 n=6
+PAL b=753 n=7
+PAL b=753 n=8
+PAL b=753 n=9
+BASE b=753 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=754 n=1
+PAL b=754 n=2
+PAL b=754 n=3
+PAL b=754 n=4
+PAL b=754 n=5
+PAL b=754 n=6
+PAL b=754 n=7
+PAL b=754 n=8
+PAL b=754 n=9
+BASE b=754 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=755 n=1
+PAL b=755 n=2
+PAL b=755 n=3
+PAL b=755 n=4
+PAL b=755 n=5
+PAL b=755 n=6
+PAL b=755 n=7
+PAL b=755 n=8
+PAL b=755 n=9
+BASE b=755 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=756 n=1
+PAL b=756 n=2
+PAL b=756 n=3
+PAL b=756 n=4
+PAL b=756 n=5
+PAL b=756 n=6
+PAL b=756 n=7
+PAL b=756 n=8
+PAL b=756 n=9
+BASE b=756 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=757 n=1
+PAL b=757 n=2
+PAL b=757 n=3
+PAL b=757 n=4
+PAL b=757 n=5
+PAL b=757 n=6
+PAL b=757 n=7
+PAL b=757 n=8
+PAL b=757 n=9
+BASE b=757 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=758 n=1
+PAL b=758 n=2
+PAL b=758 n=3
+PAL b=758 n=4
+PAL b=758 n=5
+PAL b=758 n=6
+PAL b=758 n=7
+PAL b=758 n=8
+PAL b=758 n=9
+BASE b=758 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=759 n=1
+PAL b=759 n=2
+PAL b=759 n=3
+PAL b=759 n=4
+PAL b=759 n=5
+PAL b=759 n=6
+PAL b=759 n=7
+PAL b=759 n=8
+PAL b=759 n=9
+BASE b=759 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=760 n=1
+PAL b=760 n=2
+PAL b=760 n=3
+PAL b=760 n=4
+PAL b=760 n=5
+PAL b=760 n=6
+PAL b=760 n=7
+PAL b=760 n=8
+PAL b=760 n=9
+BASE b=760 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=761 n=1
+PAL b=761 n=2
+PAL b=761 n=3
+PAL b=761 n=4
+PAL b=761 n=5
+PAL b=761 n=6
+PAL b=761 n=7
+PAL b=761 n=8
+PAL b=761 n=9
+BASE b=761 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=762 n=1
+PAL b=762 n=2
+PAL b=762 n=3
+PAL b=762 n=4
+PAL b=762 n=5
+PAL b=762 n=6
+PAL b=762 n=7
+PAL b=762 n=8
+PAL b=762 n=9
+BASE b=762 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=763 n=1
+PAL b=763 n=2
+PAL b=763 n=3
+PAL b=763 n=4
+PAL b=763 n=5
+PAL b=763 n=6
+PAL b=763 n=7
+PAL b=763 n=8
+PAL b=763 n=9
+BASE b=763 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=764 n=1
+PAL b=764 n=2
+PAL b=764 n=3
+PAL b=764 n=4
+PAL b=764 n=5
+PAL b=764 n=6
+PAL b=764 n=7
+PAL b=764 n=8
+PAL b=764 n=9
+BASE b=764 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=765 n=1
+PAL b=765 n=2
+PAL b=765 n=3
+PAL b=765 n=4
+PAL b=765 n=5
+PAL b=765 n=6
+PAL b=765 n=7
+PAL b=765 n=8
+PAL b=765 n=9
+BASE b=765 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=766 n=1
+PAL b=766 n=2
+PAL b=766 n=3
+PAL b=766 n=4
+PAL b=766 n=5
+PAL b=766 n=6
+PAL b=766 n=7
+PAL b=766 n=8
+PAL b=766 n=9
+BASE b=766 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=767 n=1
+PAL b=767 n=2
+PAL b=767 n=3
+PAL b=767 n=4
+PAL b=767 n=5
+PAL b=767 n=6
+PAL b=767 n=7
+PAL b=767 n=8
+PAL b=767 n=9
+BASE b=767 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=768 n=1
+PAL b=768 n=2
+PAL b=768 n=3
+PAL b=768 n=4
+PAL b=768 n=5
+PAL b=768 n=6
+PAL b=768 n=7
+PAL b=768 n=8
+PAL b=768 n=9
+BASE b=768 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=769 n=1
+PAL b=769 n=2
+PAL b=769 n=3
+PAL b=769 n=4
+PAL b=769 n=5
+PAL b=769 n=6
+PAL b=769 n=7
+PAL b=769 n=8
+PAL b=769 n=9
+BASE b=769 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=770 n=1
+PAL b=770 n=2
+PAL b=770 n=3
+PAL b=770 n=4
+PAL b=770 n=5
+PAL b=770 n=6
+PAL b=770 n=7
+PAL b=770 n=8
+PAL b=770 n=9
+BASE b=770 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=771 n=1
+PAL b=771 n=2
+PAL b=771 n=3
+PAL b=771 n=4
+PAL b=771 n=5
+PAL b=771 n=6
+PAL b=771 n=7
+PAL b=771 n=8
+PAL b=771 n=9
+BASE b=771 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=772 n=1
+PAL b=772 n=2
+PAL b=772 n=3
+PAL b=772 n=4
+PAL b=772 n=5
+PAL b=772 n=6
+PAL b=772 n=7
+PAL b=772 n=8
+PAL b=772 n=9
+BASE b=772 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=773 n=1
+PAL b=773 n=2
+PAL b=773 n=3
+PAL b=773 n=4
+PAL b=773 n=5
+PAL b=773 n=6
+PAL b=773 n=7
+PAL b=773 n=8
+PAL b=773 n=9
+PAL b=773 n=21
+BASE b=773 nmax=1000000 found=10 stage2cands=0 j1=1 j2=5
+PAL b=774 n=1
+PAL b=774 n=2
+PAL b=774 n=3
+PAL b=774 n=4
+PAL b=774 n=5
+PAL b=774 n=6
+PAL b=774 n=7
+PAL b=774 n=8
+PAL b=774 n=9
+BASE b=774 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=775 n=1
+PAL b=775 n=2
+PAL b=775 n=3
+PAL b=775 n=4
+PAL b=775 n=5
+PAL b=775 n=6
+PAL b=775 n=7
+PAL b=775 n=8
+PAL b=775 n=9
+PAL b=775 n=20
+BASE b=775 nmax=1000000 found=10 stage2cands=0 j1=1 j2=5
+PAL b=776 n=1
+PAL b=776 n=2
+PAL b=776 n=3
+PAL b=776 n=4
+PAL b=776 n=5
+PAL b=776 n=6
+PAL b=776 n=7
+PAL b=776 n=8
+PAL b=776 n=9
+BASE b=776 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=777 n=1
+PAL b=777 n=2
+PAL b=777 n=3
+PAL b=777 n=4
+PAL b=777 n=5
+PAL b=777 n=6
+PAL b=777 n=7
+PAL b=777 n=8
+PAL b=777 n=9
+BASE b=777 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=778 n=1
+PAL b=778 n=2
+PAL b=778 n=3
+PAL b=778 n=4
+PAL b=778 n=5
+PAL b=778 n=6
+PAL b=778 n=7
+PAL b=778 n=8
+PAL b=778 n=9
+BASE b=778 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=779 n=1
+PAL b=779 n=2
+PAL b=779 n=3
+PAL b=779 n=4
+PAL b=779 n=5
+PAL b=779 n=6
+PAL b=779 n=7
+PAL b=779 n=8
+PAL b=779 n=9
+BASE b=779 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=780 n=1
+PAL b=780 n=2
+PAL b=780 n=3
+PAL b=780 n=4
+PAL b=780 n=5
+PAL b=780 n=6
+PAL b=780 n=7
+PAL b=780 n=8
+PAL b=780 n=9
+BASE b=780 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=781 n=1
+PAL b=781 n=2
+PAL b=781 n=3
+PAL b=781 n=4
+PAL b=781 n=5
+PAL b=781 n=6
+PAL b=781 n=7
+PAL b=781 n=8
+PAL b=781 n=9
+BASE b=781 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=782 n=1
+PAL b=782 n=2
+PAL b=782 n=3
+PAL b=782 n=4
+PAL b=782 n=5
+PAL b=782 n=6
+PAL b=782 n=7
+PAL b=782 n=8
+PAL b=782 n=9
+BASE b=782 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=783 n=1
+PAL b=783 n=2
+PAL b=783 n=3
+PAL b=783 n=4
+PAL b=783 n=5
+PAL b=783 n=6
+PAL b=783 n=7
+PAL b=783 n=8
+PAL b=783 n=9
+BASE b=783 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=784 n=1
+PAL b=784 n=2
+PAL b=784 n=3
+PAL b=784 n=4
+PAL b=784 n=5
+PAL b=784 n=6
+PAL b=784 n=7
+PAL b=784 n=8
+PAL b=784 n=9
+BASE b=784 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=785 n=1
+PAL b=785 n=2
+PAL b=785 n=3
+PAL b=785 n=4
+PAL b=785 n=5
+PAL b=785 n=6
+PAL b=785 n=7
+PAL b=785 n=8
+PAL b=785 n=9
+BASE b=785 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=786 n=1
+PAL b=786 n=2
+PAL b=786 n=3
+PAL b=786 n=4
+PAL b=786 n=5
+PAL b=786 n=6
+PAL b=786 n=7
+PAL b=786 n=8
+PAL b=786 n=9
+BASE b=786 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=787 n=1
+PAL b=787 n=2
+PAL b=787 n=3
+PAL b=787 n=4
+PAL b=787 n=5
+PAL b=787 n=6
+PAL b=787 n=7
+PAL b=787 n=8
+PAL b=787 n=9
+BASE b=787 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=788 n=1
+PAL b=788 n=2
+PAL b=788 n=3
+PAL b=788 n=4
+PAL b=788 n=5
+PAL b=788 n=6
+PAL b=788 n=7
+PAL b=788 n=8
+PAL b=788 n=9
+BASE b=788 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=789 n=1
+PAL b=789 n=2
+PAL b=789 n=3
+PAL b=789 n=4
+PAL b=789 n=5
+PAL b=789 n=6
+PAL b=789 n=7
+PAL b=789 n=8
+PAL b=789 n=9
+BASE b=789 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=790 n=1
+PAL b=790 n=2
+PAL b=790 n=3
+PAL b=790 n=4
+PAL b=790 n=5
+PAL b=790 n=6
+PAL b=790 n=7
+PAL b=790 n=8
+PAL b=790 n=9
+BASE b=790 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=791 n=1
+PAL b=791 n=2
+PAL b=791 n=3
+PAL b=791 n=4
+PAL b=791 n=5
+PAL b=791 n=6
+PAL b=791 n=7
+PAL b=791 n=8
+PAL b=791 n=9
+BASE b=791 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=792 n=1
+PAL b=792 n=2
+PAL b=792 n=3
+PAL b=792 n=4
+PAL b=792 n=5
+PAL b=792 n=6
+PAL b=792 n=7
+PAL b=792 n=8
+PAL b=792 n=9
+BASE b=792 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=793 n=1
+PAL b=793 n=2
+PAL b=793 n=3
+PAL b=793 n=4
+PAL b=793 n=5
+PAL b=793 n=6
+PAL b=793 n=7
+PAL b=793 n=8
+PAL b=793 n=9
+BASE b=793 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=794 n=1
+PAL b=794 n=2
+PAL b=794 n=3
+PAL b=794 n=4
+PAL b=794 n=5
+PAL b=794 n=6
+PAL b=794 n=7
+PAL b=794 n=8
+PAL b=794 n=9
+BASE b=794 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=795 n=1
+PAL b=795 n=2
+PAL b=795 n=3
+PAL b=795 n=4
+PAL b=795 n=5
+PAL b=795 n=6
+PAL b=795 n=7
+PAL b=795 n=8
+PAL b=795 n=9
+BASE b=795 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=796 n=1
+PAL b=796 n=2
+PAL b=796 n=3
+PAL b=796 n=4
+PAL b=796 n=5
+PAL b=796 n=6
+PAL b=796 n=7
+PAL b=796 n=8
+PAL b=796 n=9
+BASE b=796 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=797 n=1
+PAL b=797 n=2
+PAL b=797 n=3
+PAL b=797 n=4
+PAL b=797 n=5
+PAL b=797 n=6
+PAL b=797 n=7
+PAL b=797 n=8
+PAL b=797 n=9
+BASE b=797 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=798 n=1
+PAL b=798 n=2
+PAL b=798 n=3
+PAL b=798 n=4
+PAL b=798 n=5
+PAL b=798 n=6
+PAL b=798 n=7
+PAL b=798 n=8
+PAL b=798 n=9
+BASE b=798 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=799 n=1
+PAL b=799 n=2
+PAL b=799 n=3
+PAL b=799 n=4
+PAL b=799 n=5
+PAL b=799 n=6
+PAL b=799 n=7
+PAL b=799 n=8
+PAL b=799 n=9
+BASE b=799 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=800 n=1
+PAL b=800 n=2
+PAL b=800 n=3
+PAL b=800 n=4
+PAL b=800 n=5
+PAL b=800 n=6
+PAL b=800 n=7
+PAL b=800 n=8
+PAL b=800 n=9
+BASE b=800 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=801 n=1
+PAL b=801 n=2
+PAL b=801 n=3
+PAL b=801 n=4
+PAL b=801 n=5
+PAL b=801 n=6
+PAL b=801 n=7
+PAL b=801 n=8
+PAL b=801 n=9
+BASE b=801 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=802 n=1
+PAL b=802 n=2
+PAL b=802 n=3
+PAL b=802 n=4
+PAL b=802 n=5
+PAL b=802 n=6
+PAL b=802 n=7
+PAL b=802 n=8
+PAL b=802 n=9
+BASE b=802 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=803 n=1
+PAL b=803 n=2
+PAL b=803 n=3
+PAL b=803 n=4
+PAL b=803 n=5
+PAL b=803 n=6
+PAL b=803 n=7
+PAL b=803 n=8
+PAL b=803 n=9
+BASE b=803 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=804 n=1
+PAL b=804 n=2
+PAL b=804 n=3
+PAL b=804 n=4
+PAL b=804 n=5
+PAL b=804 n=6
+PAL b=804 n=7
+PAL b=804 n=8
+PAL b=804 n=9
+BASE b=804 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=805 n=1
+PAL b=805 n=2
+PAL b=805 n=3
+PAL b=805 n=4
+PAL b=805 n=5
+PAL b=805 n=6
+PAL b=805 n=7
+PAL b=805 n=8
+PAL b=805 n=9
+BASE b=805 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=806 n=1
+PAL b=806 n=2
+PAL b=806 n=3
+PAL b=806 n=4
+PAL b=806 n=5
+PAL b=806 n=6
+PAL b=806 n=7
+PAL b=806 n=8
+PAL b=806 n=9
+BASE b=806 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=807 n=1
+PAL b=807 n=2
+PAL b=807 n=3
+PAL b=807 n=4
+PAL b=807 n=5
+PAL b=807 n=6
+PAL b=807 n=7
+PAL b=807 n=8
+PAL b=807 n=9
+BASE b=807 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=808 n=1
+PAL b=808 n=2
+PAL b=808 n=3
+PAL b=808 n=4
+PAL b=808 n=5
+PAL b=808 n=6
+PAL b=808 n=7
+PAL b=808 n=8
+PAL b=808 n=9
+BASE b=808 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=809 n=1
+PAL b=809 n=2
+PAL b=809 n=3
+PAL b=809 n=4
+PAL b=809 n=5
+PAL b=809 n=6
+PAL b=809 n=7
+PAL b=809 n=8
+PAL b=809 n=9
+BASE b=809 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=810 n=1
+PAL b=810 n=2
+PAL b=810 n=3
+PAL b=810 n=4
+PAL b=810 n=5
+PAL b=810 n=6
+PAL b=810 n=7
+PAL b=810 n=8
+PAL b=810 n=9
+BASE b=810 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=811 n=1
+PAL b=811 n=2
+PAL b=811 n=3
+PAL b=811 n=4
+PAL b=811 n=5
+PAL b=811 n=6
+PAL b=811 n=7
+PAL b=811 n=8
+PAL b=811 n=9
+BASE b=811 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=812 n=1
+PAL b=812 n=2
+PAL b=812 n=3
+PAL b=812 n=4
+PAL b=812 n=5
+PAL b=812 n=6
+PAL b=812 n=7
+PAL b=812 n=8
+PAL b=812 n=9
+BASE b=812 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=813 n=1
+PAL b=813 n=2
+PAL b=813 n=3
+PAL b=813 n=4
+PAL b=813 n=5
+PAL b=813 n=6
+PAL b=813 n=7
+PAL b=813 n=8
+PAL b=813 n=9
+BASE b=813 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=814 n=1
+PAL b=814 n=2
+PAL b=814 n=3
+PAL b=814 n=4
+PAL b=814 n=5
+PAL b=814 n=6
+PAL b=814 n=7
+PAL b=814 n=8
+PAL b=814 n=9
+BASE b=814 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=815 n=1
+PAL b=815 n=2
+PAL b=815 n=3
+PAL b=815 n=4
+PAL b=815 n=5
+PAL b=815 n=6
+PAL b=815 n=7
+PAL b=815 n=8
+PAL b=815 n=9
+BASE b=815 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=816 n=1
+PAL b=816 n=2
+PAL b=816 n=3
+PAL b=816 n=4
+PAL b=816 n=5
+PAL b=816 n=6
+PAL b=816 n=7
+PAL b=816 n=8
+PAL b=816 n=9
+BASE b=816 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=817 n=1
+PAL b=817 n=2
+PAL b=817 n=3
+PAL b=817 n=4
+PAL b=817 n=5
+PAL b=817 n=6
+PAL b=817 n=7
+PAL b=817 n=8
+PAL b=817 n=9
+BASE b=817 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=818 n=1
+PAL b=818 n=2
+PAL b=818 n=3
+PAL b=818 n=4
+PAL b=818 n=5
+PAL b=818 n=6
+PAL b=818 n=7
+PAL b=818 n=8
+PAL b=818 n=9
+BASE b=818 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=819 n=1
+PAL b=819 n=2
+PAL b=819 n=3
+PAL b=819 n=4
+PAL b=819 n=5
+PAL b=819 n=6
+PAL b=819 n=7
+PAL b=819 n=8
+PAL b=819 n=9
+BASE b=819 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=820 n=1
+PAL b=820 n=2
+PAL b=820 n=3
+PAL b=820 n=4
+PAL b=820 n=5
+PAL b=820 n=6
+PAL b=820 n=7
+PAL b=820 n=8
+PAL b=820 n=9
+BASE b=820 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=821 n=1
+PAL b=821 n=2
+PAL b=821 n=3
+PAL b=821 n=4
+PAL b=821 n=5
+PAL b=821 n=6
+PAL b=821 n=7
+PAL b=821 n=8
+PAL b=821 n=9
+BASE b=821 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=822 n=1
+PAL b=822 n=2
+PAL b=822 n=3
+PAL b=822 n=4
+PAL b=822 n=5
+PAL b=822 n=6
+PAL b=822 n=7
+PAL b=822 n=8
+PAL b=822 n=9
+BASE b=822 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=823 n=1
+PAL b=823 n=2
+PAL b=823 n=3
+PAL b=823 n=4
+PAL b=823 n=5
+PAL b=823 n=6
+PAL b=823 n=7
+PAL b=823 n=8
+PAL b=823 n=9
+BASE b=823 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=824 n=1
+PAL b=824 n=2
+PAL b=824 n=3
+PAL b=824 n=4
+PAL b=824 n=5
+PAL b=824 n=6
+PAL b=824 n=7
+PAL b=824 n=8
+PAL b=824 n=9
+BASE b=824 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=825 n=1
+PAL b=825 n=2
+PAL b=825 n=3
+PAL b=825 n=4
+PAL b=825 n=5
+PAL b=825 n=6
+PAL b=825 n=7
+PAL b=825 n=8
+PAL b=825 n=9
+PAL b=825 n=20
+BASE b=825 nmax=1000000 found=10 stage2cands=0 j1=1 j2=5
+PAL b=826 n=1
+PAL b=826 n=2
+PAL b=826 n=3
+PAL b=826 n=4
+PAL b=826 n=5
+PAL b=826 n=6
+PAL b=826 n=7
+PAL b=826 n=8
+PAL b=826 n=9
+BASE b=826 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=827 n=1
+PAL b=827 n=2
+PAL b=827 n=3
+PAL b=827 n=4
+PAL b=827 n=5
+PAL b=827 n=6
+PAL b=827 n=7
+PAL b=827 n=8
+PAL b=827 n=9
+BASE b=827 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=828 n=1
+PAL b=828 n=2
+PAL b=828 n=3
+PAL b=828 n=4
+PAL b=828 n=5
+PAL b=828 n=6
+PAL b=828 n=7
+PAL b=828 n=8
+PAL b=828 n=9
+BASE b=828 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=829 n=1
+PAL b=829 n=2
+PAL b=829 n=3
+PAL b=829 n=4
+PAL b=829 n=5
+PAL b=829 n=6
+PAL b=829 n=7
+PAL b=829 n=8
+PAL b=829 n=9
+BASE b=829 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=830 n=1
+PAL b=830 n=2
+PAL b=830 n=3
+PAL b=830 n=4
+PAL b=830 n=5
+PAL b=830 n=6
+PAL b=830 n=7
+PAL b=830 n=8
+PAL b=830 n=9
+BASE b=830 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=831 n=1
+PAL b=831 n=2
+PAL b=831 n=3
+PAL b=831 n=4
+PAL b=831 n=5
+PAL b=831 n=6
+PAL b=831 n=7
+PAL b=831 n=8
+PAL b=831 n=9
+BASE b=831 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=832 n=1
+PAL b=832 n=2
+PAL b=832 n=3
+PAL b=832 n=4
+PAL b=832 n=5
+PAL b=832 n=6
+PAL b=832 n=7
+PAL b=832 n=8
+PAL b=832 n=9
+BASE b=832 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=833 n=1
+PAL b=833 n=2
+PAL b=833 n=3
+PAL b=833 n=4
+PAL b=833 n=5
+PAL b=833 n=6
+PAL b=833 n=7
+PAL b=833 n=8
+PAL b=833 n=9
+BASE b=833 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=834 n=1
+PAL b=834 n=2
+PAL b=834 n=3
+PAL b=834 n=4
+PAL b=834 n=5
+PAL b=834 n=6
+PAL b=834 n=7
+PAL b=834 n=8
+PAL b=834 n=9
+BASE b=834 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=835 n=1
+PAL b=835 n=2
+PAL b=835 n=3
+PAL b=835 n=4
+PAL b=835 n=5
+PAL b=835 n=6
+PAL b=835 n=7
+PAL b=835 n=8
+PAL b=835 n=9
+BASE b=835 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=836 n=1
+PAL b=836 n=2
+PAL b=836 n=3
+PAL b=836 n=4
+PAL b=836 n=5
+PAL b=836 n=6
+PAL b=836 n=7
+PAL b=836 n=8
+PAL b=836 n=9
+BASE b=836 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=837 n=1
+PAL b=837 n=2
+PAL b=837 n=3
+PAL b=837 n=4
+PAL b=837 n=5
+PAL b=837 n=6
+PAL b=837 n=7
+PAL b=837 n=8
+PAL b=837 n=9
+BASE b=837 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=838 n=1
+PAL b=838 n=2
+PAL b=838 n=3
+PAL b=838 n=4
+PAL b=838 n=5
+PAL b=838 n=6
+PAL b=838 n=7
+PAL b=838 n=8
+PAL b=838 n=9
+BASE b=838 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=839 n=1
+PAL b=839 n=2
+PAL b=839 n=3
+PAL b=839 n=4
+PAL b=839 n=5
+PAL b=839 n=6
+PAL b=839 n=7
+PAL b=839 n=8
+PAL b=839 n=9
+BASE b=839 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=840 n=1
+PAL b=840 n=2
+PAL b=840 n=3
+PAL b=840 n=4
+PAL b=840 n=5
+PAL b=840 n=6
+PAL b=840 n=7
+PAL b=840 n=8
+PAL b=840 n=9
+BASE b=840 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=841 n=1
+PAL b=841 n=2
+PAL b=841 n=3
+PAL b=841 n=4
+PAL b=841 n=5
+PAL b=841 n=6
+PAL b=841 n=7
+PAL b=841 n=8
+PAL b=841 n=9
+BASE b=841 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=842 n=1
+PAL b=842 n=2
+PAL b=842 n=3
+PAL b=842 n=4
+PAL b=842 n=5
+PAL b=842 n=6
+PAL b=842 n=7
+PAL b=842 n=8
+PAL b=842 n=9
+BASE b=842 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=843 n=1
+PAL b=843 n=2
+PAL b=843 n=3
+PAL b=843 n=4
+PAL b=843 n=5
+PAL b=843 n=6
+PAL b=843 n=7
+PAL b=843 n=8
+PAL b=843 n=9
+BASE b=843 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=844 n=1
+PAL b=844 n=2
+PAL b=844 n=3
+PAL b=844 n=4
+PAL b=844 n=5
+PAL b=844 n=6
+PAL b=844 n=7
+PAL b=844 n=8
+PAL b=844 n=9
+BASE b=844 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=845 n=1
+PAL b=845 n=2
+PAL b=845 n=3
+PAL b=845 n=4
+PAL b=845 n=5
+PAL b=845 n=6
+PAL b=845 n=7
+PAL b=845 n=8
+PAL b=845 n=9
+BASE b=845 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=846 n=1
+PAL b=846 n=2
+PAL b=846 n=3
+PAL b=846 n=4
+PAL b=846 n=5
+PAL b=846 n=6
+PAL b=846 n=7
+PAL b=846 n=8
+PAL b=846 n=9
+BASE b=846 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=847 n=1
+PAL b=847 n=2
+PAL b=847 n=3
+PAL b=847 n=4
+PAL b=847 n=5
+PAL b=847 n=6
+PAL b=847 n=7
+PAL b=847 n=8
+PAL b=847 n=9
+BASE b=847 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=848 n=1
+PAL b=848 n=2
+PAL b=848 n=3
+PAL b=848 n=4
+PAL b=848 n=5
+PAL b=848 n=6
+PAL b=848 n=7
+PAL b=848 n=8
+PAL b=848 n=9
+BASE b=848 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=849 n=1
+PAL b=849 n=2
+PAL b=849 n=3
+PAL b=849 n=4
+PAL b=849 n=5
+PAL b=849 n=6
+PAL b=849 n=7
+PAL b=849 n=8
+PAL b=849 n=9
+BASE b=849 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=850 n=1
+PAL b=850 n=2
+PAL b=850 n=3
+PAL b=850 n=4
+PAL b=850 n=5
+PAL b=850 n=6
+PAL b=850 n=7
+PAL b=850 n=8
+PAL b=850 n=9
+BASE b=850 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=851 n=1
+PAL b=851 n=2
+PAL b=851 n=3
+PAL b=851 n=4
+PAL b=851 n=5
+PAL b=851 n=6
+PAL b=851 n=7
+PAL b=851 n=8
+PAL b=851 n=9
+BASE b=851 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=852 n=1
+PAL b=852 n=2
+PAL b=852 n=3
+PAL b=852 n=4
+PAL b=852 n=5
+PAL b=852 n=6
+PAL b=852 n=7
+PAL b=852 n=8
+PAL b=852 n=9
+BASE b=852 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=853 n=1
+PAL b=853 n=2
+PAL b=853 n=3
+PAL b=853 n=4
+PAL b=853 n=5
+PAL b=853 n=6
+PAL b=853 n=7
+PAL b=853 n=8
+PAL b=853 n=9
+BASE b=853 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=854 n=1
+PAL b=854 n=2
+PAL b=854 n=3
+PAL b=854 n=4
+PAL b=854 n=5
+PAL b=854 n=6
+PAL b=854 n=7
+PAL b=854 n=8
+PAL b=854 n=9
+BASE b=854 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=855 n=1
+PAL b=855 n=2
+PAL b=855 n=3
+PAL b=855 n=4
+PAL b=855 n=5
+PAL b=855 n=6
+PAL b=855 n=7
+PAL b=855 n=8
+PAL b=855 n=9
+BASE b=855 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=856 n=1
+PAL b=856 n=2
+PAL b=856 n=3
+PAL b=856 n=4
+PAL b=856 n=5
+PAL b=856 n=6
+PAL b=856 n=7
+PAL b=856 n=8
+PAL b=856 n=9
+BASE b=856 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=857 n=1
+PAL b=857 n=2
+PAL b=857 n=3
+PAL b=857 n=4
+PAL b=857 n=5
+PAL b=857 n=6
+PAL b=857 n=7
+PAL b=857 n=8
+PAL b=857 n=9
+BASE b=857 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=858 n=1
+PAL b=858 n=2
+PAL b=858 n=3
+PAL b=858 n=4
+PAL b=858 n=5
+PAL b=858 n=6
+PAL b=858 n=7
+PAL b=858 n=8
+PAL b=858 n=9
+BASE b=858 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=859 n=1
+PAL b=859 n=2
+PAL b=859 n=3
+PAL b=859 n=4
+PAL b=859 n=5
+PAL b=859 n=6
+PAL b=859 n=7
+PAL b=859 n=8
+PAL b=859 n=9
+BASE b=859 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=860 n=1
+PAL b=860 n=2
+PAL b=860 n=3
+PAL b=860 n=4
+PAL b=860 n=5
+PAL b=860 n=6
+PAL b=860 n=7
+PAL b=860 n=8
+PAL b=860 n=9
+BASE b=860 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=861 n=1
+PAL b=861 n=2
+PAL b=861 n=3
+PAL b=861 n=4
+PAL b=861 n=5
+PAL b=861 n=6
+PAL b=861 n=7
+PAL b=861 n=8
+PAL b=861 n=9
+BASE b=861 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=862 n=1
+PAL b=862 n=2
+PAL b=862 n=3
+PAL b=862 n=4
+PAL b=862 n=5
+PAL b=862 n=6
+PAL b=862 n=7
+PAL b=862 n=8
+PAL b=862 n=9
+BASE b=862 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=863 n=1
+PAL b=863 n=2
+PAL b=863 n=3
+PAL b=863 n=4
+PAL b=863 n=5
+PAL b=863 n=6
+PAL b=863 n=7
+PAL b=863 n=8
+PAL b=863 n=9
+BASE b=863 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=864 n=1
+PAL b=864 n=2
+PAL b=864 n=3
+PAL b=864 n=4
+PAL b=864 n=5
+PAL b=864 n=6
+PAL b=864 n=7
+PAL b=864 n=8
+PAL b=864 n=9
+BASE b=864 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=865 n=1
+PAL b=865 n=2
+PAL b=865 n=3
+PAL b=865 n=4
+PAL b=865 n=5
+PAL b=865 n=6
+PAL b=865 n=7
+PAL b=865 n=8
+PAL b=865 n=9
+BASE b=865 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=866 n=1
+PAL b=866 n=2
+PAL b=866 n=3
+PAL b=866 n=4
+PAL b=866 n=5
+PAL b=866 n=6
+PAL b=866 n=7
+PAL b=866 n=8
+PAL b=866 n=9
+BASE b=866 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=867 n=1
+PAL b=867 n=2
+PAL b=867 n=3
+PAL b=867 n=4
+PAL b=867 n=5
+PAL b=867 n=6
+PAL b=867 n=7
+PAL b=867 n=8
+PAL b=867 n=9
+BASE b=867 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=868 n=1
+PAL b=868 n=2
+PAL b=868 n=3
+PAL b=868 n=4
+PAL b=868 n=5
+PAL b=868 n=6
+PAL b=868 n=7
+PAL b=868 n=8
+PAL b=868 n=9
+BASE b=868 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=869 n=1
+PAL b=869 n=2
+PAL b=869 n=3
+PAL b=869 n=4
+PAL b=869 n=5
+PAL b=869 n=6
+PAL b=869 n=7
+PAL b=869 n=8
+PAL b=869 n=9
+BASE b=869 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=870 n=1
+PAL b=870 n=2
+PAL b=870 n=3
+PAL b=870 n=4
+PAL b=870 n=5
+PAL b=870 n=6
+PAL b=870 n=7
+PAL b=870 n=8
+PAL b=870 n=9
+BASE b=870 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=871 n=1
+PAL b=871 n=2
+PAL b=871 n=3
+PAL b=871 n=4
+PAL b=871 n=5
+PAL b=871 n=6
+PAL b=871 n=7
+PAL b=871 n=8
+PAL b=871 n=9
+BASE b=871 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=872 n=1
+PAL b=872 n=2
+PAL b=872 n=3
+PAL b=872 n=4
+PAL b=872 n=5
+PAL b=872 n=6
+PAL b=872 n=7
+PAL b=872 n=8
+PAL b=872 n=9
+BASE b=872 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=873 n=1
+PAL b=873 n=2
+PAL b=873 n=3
+PAL b=873 n=4
+PAL b=873 n=5
+PAL b=873 n=6
+PAL b=873 n=7
+PAL b=873 n=8
+PAL b=873 n=9
+BASE b=873 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=874 n=1
+PAL b=874 n=2
+PAL b=874 n=3
+PAL b=874 n=4
+PAL b=874 n=5
+PAL b=874 n=6
+PAL b=874 n=7
+PAL b=874 n=8
+PAL b=874 n=9
+BASE b=874 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=875 n=1
+PAL b=875 n=2
+PAL b=875 n=3
+PAL b=875 n=4
+PAL b=875 n=5
+PAL b=875 n=6
+PAL b=875 n=7
+PAL b=875 n=8
+PAL b=875 n=9
+BASE b=875 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=876 n=1
+PAL b=876 n=2
+PAL b=876 n=3
+PAL b=876 n=4
+PAL b=876 n=5
+PAL b=876 n=6
+PAL b=876 n=7
+PAL b=876 n=8
+PAL b=876 n=9
+BASE b=876 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=877 n=1
+PAL b=877 n=2
+PAL b=877 n=3
+PAL b=877 n=4
+PAL b=877 n=5
+PAL b=877 n=6
+PAL b=877 n=7
+PAL b=877 n=8
+PAL b=877 n=9
+BASE b=877 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=878 n=1
+PAL b=878 n=2
+PAL b=878 n=3
+PAL b=878 n=4
+PAL b=878 n=5
+PAL b=878 n=6
+PAL b=878 n=7
+PAL b=878 n=8
+PAL b=878 n=9
+BASE b=878 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=879 n=1
+PAL b=879 n=2
+PAL b=879 n=3
+PAL b=879 n=4
+PAL b=879 n=5
+PAL b=879 n=6
+PAL b=879 n=7
+PAL b=879 n=8
+PAL b=879 n=9
+BASE b=879 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=880 n=1
+PAL b=880 n=2
+PAL b=880 n=3
+PAL b=880 n=4
+PAL b=880 n=5
+PAL b=880 n=6
+PAL b=880 n=7
+PAL b=880 n=8
+PAL b=880 n=9
+BASE b=880 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=881 n=1
+PAL b=881 n=2
+PAL b=881 n=3
+PAL b=881 n=4
+PAL b=881 n=5
+PAL b=881 n=6
+PAL b=881 n=7
+PAL b=881 n=8
+PAL b=881 n=9
+BASE b=881 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=882 n=1
+PAL b=882 n=2
+PAL b=882 n=3
+PAL b=882 n=4
+PAL b=882 n=5
+PAL b=882 n=6
+PAL b=882 n=7
+PAL b=882 n=8
+PAL b=882 n=9
+BASE b=882 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=883 n=1
+PAL b=883 n=2
+PAL b=883 n=3
+PAL b=883 n=4
+PAL b=883 n=5
+PAL b=883 n=6
+PAL b=883 n=7
+PAL b=883 n=8
+PAL b=883 n=9
+BASE b=883 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=884 n=1
+PAL b=884 n=2
+PAL b=884 n=3
+PAL b=884 n=4
+PAL b=884 n=5
+PAL b=884 n=6
+PAL b=884 n=7
+PAL b=884 n=8
+PAL b=884 n=9
+BASE b=884 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=885 n=1
+PAL b=885 n=2
+PAL b=885 n=3
+PAL b=885 n=4
+PAL b=885 n=5
+PAL b=885 n=6
+PAL b=885 n=7
+PAL b=885 n=8
+PAL b=885 n=9
+BASE b=885 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=886 n=1
+PAL b=886 n=2
+PAL b=886 n=3
+PAL b=886 n=4
+PAL b=886 n=5
+PAL b=886 n=6
+PAL b=886 n=7
+PAL b=886 n=8
+PAL b=886 n=9
+BASE b=886 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=887 n=1
+PAL b=887 n=2
+PAL b=887 n=3
+PAL b=887 n=4
+PAL b=887 n=5
+PAL b=887 n=6
+PAL b=887 n=7
+PAL b=887 n=8
+PAL b=887 n=9
+BASE b=887 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=888 n=1
+PAL b=888 n=2
+PAL b=888 n=3
+PAL b=888 n=4
+PAL b=888 n=5
+PAL b=888 n=6
+PAL b=888 n=7
+PAL b=888 n=8
+PAL b=888 n=9
+BASE b=888 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=889 n=1
+PAL b=889 n=2
+PAL b=889 n=3
+PAL b=889 n=4
+PAL b=889 n=5
+PAL b=889 n=6
+PAL b=889 n=7
+PAL b=889 n=8
+PAL b=889 n=9
+BASE b=889 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=890 n=1
+PAL b=890 n=2
+PAL b=890 n=3
+PAL b=890 n=4
+PAL b=890 n=5
+PAL b=890 n=6
+PAL b=890 n=7
+PAL b=890 n=8
+PAL b=890 n=9
+BASE b=890 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=891 n=1
+PAL b=891 n=2
+PAL b=891 n=3
+PAL b=891 n=4
+PAL b=891 n=5
+PAL b=891 n=6
+PAL b=891 n=7
+PAL b=891 n=8
+PAL b=891 n=9
+BASE b=891 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=892 n=1
+PAL b=892 n=2
+PAL b=892 n=3
+PAL b=892 n=4
+PAL b=892 n=5
+PAL b=892 n=6
+PAL b=892 n=7
+PAL b=892 n=8
+PAL b=892 n=9
+BASE b=892 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=893 n=1
+PAL b=893 n=2
+PAL b=893 n=3
+PAL b=893 n=4
+PAL b=893 n=5
+PAL b=893 n=6
+PAL b=893 n=7
+PAL b=893 n=8
+PAL b=893 n=9
+BASE b=893 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=894 n=1
+PAL b=894 n=2
+PAL b=894 n=3
+PAL b=894 n=4
+PAL b=894 n=5
+PAL b=894 n=6
+PAL b=894 n=7
+PAL b=894 n=8
+PAL b=894 n=9
+BASE b=894 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=895 n=1
+PAL b=895 n=2
+PAL b=895 n=3
+PAL b=895 n=4
+PAL b=895 n=5
+PAL b=895 n=6
+PAL b=895 n=7
+PAL b=895 n=8
+PAL b=895 n=9
+BASE b=895 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=896 n=1
+PAL b=896 n=2
+PAL b=896 n=3
+PAL b=896 n=4
+PAL b=896 n=5
+PAL b=896 n=6
+PAL b=896 n=7
+PAL b=896 n=8
+PAL b=896 n=9
+BASE b=896 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=897 n=1
+PAL b=897 n=2
+PAL b=897 n=3
+PAL b=897 n=4
+PAL b=897 n=5
+PAL b=897 n=6
+PAL b=897 n=7
+PAL b=897 n=8
+PAL b=897 n=9
+BASE b=897 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=898 n=1
+PAL b=898 n=2
+PAL b=898 n=3
+PAL b=898 n=4
+PAL b=898 n=5
+PAL b=898 n=6
+PAL b=898 n=7
+PAL b=898 n=8
+PAL b=898 n=9
+BASE b=898 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=899 n=1
+PAL b=899 n=2
+PAL b=899 n=3
+PAL b=899 n=4
+PAL b=899 n=5
+PAL b=899 n=6
+PAL b=899 n=7
+PAL b=899 n=8
+PAL b=899 n=9
+BASE b=899 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=900 n=1
+PAL b=900 n=2
+PAL b=900 n=3
+PAL b=900 n=4
+PAL b=900 n=5
+PAL b=900 n=6
+PAL b=900 n=7
+PAL b=900 n=8
+PAL b=900 n=9
+BASE b=900 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=901 n=1
+PAL b=901 n=2
+PAL b=901 n=3
+PAL b=901 n=4
+PAL b=901 n=5
+PAL b=901 n=6
+PAL b=901 n=7
+PAL b=901 n=8
+PAL b=901 n=9
+BASE b=901 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=902 n=1
+PAL b=902 n=2
+PAL b=902 n=3
+PAL b=902 n=4
+PAL b=902 n=5
+PAL b=902 n=6
+PAL b=902 n=7
+PAL b=902 n=8
+PAL b=902 n=9
+PAL b=902 n=21
+BASE b=902 nmax=1000000 found=10 stage2cands=0 j1=1 j2=5
+PAL b=903 n=1
+PAL b=903 n=2
+PAL b=903 n=3
+PAL b=903 n=4
+PAL b=903 n=5
+PAL b=903 n=6
+PAL b=903 n=7
+PAL b=903 n=8
+PAL b=903 n=9
+BASE b=903 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=904 n=1
+PAL b=904 n=2
+PAL b=904 n=3
+PAL b=904 n=4
+PAL b=904 n=5
+PAL b=904 n=6
+PAL b=904 n=7
+PAL b=904 n=8
+PAL b=904 n=9
+BASE b=904 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=905 n=1
+PAL b=905 n=2
+PAL b=905 n=3
+PAL b=905 n=4
+PAL b=905 n=5
+PAL b=905 n=6
+PAL b=905 n=7
+PAL b=905 n=8
+PAL b=905 n=9
+BASE b=905 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=906 n=1
+PAL b=906 n=2
+PAL b=906 n=3
+PAL b=906 n=4
+PAL b=906 n=5
+PAL b=906 n=6
+PAL b=906 n=7
+PAL b=906 n=8
+PAL b=906 n=9
+BASE b=906 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=907 n=1
+PAL b=907 n=2
+PAL b=907 n=3
+PAL b=907 n=4
+PAL b=907 n=5
+PAL b=907 n=6
+PAL b=907 n=7
+PAL b=907 n=8
+PAL b=907 n=9
+BASE b=907 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=908 n=1
+PAL b=908 n=2
+PAL b=908 n=3
+PAL b=908 n=4
+PAL b=908 n=5
+PAL b=908 n=6
+PAL b=908 n=7
+PAL b=908 n=8
+PAL b=908 n=9
+BASE b=908 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=909 n=1
+PAL b=909 n=2
+PAL b=909 n=3
+PAL b=909 n=4
+PAL b=909 n=5
+PAL b=909 n=6
+PAL b=909 n=7
+PAL b=909 n=8
+PAL b=909 n=9
+BASE b=909 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=910 n=1
+PAL b=910 n=2
+PAL b=910 n=3
+PAL b=910 n=4
+PAL b=910 n=5
+PAL b=910 n=6
+PAL b=910 n=7
+PAL b=910 n=8
+PAL b=910 n=9
+BASE b=910 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=911 n=1
+PAL b=911 n=2
+PAL b=911 n=3
+PAL b=911 n=4
+PAL b=911 n=5
+PAL b=911 n=6
+PAL b=911 n=7
+PAL b=911 n=8
+PAL b=911 n=9
+BASE b=911 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=912 n=1
+PAL b=912 n=2
+PAL b=912 n=3
+PAL b=912 n=4
+PAL b=912 n=5
+PAL b=912 n=6
+PAL b=912 n=7
+PAL b=912 n=8
+PAL b=912 n=9
+BASE b=912 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=913 n=1
+PAL b=913 n=2
+PAL b=913 n=3
+PAL b=913 n=4
+PAL b=913 n=5
+PAL b=913 n=6
+PAL b=913 n=7
+PAL b=913 n=8
+PAL b=913 n=9
+BASE b=913 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=914 n=1
+PAL b=914 n=2
+PAL b=914 n=3
+PAL b=914 n=4
+PAL b=914 n=5
+PAL b=914 n=6
+PAL b=914 n=7
+PAL b=914 n=8
+PAL b=914 n=9
+BASE b=914 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=915 n=1
+PAL b=915 n=2
+PAL b=915 n=3
+PAL b=915 n=4
+PAL b=915 n=5
+PAL b=915 n=6
+PAL b=915 n=7
+PAL b=915 n=8
+PAL b=915 n=9
+BASE b=915 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=916 n=1
+PAL b=916 n=2
+PAL b=916 n=3
+PAL b=916 n=4
+PAL b=916 n=5
+PAL b=916 n=6
+PAL b=916 n=7
+PAL b=916 n=8
+PAL b=916 n=9
+BASE b=916 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=917 n=1
+PAL b=917 n=2
+PAL b=917 n=3
+PAL b=917 n=4
+PAL b=917 n=5
+PAL b=917 n=6
+PAL b=917 n=7
+PAL b=917 n=8
+PAL b=917 n=9
+BASE b=917 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=918 n=1
+PAL b=918 n=2
+PAL b=918 n=3
+PAL b=918 n=4
+PAL b=918 n=5
+PAL b=918 n=6
+PAL b=918 n=7
+PAL b=918 n=8
+PAL b=918 n=9
+BASE b=918 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=919 n=1
+PAL b=919 n=2
+PAL b=919 n=3
+PAL b=919 n=4
+PAL b=919 n=5
+PAL b=919 n=6
+PAL b=919 n=7
+PAL b=919 n=8
+PAL b=919 n=9
+BASE b=919 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=920 n=1
+PAL b=920 n=2
+PAL b=920 n=3
+PAL b=920 n=4
+PAL b=920 n=5
+PAL b=920 n=6
+PAL b=920 n=7
+PAL b=920 n=8
+PAL b=920 n=9
+BASE b=920 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=921 n=1
+PAL b=921 n=2
+PAL b=921 n=3
+PAL b=921 n=4
+PAL b=921 n=5
+PAL b=921 n=6
+PAL b=921 n=7
+PAL b=921 n=8
+PAL b=921 n=9
+BASE b=921 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=922 n=1
+PAL b=922 n=2
+PAL b=922 n=3
+PAL b=922 n=4
+PAL b=922 n=5
+PAL b=922 n=6
+PAL b=922 n=7
+PAL b=922 n=8
+PAL b=922 n=9
+BASE b=922 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=923 n=1
+PAL b=923 n=2
+PAL b=923 n=3
+PAL b=923 n=4
+PAL b=923 n=5
+PAL b=923 n=6
+PAL b=923 n=7
+PAL b=923 n=8
+PAL b=923 n=9
+BASE b=923 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=924 n=1
+PAL b=924 n=2
+PAL b=924 n=3
+PAL b=924 n=4
+PAL b=924 n=5
+PAL b=924 n=6
+PAL b=924 n=7
+PAL b=924 n=8
+PAL b=924 n=9
+BASE b=924 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=925 n=1
+PAL b=925 n=2
+PAL b=925 n=3
+PAL b=925 n=4
+PAL b=925 n=5
+PAL b=925 n=6
+PAL b=925 n=7
+PAL b=925 n=8
+PAL b=925 n=9
+BASE b=925 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=926 n=1
+PAL b=926 n=2
+PAL b=926 n=3
+PAL b=926 n=4
+PAL b=926 n=5
+PAL b=926 n=6
+PAL b=926 n=7
+PAL b=926 n=8
+PAL b=926 n=9
+BASE b=926 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=927 n=1
+PAL b=927 n=2
+PAL b=927 n=3
+PAL b=927 n=4
+PAL b=927 n=5
+PAL b=927 n=6
+PAL b=927 n=7
+PAL b=927 n=8
+PAL b=927 n=9
+BASE b=927 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=928 n=1
+PAL b=928 n=2
+PAL b=928 n=3
+PAL b=928 n=4
+PAL b=928 n=5
+PAL b=928 n=6
+PAL b=928 n=7
+PAL b=928 n=8
+PAL b=928 n=9
+BASE b=928 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=929 n=1
+PAL b=929 n=2
+PAL b=929 n=3
+PAL b=929 n=4
+PAL b=929 n=5
+PAL b=929 n=6
+PAL b=929 n=7
+PAL b=929 n=8
+PAL b=929 n=9
+BASE b=929 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=930 n=1
+PAL b=930 n=2
+PAL b=930 n=3
+PAL b=930 n=4
+PAL b=930 n=5
+PAL b=930 n=6
+PAL b=930 n=7
+PAL b=930 n=8
+PAL b=930 n=9
+PAL b=930 n=21
+PAL b=930 n=22
+BASE b=930 nmax=1000000 found=11 stage2cands=0 j1=1 j2=5
+PAL b=931 n=1
+PAL b=931 n=2
+PAL b=931 n=3
+PAL b=931 n=4
+PAL b=931 n=5
+PAL b=931 n=6
+PAL b=931 n=7
+PAL b=931 n=8
+PAL b=931 n=9
+BASE b=931 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=932 n=1
+PAL b=932 n=2
+PAL b=932 n=3
+PAL b=932 n=4
+PAL b=932 n=5
+PAL b=932 n=6
+PAL b=932 n=7
+PAL b=932 n=8
+PAL b=932 n=9
+BASE b=932 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=933 n=1
+PAL b=933 n=2
+PAL b=933 n=3
+PAL b=933 n=4
+PAL b=933 n=5
+PAL b=933 n=6
+PAL b=933 n=7
+PAL b=933 n=8
+PAL b=933 n=9
+BASE b=933 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=934 n=1
+PAL b=934 n=2
+PAL b=934 n=3
+PAL b=934 n=4
+PAL b=934 n=5
+PAL b=934 n=6
+PAL b=934 n=7
+PAL b=934 n=8
+PAL b=934 n=9
+BASE b=934 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=935 n=1
+PAL b=935 n=2
+PAL b=935 n=3
+PAL b=935 n=4
+PAL b=935 n=5
+PAL b=935 n=6
+PAL b=935 n=7
+PAL b=935 n=8
+PAL b=935 n=9
+BASE b=935 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=936 n=1
+PAL b=936 n=2
+PAL b=936 n=3
+PAL b=936 n=4
+PAL b=936 n=5
+PAL b=936 n=6
+PAL b=936 n=7
+PAL b=936 n=8
+PAL b=936 n=9
+BASE b=936 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=937 n=1
+PAL b=937 n=2
+PAL b=937 n=3
+PAL b=937 n=4
+PAL b=937 n=5
+PAL b=937 n=6
+PAL b=937 n=7
+PAL b=937 n=8
+PAL b=937 n=9
+BASE b=937 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=938 n=1
+PAL b=938 n=2
+PAL b=938 n=3
+PAL b=938 n=4
+PAL b=938 n=5
+PAL b=938 n=6
+PAL b=938 n=7
+PAL b=938 n=8
+PAL b=938 n=9
+BASE b=938 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=939 n=1
+PAL b=939 n=2
+PAL b=939 n=3
+PAL b=939 n=4
+PAL b=939 n=5
+PAL b=939 n=6
+PAL b=939 n=7
+PAL b=939 n=8
+PAL b=939 n=9
+BASE b=939 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=940 n=1
+PAL b=940 n=2
+PAL b=940 n=3
+PAL b=940 n=4
+PAL b=940 n=5
+PAL b=940 n=6
+PAL b=940 n=7
+PAL b=940 n=8
+PAL b=940 n=9
+BASE b=940 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=941 n=1
+PAL b=941 n=2
+PAL b=941 n=3
+PAL b=941 n=4
+PAL b=941 n=5
+PAL b=941 n=6
+PAL b=941 n=7
+PAL b=941 n=8
+PAL b=941 n=9
+BASE b=941 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=942 n=1
+PAL b=942 n=2
+PAL b=942 n=3
+PAL b=942 n=4
+PAL b=942 n=5
+PAL b=942 n=6
+PAL b=942 n=7
+PAL b=942 n=8
+PAL b=942 n=9
+BASE b=942 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=943 n=1
+PAL b=943 n=2
+PAL b=943 n=3
+PAL b=943 n=4
+PAL b=943 n=5
+PAL b=943 n=6
+PAL b=943 n=7
+PAL b=943 n=8
+PAL b=943 n=9
+BASE b=943 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=944 n=1
+PAL b=944 n=2
+PAL b=944 n=3
+PAL b=944 n=4
+PAL b=944 n=5
+PAL b=944 n=6
+PAL b=944 n=7
+PAL b=944 n=8
+PAL b=944 n=9
+BASE b=944 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=945 n=1
+PAL b=945 n=2
+PAL b=945 n=3
+PAL b=945 n=4
+PAL b=945 n=5
+PAL b=945 n=6
+PAL b=945 n=7
+PAL b=945 n=8
+PAL b=945 n=9
+BASE b=945 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=946 n=1
+PAL b=946 n=2
+PAL b=946 n=3
+PAL b=946 n=4
+PAL b=946 n=5
+PAL b=946 n=6
+PAL b=946 n=7
+PAL b=946 n=8
+PAL b=946 n=9
+BASE b=946 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=947 n=1
+PAL b=947 n=2
+PAL b=947 n=3
+PAL b=947 n=4
+PAL b=947 n=5
+PAL b=947 n=6
+PAL b=947 n=7
+PAL b=947 n=8
+PAL b=947 n=9
+BASE b=947 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=948 n=1
+PAL b=948 n=2
+PAL b=948 n=3
+PAL b=948 n=4
+PAL b=948 n=5
+PAL b=948 n=6
+PAL b=948 n=7
+PAL b=948 n=8
+PAL b=948 n=9
+BASE b=948 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=949 n=1
+PAL b=949 n=2
+PAL b=949 n=3
+PAL b=949 n=4
+PAL b=949 n=5
+PAL b=949 n=6
+PAL b=949 n=7
+PAL b=949 n=8
+PAL b=949 n=9
+BASE b=949 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=950 n=1
+PAL b=950 n=2
+PAL b=950 n=3
+PAL b=950 n=4
+PAL b=950 n=5
+PAL b=950 n=6
+PAL b=950 n=7
+PAL b=950 n=8
+PAL b=950 n=9
+BASE b=950 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=951 n=1
+PAL b=951 n=2
+PAL b=951 n=3
+PAL b=951 n=4
+PAL b=951 n=5
+PAL b=951 n=6
+PAL b=951 n=7
+PAL b=951 n=8
+PAL b=951 n=9
+BASE b=951 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=952 n=1
+PAL b=952 n=2
+PAL b=952 n=3
+PAL b=952 n=4
+PAL b=952 n=5
+PAL b=952 n=6
+PAL b=952 n=7
+PAL b=952 n=8
+PAL b=952 n=9
+BASE b=952 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=953 n=1
+PAL b=953 n=2
+PAL b=953 n=3
+PAL b=953 n=4
+PAL b=953 n=5
+PAL b=953 n=6
+PAL b=953 n=7
+PAL b=953 n=8
+PAL b=953 n=9
+BASE b=953 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=954 n=1
+PAL b=954 n=2
+PAL b=954 n=3
+PAL b=954 n=4
+PAL b=954 n=5
+PAL b=954 n=6
+PAL b=954 n=7
+PAL b=954 n=8
+PAL b=954 n=9
+BASE b=954 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=955 n=1
+PAL b=955 n=2
+PAL b=955 n=3
+PAL b=955 n=4
+PAL b=955 n=5
+PAL b=955 n=6
+PAL b=955 n=7
+PAL b=955 n=8
+PAL b=955 n=9
+BASE b=955 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=956 n=1
+PAL b=956 n=2
+PAL b=956 n=3
+PAL b=956 n=4
+PAL b=956 n=5
+PAL b=956 n=6
+PAL b=956 n=7
+PAL b=956 n=8
+PAL b=956 n=9
+BASE b=956 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=957 n=1
+PAL b=957 n=2
+PAL b=957 n=3
+PAL b=957 n=4
+PAL b=957 n=5
+PAL b=957 n=6
+PAL b=957 n=7
+PAL b=957 n=8
+PAL b=957 n=9
+BASE b=957 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=958 n=1
+PAL b=958 n=2
+PAL b=958 n=3
+PAL b=958 n=4
+PAL b=958 n=5
+PAL b=958 n=6
+PAL b=958 n=7
+PAL b=958 n=8
+PAL b=958 n=9
+BASE b=958 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=959 n=1
+PAL b=959 n=2
+PAL b=959 n=3
+PAL b=959 n=4
+PAL b=959 n=5
+PAL b=959 n=6
+PAL b=959 n=7
+PAL b=959 n=8
+PAL b=959 n=9
+BASE b=959 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=960 n=1
+PAL b=960 n=2
+PAL b=960 n=3
+PAL b=960 n=4
+PAL b=960 n=5
+PAL b=960 n=6
+PAL b=960 n=7
+PAL b=960 n=8
+PAL b=960 n=9
+BASE b=960 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=961 n=1
+PAL b=961 n=2
+PAL b=961 n=3
+PAL b=961 n=4
+PAL b=961 n=5
+PAL b=961 n=6
+PAL b=961 n=7
+PAL b=961 n=8
+PAL b=961 n=9
+BASE b=961 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=962 n=1
+PAL b=962 n=2
+PAL b=962 n=3
+PAL b=962 n=4
+PAL b=962 n=5
+PAL b=962 n=6
+PAL b=962 n=7
+PAL b=962 n=8
+PAL b=962 n=9
+BASE b=962 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=963 n=1
+PAL b=963 n=2
+PAL b=963 n=3
+PAL b=963 n=4
+PAL b=963 n=5
+PAL b=963 n=6
+PAL b=963 n=7
+PAL b=963 n=8
+PAL b=963 n=9
+BASE b=963 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=964 n=1
+PAL b=964 n=2
+PAL b=964 n=3
+PAL b=964 n=4
+PAL b=964 n=5
+PAL b=964 n=6
+PAL b=964 n=7
+PAL b=964 n=8
+PAL b=964 n=9
+BASE b=964 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=965 n=1
+PAL b=965 n=2
+PAL b=965 n=3
+PAL b=965 n=4
+PAL b=965 n=5
+PAL b=965 n=6
+PAL b=965 n=7
+PAL b=965 n=8
+PAL b=965 n=9
+BASE b=965 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=966 n=1
+PAL b=966 n=2
+PAL b=966 n=3
+PAL b=966 n=4
+PAL b=966 n=5
+PAL b=966 n=6
+PAL b=966 n=7
+PAL b=966 n=8
+PAL b=966 n=9
+BASE b=966 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=967 n=1
+PAL b=967 n=2
+PAL b=967 n=3
+PAL b=967 n=4
+PAL b=967 n=5
+PAL b=967 n=6
+PAL b=967 n=7
+PAL b=967 n=8
+PAL b=967 n=9
+BASE b=967 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=968 n=1
+PAL b=968 n=2
+PAL b=968 n=3
+PAL b=968 n=4
+PAL b=968 n=5
+PAL b=968 n=6
+PAL b=968 n=7
+PAL b=968 n=8
+PAL b=968 n=9
+BASE b=968 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=969 n=1
+PAL b=969 n=2
+PAL b=969 n=3
+PAL b=969 n=4
+PAL b=969 n=5
+PAL b=969 n=6
+PAL b=969 n=7
+PAL b=969 n=8
+PAL b=969 n=9
+BASE b=969 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=970 n=1
+PAL b=970 n=2
+PAL b=970 n=3
+PAL b=970 n=4
+PAL b=970 n=5
+PAL b=970 n=6
+PAL b=970 n=7
+PAL b=970 n=8
+PAL b=970 n=9
+BASE b=970 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=971 n=1
+PAL b=971 n=2
+PAL b=971 n=3
+PAL b=971 n=4
+PAL b=971 n=5
+PAL b=971 n=6
+PAL b=971 n=7
+PAL b=971 n=8
+PAL b=971 n=9
+BASE b=971 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=972 n=1
+PAL b=972 n=2
+PAL b=972 n=3
+PAL b=972 n=4
+PAL b=972 n=5
+PAL b=972 n=6
+PAL b=972 n=7
+PAL b=972 n=8
+PAL b=972 n=9
+BASE b=972 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=973 n=1
+PAL b=973 n=2
+PAL b=973 n=3
+PAL b=973 n=4
+PAL b=973 n=5
+PAL b=973 n=6
+PAL b=973 n=7
+PAL b=973 n=8
+PAL b=973 n=9
+BASE b=973 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=974 n=1
+PAL b=974 n=2
+PAL b=974 n=3
+PAL b=974 n=4
+PAL b=974 n=5
+PAL b=974 n=6
+PAL b=974 n=7
+PAL b=974 n=8
+PAL b=974 n=9
+BASE b=974 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=975 n=1
+PAL b=975 n=2
+PAL b=975 n=3
+PAL b=975 n=4
+PAL b=975 n=5
+PAL b=975 n=6
+PAL b=975 n=7
+PAL b=975 n=8
+PAL b=975 n=9
+BASE b=975 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=976 n=1
+PAL b=976 n=2
+PAL b=976 n=3
+PAL b=976 n=4
+PAL b=976 n=5
+PAL b=976 n=6
+PAL b=976 n=7
+PAL b=976 n=8
+PAL b=976 n=9
+BASE b=976 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=977 n=1
+PAL b=977 n=2
+PAL b=977 n=3
+PAL b=977 n=4
+PAL b=977 n=5
+PAL b=977 n=6
+PAL b=977 n=7
+PAL b=977 n=8
+PAL b=977 n=9
+BASE b=977 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=978 n=1
+PAL b=978 n=2
+PAL b=978 n=3
+PAL b=978 n=4
+PAL b=978 n=5
+PAL b=978 n=6
+PAL b=978 n=7
+PAL b=978 n=8
+PAL b=978 n=9
+BASE b=978 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=979 n=1
+PAL b=979 n=2
+PAL b=979 n=3
+PAL b=979 n=4
+PAL b=979 n=5
+PAL b=979 n=6
+PAL b=979 n=7
+PAL b=979 n=8
+PAL b=979 n=9
+BASE b=979 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=980 n=1
+PAL b=980 n=2
+PAL b=980 n=3
+PAL b=980 n=4
+PAL b=980 n=5
+PAL b=980 n=6
+PAL b=980 n=7
+PAL b=980 n=8
+PAL b=980 n=9
+BASE b=980 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=981 n=1
+PAL b=981 n=2
+PAL b=981 n=3
+PAL b=981 n=4
+PAL b=981 n=5
+PAL b=981 n=6
+PAL b=981 n=7
+PAL b=981 n=8
+PAL b=981 n=9
+BASE b=981 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=982 n=1
+PAL b=982 n=2
+PAL b=982 n=3
+PAL b=982 n=4
+PAL b=982 n=5
+PAL b=982 n=6
+PAL b=982 n=7
+PAL b=982 n=8
+PAL b=982 n=9
+BASE b=982 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=983 n=1
+PAL b=983 n=2
+PAL b=983 n=3
+PAL b=983 n=4
+PAL b=983 n=5
+PAL b=983 n=6
+PAL b=983 n=7
+PAL b=983 n=8
+PAL b=983 n=9
+BASE b=983 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=984 n=1
+PAL b=984 n=2
+PAL b=984 n=3
+PAL b=984 n=4
+PAL b=984 n=5
+PAL b=984 n=6
+PAL b=984 n=7
+PAL b=984 n=8
+PAL b=984 n=9
+PAL b=984 n=23
+BASE b=984 nmax=1000000 found=10 stage2cands=0 j1=1 j2=5
+PAL b=985 n=1
+PAL b=985 n=2
+PAL b=985 n=3
+PAL b=985 n=4
+PAL b=985 n=5
+PAL b=985 n=6
+PAL b=985 n=7
+PAL b=985 n=8
+PAL b=985 n=9
+BASE b=985 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=986 n=1
+PAL b=986 n=2
+PAL b=986 n=3
+PAL b=986 n=4
+PAL b=986 n=5
+PAL b=986 n=6
+PAL b=986 n=7
+PAL b=986 n=8
+PAL b=986 n=9
+BASE b=986 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=987 n=1
+PAL b=987 n=2
+PAL b=987 n=3
+PAL b=987 n=4
+PAL b=987 n=5
+PAL b=987 n=6
+PAL b=987 n=7
+PAL b=987 n=8
+PAL b=987 n=9
+BASE b=987 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=988 n=1
+PAL b=988 n=2
+PAL b=988 n=3
+PAL b=988 n=4
+PAL b=988 n=5
+PAL b=988 n=6
+PAL b=988 n=7
+PAL b=988 n=8
+PAL b=988 n=9
+BASE b=988 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=989 n=1
+PAL b=989 n=2
+PAL b=989 n=3
+PAL b=989 n=4
+PAL b=989 n=5
+PAL b=989 n=6
+PAL b=989 n=7
+PAL b=989 n=8
+PAL b=989 n=9
+BASE b=989 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=990 n=1
+PAL b=990 n=2
+PAL b=990 n=3
+PAL b=990 n=4
+PAL b=990 n=5
+PAL b=990 n=6
+PAL b=990 n=7
+PAL b=990 n=8
+PAL b=990 n=9
+BASE b=990 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=991 n=1
+PAL b=991 n=2
+PAL b=991 n=3
+PAL b=991 n=4
+PAL b=991 n=5
+PAL b=991 n=6
+PAL b=991 n=7
+PAL b=991 n=8
+PAL b=991 n=9
+BASE b=991 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=992 n=1
+PAL b=992 n=2
+PAL b=992 n=3
+PAL b=992 n=4
+PAL b=992 n=5
+PAL b=992 n=6
+PAL b=992 n=7
+PAL b=992 n=8
+PAL b=992 n=9
+BASE b=992 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=993 n=1
+PAL b=993 n=2
+PAL b=993 n=3
+PAL b=993 n=4
+PAL b=993 n=5
+PAL b=993 n=6
+PAL b=993 n=7
+PAL b=993 n=8
+PAL b=993 n=9
+BASE b=993 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=994 n=1
+PAL b=994 n=2
+PAL b=994 n=3
+PAL b=994 n=4
+PAL b=994 n=5
+PAL b=994 n=6
+PAL b=994 n=7
+PAL b=994 n=8
+PAL b=994 n=9
+BASE b=994 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=995 n=1
+PAL b=995 n=2
+PAL b=995 n=3
+PAL b=995 n=4
+PAL b=995 n=5
+PAL b=995 n=6
+PAL b=995 n=7
+PAL b=995 n=8
+PAL b=995 n=9
+BASE b=995 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=996 n=1
+PAL b=996 n=2
+PAL b=996 n=3
+PAL b=996 n=4
+PAL b=996 n=5
+PAL b=996 n=6
+PAL b=996 n=7
+PAL b=996 n=8
+PAL b=996 n=9
+BASE b=996 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=997 n=1
+PAL b=997 n=2
+PAL b=997 n=3
+PAL b=997 n=4
+PAL b=997 n=5
+PAL b=997 n=6
+PAL b=997 n=7
+PAL b=997 n=8
+PAL b=997 n=9
+BASE b=997 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=998 n=1
+PAL b=998 n=2
+PAL b=998 n=3
+PAL b=998 n=4
+PAL b=998 n=5
+PAL b=998 n=6
+PAL b=998 n=7
+PAL b=998 n=8
+PAL b=998 n=9
+BASE b=998 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=999 n=1
+PAL b=999 n=2
+PAL b=999 n=3
+PAL b=999 n=4
+PAL b=999 n=5
+PAL b=999 n=6
+PAL b=999 n=7
+PAL b=999 n=8
+PAL b=999 n=9
+BASE b=999 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5
+PAL b=1000 n=1
+PAL b=1000 n=2
+PAL b=1000 n=3
+PAL b=1000 n=4
+PAL b=1000 n=5
+PAL b=1000 n=6
+PAL b=1000 n=7
+PAL b=1000 n=8
+PAL b=1000 n=9
+BASE b=1000 nmax=1000000 found=9 stage2cands=0 j1=1 j2=5

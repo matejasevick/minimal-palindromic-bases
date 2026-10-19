@@ -1,0 +1,5 @@
+PAL b=3 n=1
+PAL b=3 n=2
+PAL b=3 n=3
+PAL b=3 n=4
+BASE b=3 nmax=10000000000 found=4 stage2cands=0 j1=10 j2=35
